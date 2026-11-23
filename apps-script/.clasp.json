@@ -1,0 +1,24 @@
+{
+  "scriptId": "1adi3AvDHNYsO6n_u6fSy-rUn51tL9ilwpirdP62Lqux69MxDt6vwuxyQ",
+  "rootDir": "",
+  "scriptExtensions": [
+    ".js",
+    ".gs"
+  ],
+  "htmlExtensions": [
+    ".html"
+  ],
+  "jsonExtensions": [
+    ".json"
+  ],
+  "filePushOrder": [
+    "Config.js",
+    "DataPayload.js",
+    "SheetSync.js",
+    "FormBuilder.js",
+    "WebApp.js",
+    "Kode.js",
+    "WebAppUI.html"
+  ],
+  "skipSubdirectories": false
+}

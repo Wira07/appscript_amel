@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Generator Form Otomatis PRRP Sumatera TA 2026</title>
+  <style>
+    :root {
+      --bg: #f1f5f9;
+      --card: #ffffff;
+      --ink: #0f172a;
+      --muted: #475569;
+      --brand: #0f4c5c;
+      --brand-dark: #0a3642;
+      --accent: #0d9488;
+      --ok-bg: #ecfdf5;
+      --ok-border: #a7f3d0;
+      --ok-ink: #065f46;
+      --err-bg: #fef2f2;
+      --err-border: #fecaca;
+      --err-ink: #991b1b;
+      --border: #cbd5e1;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px 16px;
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.5;
+    }
+    .wrap {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid #e2e8f0;
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 10px 28px rgba(15, 23, 42, 0.06);
+      margin-bottom: 16px;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      background: #e0f2fe;
+      color: var(--brand);
+      margin-bottom: 10px;
+      letter-spacing: 0.3px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 22px;
+      color: var(--brand-dark);
+    }
+    p.sub {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+    .stat {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 12px;
+      text-align: center;
+    }
+    .stat strong {
+      display: block;
+      font-size: 20px;
+      color: var(--brand);
+    }
+    .stat span {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 14px 0;
+    }
+    button, a.btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 12px 18px;
+      border-radius: 10px;
+      border: 1px solid transparent;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s ease, opacity 0.15s ease;
+    }
+    .btn-primary {
+      background: var(--brand);
+      color: #ffffff;
+    }
+    .btn-primary:hover { background: var(--brand-dark); }
+    .btn-accent {
+      background: var(--accent);
+      color: #ffffff;
+    }
+    .btn-accent:hover { background: #0f766e; }
+    .btn-secondary {
+      background: #f1f5f9;
+      color: var(--ink);
+      border-color: var(--border);
+    }
+    .btn-secondary:hover { background: #e2e8f0; }
+    button:disabled {
+      opacity: 0.55;
+      cursor: not-allowed;
+    }
+    .progress-box {
+      display: none;
+      margin-top: 18px;
+      background: #f8fafc;
+      border: 1px solid #cbd5e1;
+      border-radius: 12px;
+      padding: 16px;
+    }
+    .progress-track {
+      width: 100%;
+      height: 14px;
+      background: #e2e8f0;
+      border-radius: 999px;
+      overflow: hidden;
+      margin: 10px 0;
+    }
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--brand), var(--accent));
+      transition: width 0.25s ease;
+    }
+    .alert {
+      display: none;
+      border-radius: 12px;
+      padding: 16px;
+      margin-top: 16px;
+      font-size: 14px;
+    }
+    .alert.ok {
+      background: var(--ok-bg);
+      border: 1px solid var(--ok-border);
+      color: var(--ok-ink);
+    }
+    .alert.err {
+      background: var(--err-bg);
+      border: 1px solid var(--err-border);
+      color: var(--err-ink);
+    }
+    .url-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+    .url-input {
+      flex: 1;
+      min-width: 240px;
+      padding: 9px 12px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-family: Consolas, monospace;
+      font-size: 12px;
+      background: #fff;
+      color: var(--ink);
+    }
+    .muted {
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="badge">PRRP SUMATERA TA 2026 • DIT. LMEA</div>
+      <h1>Generator Google Form Otomatis (Cascading)</h1>
+      <p class="sub">
+        Membuat Google Form berjenjang (<strong>Provinsi → Kab/Kota → KUB → Profil Anggota IK &amp; Spek Mesin → Penutup</strong>)
+        langsung dari dua file Excel master yang sudah direkonsiliasi 100%.
+      </p>
+
+      <div class="stats">
+        <div class="stat"><strong id="stProv">3</strong><span>Provinsi</span></div>
+        <div class="stat"><strong id="stKab">8</strong><span>Kab / Kota</span></div>
+        <div class="stat"><strong id="stKub">52</strong><span>KUB</span></div>
+        <div class="stat"><strong id="stIk">523</strong><span>Anggota IK</span></div>
+        <div class="stat"><strong id="stMesin">418</strong><span>Jenis Mesin</span></div>
+      </div>
+
+      <div class="actions">
+        <button id="btnStartNew" class="btn-primary" onclick="startNewForm('embedded')">
+          Buat Google Form Otomatis Sekarang
+        </button>
+        <button id="btnResume" class="btn-accent hidden" onclick="resumeBuild()">
+          Lanjutkan Pembuatan Form
+        </button>
+        <button id="btnCreateSheet" class="btn-secondary" onclick="createSheet()">
+          Buat Google Sheet Master
+        </button>
+        <button id="btnStartSheet" class="btn-secondary hidden" onclick="startNewForm('spreadsheet')">
+          Buat Form dari Google Sheet
+        </button>
+      </div>
+
+      <div id="progressBox" class="progress-box">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;">
+          <strong id="progressTitle">Memulai pembuatan Google Form...</strong>
+          <span id="progressPct" class="muted">0%</span>
+        </div>
+        <div class="progress-track">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+        <div id="progressDetail" class="muted">Menyiapkan Section 1, 3 Provinsi, dan 8 Kab/Kota...</div>
+      </div>
+
+      <div id="errBox" class="alert err"></div>
+
+      <div id="resultBox" class="alert ok">
+        <strong>Google Form siap digunakan!</strong>
+        <div id="resultMeta" class="muted" style="margin-top:4px;"></div>
+
+        <div class="actions" style="margin-top:14px;">
+          <a id="lnkPublished" class="btn btn-primary" href="#" target="_blank" rel="noopener">
+            Buka Google Form (Isi / Preview)
+          </a>
+          <a id="lnkEdit" class="btn btn-accent" href="#" target="_blank" rel="noopener">
+            Buka Editor Google Form
+          </a>
+          <button id="btnVerify" class="btn-secondary" onclick="runVerify()">
+            Verifikasi Struktur (65 Section)
+          </button>
+        </div>
+
+        <div class="url-row">
+          <input id="txtPublishedUrl" class="url-input" type="text" readonly onclick="this.select()">
+          <button class="btn-secondary" onclick="copyField('txtPublishedUrl')">Salin Link Form</button>
+        </div>
+        <div class="url-row">
+          <input id="txtEditUrl" class="url-input" type="text" readonly onclick="this.select()">
+          <button class="btn-secondary" onclick="copyField('txtEditUrl')">Salin Link Editor</button>
+        </div>
+
+        <div id="verifyOutput" class="muted" style="margin-top:10px;"></div>
+      </div>
+
+      <div id="sheetBox" class="alert ok">
+        <strong>Google Sheet Master tersedia</strong>
+        <div class="url-row">
+          <input id="txtSheetUrl" class="url-input" type="text" readonly onclick="this.select()">
+          <a id="lnkSheet" class="btn btn-secondary" href="#" target="_blank" rel="noopener">Buka Spreadsheet</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var BATCH_SIZE = 8;
+    var isRunning = false;
+
+    function setBusy(busy) {
+      isRunning = busy;
+      ['btnStartNew', 'btnResume', 'btnCreateSheet', 'btnStartSheet', 'btnVerify'].forEach(function (id) {
+        var el = document.getElementById(id);
+        if (el) el.disabled = busy;
+      });
+    }
+
+    function showError(err) {
+      setBusy(false);
+      var box = document.getElementById('errBox');
+      box.style.display = 'block';
+      box.textContent = 'Terjadi kesalahan: ' + (err && err.message ? err.message : String(err));
+    }
+
+    function clearError() {
+      var box = document.getElementById('errBox');
+      box.style.display = 'none';
+      box.textContent = '';
+    }
+
+    function updateProgress(pct, title, detail) {
+      var box = document.getElementById('progressBox');
+      box.style.display = 'block';
+      document.getElementById('progressFill').style.width = pct + '%';
+      document.getElementById('progressPct').textContent = pct + '%';
+      document.getElementById('progressTitle').textContent = title;
+      document.getElementById('progressDetail').textContent = detail;
+    }
+
+    function showFormResult(res) {
+      var box = document.getElementById('resultBox');
+      box.style.display = 'block';
+      document.getElementById('lnkPublished').href = res.publishedUrl || '#';
+      document.getElementById('lnkEdit').href = res.editUrl || '#';
+      document.getElementById('txtPublishedUrl').value = res.publishedUrl || '';
+      document.getElementById('txtEditUrl').value = res.editUrl || '';
+      var itemsInfo = res.totalItems ? ('Total item form: ' + res.totalItems + ' • ') : '';
+      document.getElementById('resultMeta').textContent = itemsInfo + 'Form ID: ' + (res.formId || '-');
+    }
+
+    function showSheetResult(url) {
+      if (!url) return;
+      document.getElementById('sheetBox').style.display = 'block';
+      document.getElementById('txtSheetUrl').value = url;
+      document.getElementById('lnkSheet').href = url;
+      document.getElementById('btnStartSheet').classList.remove('hidden');
+    }
+
+    function applyStatus(status) {
+      if (status && status.counts) {
+        document.getElementById('stProv').textContent = status.counts.provinsi;
+        document.getElementById('stKab').textContent = status.counts.kab_kota;
+        document.getElementById('stKub').textContent = status.counts.kub;
+        document.getElementById('stIk').textContent = status.counts.anggota_ik;
+        document.getElementById('stMesin').textContent = status.counts.mesin_unique;
+      }
+      if (status.spreadsheetUrl) {
+        showSheetResult(status.spreadsheetUrl);
+      }
+      if (status.phase === 'KUBS' || status.phase === 'FINALIZE') {
+        document.getElementById('btnResume').classList.remove('hidden');
+        var pct = Math.min(95, Math.round((status.kubCursor / Math.max(1, status.totalKubs)) * 90) + 5);
+        updateProgress(pct, 'Pembuatan Form tertunda (' + status.phase + ')',
+          'Progres tersimpan: ' + status.kubCursor + ' dari ' + status.totalKubs + ' KUB. Klik "Lanjutkan Pembuatan Form".');
+      } else {
+        document.getElementById('btnResume').classList.add('hidden');
+      }
+      if (status.hasActiveForm && status.phase === 'DONE') {
+        showFormResult(status);
+        document.getElementById('btnStartNew').textContent = 'Buat Google Form Baru Lagi';
+      }
+    }
+
+    function startNewForm(mode) {
+      if (isRunning) return;
+      clearError();
+      document.getElementById('resultBox').style.display = 'none';
+      document.getElementById('verifyOutput').textContent = '';
+      setBusy(true);
+      updateProgress(5, 'Membuat Google Form baru...', 'Membuat Form di Google Drive dan menyusun Section Provinsi & Kab/Kota...');
+
+      google.script.run
+        .withSuccessHandler(function (res) {
+          updateProgress(10, 'Menyusun 52 Section KUB...', 'Form baru dibuat (ID: ' + res.formId + '). Memulai batch KUB 0/' + res.totalKubs + '...');
+          runBatchLoop();
+        })
+        .withFailureHandler(showError)
+        .webAppStartNewBuild(mode || 'embedded');
+    }
+
+    function resumeBuild() {
+      if (isRunning) return;
+      clearError();
+      setBusy(true);
+      runBatchLoop();
+    }
+
+    function runBatchLoop() {
+      google.script.run
+        .withSuccessHandler(function (res) {
+          if (res.phase === 'KUBS') {
+            var pct = Math.min(92, 10 + Math.round((res.kubCursor / Math.max(1, res.totalKubs)) * 82));
+            updateProgress(pct, 'Membangun Section KUB (' + res.kubCursor + '/' + res.totalKubs + ')',
+              'Sedang menambahkan daftar Anggota IK, Grid Verifikasi Mesin, dan Status Instalasi/Training...');
+            runBatchLoop();
+          } else if (res.phase === 'FINALIZE') {
+            updateProgress(95, 'Menyambungkan cabang & Section Penutup...',
+              'Mengatur navigasi anti-fallthrough seluruh 52 KUB ke Section 65 (Penutup)...');
+            runBatchLoop();
+          } else if (res.phase === 'DONE') {
+            updateProgress(100, 'Selesai! Google Form berhasil dibangun.',
+              'Memverifikasi seluruh 65 section dan 52 cabang KUB...');
+            document.getElementById('btnResume').classList.add('hidden');
+            showFormResult(res);
+            runVerify();
+          }
+        })
+        .withFailureHandler(showError)
+        .webAppRunNextBatch(BATCH_SIZE);
+    }
+
+    function runVerify() {
+      setBusy(true);
+      document.getElementById('verifyOutput').textContent = 'Mengaudit struktur Form...';
+      google.script.run
+        .withSuccessHandler(function (res) {
+          setBusy(false);
+          if (res.ok) {
+            var s = res.summary;
+            document.getElementById('verifyOutput').textContent =
+              'AUDIT PASS: ' + s.totalSections + ' section, ' + s.totalItems + ' item, ' +
+              s.totalKubsVerified + '/52 KUB terverifikasi tanpa kebocoran.';
+          } else {
+            document.getElementById('verifyOutput').textContent = 'Audit gagal: ' + res.error;
+          }
+        })
+        .withFailureHandler(showError)
+        .webAppVerifyForm();
+    }
+
+    function createSheet() {
+      if (isRunning) return;
+      clearError();
+      setBusy(true);
+      google.script.run
+        .withSuccessHandler(function (res) {
+          setBusy(false);
+          showSheetResult(res.spreadsheetUrl);
+        })
+        .withFailureHandler(showError)
+        .webAppCreateMasterSheet();
+    }
+
+    function copyField(inputId) {
+      var el = document.getElementById(inputId);
+      el.select();
+      try {
+        navigator.clipboard.writeText(el.value);
+      } catch (e) {
+        document.execCommand('copy');
+      }
+    }
+
+    window.addEventListener('load', function () {
+      google.script.run
+        .withSuccessHandler(applyStatus)
+        .withFailureHandler(showError)
+        .webAppGetStatus();
+    });
+  </script>
+</body>
+</html>
