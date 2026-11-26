@@ -62,6 +62,15 @@ function createMasterSpreadsheetTemplate() {
 }
 
 /**
+ * Membuat Google Spreadsheet relasional 6 tab siap pakai untuk Google AppSheet
+ * (Mode Offline & Online Backup di HP petugas lapangan).
+ * @return {string} Spreadsheet ID AppSheet.
+ */
+function createAppSheetDatabase() {
+  return createAppSheetDatabase_();
+}
+
+/**
  * Memverifikasi integritas Google Form aktif: jumlah section (65), dropdown berjenjang,
  * cabang 52 KUB, anti-fallthrough ke KUB lain, dan validasi panjang teks.
  * @return {Object} Ringkasan hasil audit Form.

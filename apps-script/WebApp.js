@@ -34,6 +34,7 @@ function webAppGetStatus() {
     PRRP_CONFIG.SPREADSHEET_ID ||
     props.getProperty(PRRP_CONFIG.PROP_SHEET_ID_KEY) ||
     '';
+  const appSheetId = props.getProperty(PRRP_CONFIG.PROP_APPSHEET_ID_KEY) || '';
 
   let formInfo = { hasActiveForm: false, formId: '', editUrl: '', publishedUrl: '', totalItems: 0, formTitle: '' };
   if (activeFormId) {
@@ -56,6 +57,7 @@ function webAppGetStatus() {
   if (sheetId) {
     spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/' + sheetId + '/edit';
   }
+  const appSheetUrl = appSheetId ? ('https://docs.google.com/spreadsheets/d/' + appSheetId + '/edit') : '';
 
   const totalKubs = flattenKubs_(PRRP_MASTER_DATA).length;
   return {
@@ -71,6 +73,8 @@ function webAppGetStatus() {
     formTitle: formInfo.formTitle,
     spreadsheetId: sheetId,
     spreadsheetUrl: spreadsheetUrl,
+    appSheetId: appSheetId,
+    appSheetUrl: appSheetUrl,
     completedAt: state && state.completedAt ? state.completedAt : '',
     counts: PRRP_MASTER_DATA.metadata.counts
   };
@@ -221,6 +225,19 @@ function webAppVerifyForm() {
  */
 function webAppCreateMasterSheet() {
   const ssId = createMasterSpreadsheetTemplate();
+  return {
+    ok: true,
+    spreadsheetId: ssId,
+    spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/' + ssId + '/edit'
+  };
+}
+
+/**
+ * Membuat Google Spreadsheet relasional 6 tab siap pakai untuk Google AppSheet (Offline/Online).
+ * @return {Object}
+ */
+function webAppCreateAppSheetDb() {
+  const ssId = createAppSheetDatabase();
   return {
     ok: true,
     spreadsheetId: ssId,

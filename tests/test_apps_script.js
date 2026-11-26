@@ -643,10 +643,37 @@ function runWebAppEndToEndTest() {
   console.log(`PASS [WebApp End-to-End]: doGet + ${batches} live batches + verify + action=open redirect all pass.`);
 }
 
+function runAppSheetDatabaseTest() {
+  const env = createGasMockEnv();
+  const { sandbox, getConst, sheetsDb, propsStore } = env;
+  const PRRP_CONFIG = getConst('PRRP_CONFIG');
+
+  const ssId = sandbox.createAppSheetDatabase();
+  assert(ssId && sheetsDb[ssId], 'AppSheet database spreadsheet was not created');
+  assert.strictEqual(propsStore[PRRP_CONFIG.PROP_APPSHEET_ID_KEY], ssId);
+
+  const ss = sheetsDb[ssId];
+  assert.strictEqual(ss.getSheetByName('Master_Wilayah').getDataRange().getDisplayValues().length, 9);
+  assert.strictEqual(ss.getSheetByName('Master_KUB').getDataRange().getDisplayValues().length, 53);
+  assert.strictEqual(ss.getSheetByName('Master_Anggota_IK').getDataRange().getDisplayValues().length, 524);
+  assert.strictEqual(ss.getSheetByName('Master_Mesin').getDataRange().getDisplayValues().length, 419);
+  assert.strictEqual(ss.getSheetByName('Form_Monitoring_KUB').getDataRange().getDisplayValues().length, 1);
+  assert.strictEqual(ss.getSheetByName('Form_Verifikasi_Mesin').getDataRange().getDisplayValues().length, 1);
+
+  const webRes = sandbox.webAppCreateAppSheetDb();
+  assert.strictEqual(webRes.ok, true);
+  assert(webRes.spreadsheetUrl.includes(webRes.spreadsheetId), 'Invalid AppSheet URL from WebApp');
+  const statusAfter = sandbox.webAppGetStatus();
+  assert.strictEqual(statusAfter.appSheetId, webRes.spreadsheetId);
+  assert.strictEqual(statusAfter.appSheetUrl, webRes.spreadsheetUrl);
+  console.log('PASS [AppSheet 6-Tab DB]: Verified Master_Wilayah(8), Master_KUB(52), Master_Anggota_IK(523), Master_Mesin(418), and 2 form sheets.');
+}
+
 checkSyntax();
 runEmbeddedAndVerificationTests();
 runBuildNewFormTest();
 runResumableBatchingTest();
 runHybridSheetSyncRoundTripTest();
 runWebAppEndToEndTest();
+runAppSheetDatabaseTest();
 console.log('\nALL TESTS PASSED!');

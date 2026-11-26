@@ -217,6 +217,9 @@
         <button id="btnCreateSheet" class="btn-secondary" onclick="createSheet()">
           Buat Google Sheet Master
         </button>
+        <button id="btnCreateAppSheet" class="btn-secondary" onclick="createAppSheetDb()">
+          Buat Database AppSheet (6 Tab Offline/Online)
+        </button>
         <button id="btnStartSheet" class="btn-secondary hidden" onclick="startNewForm('spreadsheet')">
           Buat Form dari Google Sheet
         </button>
@@ -270,6 +273,15 @@
           <a id="lnkSheet" class="btn btn-secondary" href="#" target="_blank" rel="noopener">Buka Spreadsheet</a>
         </div>
       </div>
+
+      <div id="appSheetBox" class="alert ok">
+        <strong>Database AppSheet (6 Tab Offline &amp; Online Backup) siap!</strong>
+        <div class="muted" style="margin-top:4px;">Buka Spreadsheet di bawah, lalu klik menu <strong>Ekstensi → AppSheet → Buat aplikasi</strong>.</div>
+        <div class="url-row">
+          <input id="txtAppSheetUrl" class="url-input" type="text" readonly onclick="this.select()">
+          <a id="lnkAppSheet" class="btn btn-accent" href="#" target="_blank" rel="noopener">Buka Database AppSheet</a>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -279,7 +291,7 @@
 
     function setBusy(busy) {
       isRunning = busy;
-      ['btnStartNew', 'btnResume', 'btnCreateSheet', 'btnStartSheet', 'btnVerify'].forEach(function (id) {
+      ['btnStartNew', 'btnResume', 'btnCreateSheet', 'btnCreateAppSheet', 'btnStartSheet', 'btnVerify'].forEach(function (id) {
         var el = document.getElementById(id);
         if (el) el.disabled = busy;
       });
@@ -326,6 +338,13 @@
       document.getElementById('btnStartSheet').classList.remove('hidden');
     }
 
+    function showAppSheetResult(url) {
+      if (!url) return;
+      document.getElementById('appSheetBox').style.display = 'block';
+      document.getElementById('txtAppSheetUrl').value = url;
+      document.getElementById('lnkAppSheet').href = url;
+    }
+
     function applyStatus(status) {
       if (status && status.counts) {
         document.getElementById('stProv').textContent = status.counts.provinsi;
@@ -336,6 +355,9 @@
       }
       if (status.spreadsheetUrl) {
         showSheetResult(status.spreadsheetUrl);
+      }
+      if (status.appSheetUrl) {
+        showAppSheetResult(status.appSheetUrl);
       }
       if (status.phase === 'KUBS' || status.phase === 'FINALIZE') {
         document.getElementById('btnResume').classList.remove('hidden');
@@ -429,6 +451,19 @@
         })
         .withFailureHandler(showError)
         .webAppCreateMasterSheet();
+    }
+
+    function createAppSheetDb() {
+      if (isRunning) return;
+      clearError();
+      setBusy(true);
+      google.script.run
+        .withSuccessHandler(function (res) {
+          setBusy(false);
+          showAppSheetResult(res.spreadsheetUrl);
+        })
+        .withFailureHandler(showError)
+        .webAppCreateAppSheetDb();
     }
 
     function copyField(inputId) {

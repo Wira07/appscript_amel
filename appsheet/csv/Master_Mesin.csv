@@ -1,0 +1,2290 @@
+﻿Mesin_ID,KUB_ID,Provinsi,Kab_Kota,Nama_KUB,No,Nama_Mesin,Merk_Tipe,Spesifikasi,Jenis_Mesin,Tipe_Mesin,Sumber_Energi,Perlu_Instalasi,Perlu_Training,Volume_Target,Satuan,Raw_Row_Count,Label_Mesin
+aceh_singkil__surya_terali__m_01,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,1,Gerinda Tangan,Bosch,"Daya :710 W
+Kecepatan tanpa Beban : 12.000 rpm
+Ukuran Spindel : M 10
+Diameter Batu Gerinda : 100 mm
+Diameter Rubber Pad : 100 mm
+Diameter Sikat Mangkok : 70 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,10,Unit,1,1. Gerinda Tangan (Bosch) [10 Unit]
+aceh_singkil__surya_terali__m_02,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,2,Mesin Las Listrik,Lakoni,"Daya 900 watt
+Output 10-120 ampere
+Diameter Kawat Las 2.0 - 4 mm
+Ukuran Socket 25mm
+Pendingin: Kipas
+Duty Cyrcle 60% (Pada 120A) 100% (Pada 100A)",Impor,Barang Jadi,Listrik,Tidak,Tidak,10,Unit,1,2. Mesin Las Listrik (Lakoni) [10 Unit]
+aceh_singkil__surya_terali__m_03,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,3,Bor Tangan,Makita,"Daya listrik : 710 watt
+kapasitas mata bor beton : 16 mm
+kapasitas mata bor besi : 13 mm
+kapasitas mata bor kayu : 30 mm
+kecepatan pukulan : 0 - 48.000 Rpm
+kecepatan tanpa beban : 0 - 3.200 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,10,Unit,1,3. Bor Tangan (Makita) [10 Unit]
+aceh_singkil__surya_terali__m_04,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,4,Bor Duduk,Ryu,"• Daya Listrik: 550 Watt
+• Kapasitas Bor Besi: 16 mm
+• Kecepatan Tanpa Beban: 220 - 3320 RPM
+• Diameter Meja: 290 mm
+• Tinggi Total: 980 mm",Impor,Barang Jadi,Listrik,Ya,Tidak,10,Unit,1,4. Bor Duduk (Ryu) [10 Unit]
+aceh_singkil__surya_terali__m_05,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,5,Helm Kedok Las,Stahlwerk,"Material komposit ringan dan kuat
+Tingkat Kegelapan (Shade Level): Dapat diatur dari DIN 9 hingga DIN 13
+Perlindungan UV/IR.
+Kontrol Sensor : Sensitivity Adjustment dan Delay Time Adjustment
+Dual Mode : Grinding dan Welding",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,10,Buah,1,5. Helm Kedok Las (Stahlwerk) [10 Buah]
+aceh_singkil__surya_terali__m_06,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,6,Kacamata Las,Enka,"Ukuran : 145.4x53x30 mm
+Ukuran kaca : 51x33 mm
+Light shade : DIN3
+Dark shade : DIN11
+Shade adjustment : Fixed
+Switching time :
+Sensitive adjustment : Fixed
+Delay time : 0.1s-0.3s
+Power supply : Fixed Lithium battery+Solar cell
+Kapasitas Battery : 60mAh
+Temperatur kerja : -5°C-55°C
+Sensor : 1 pcs
+Material : PC/ABS
+UV/IR protection class : DIN16",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,10,Buah,1,6. Kacamata Las (Enka) [10 Buah]
+aceh_singkil__surya_terali__m_07,aceh_singkil__surya_terali,Aceh,Aceh Singkil,KUB Surya Terali — Bengkel Las,7,Sarung Tangan Las,Safeguard,"Material Kulit
+Warna merah
+Bahan kulit sapi berkualitas
+Bertekstur kasar",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,10,Buah,1,7. Sarung Tangan Las (Safeguard) [10 Buah]
+aceh_singkil__bakeri_taboh__m_01,aceh_singkil__bakeri_taboh,Aceh,Aceh Singkil,KUB Bakeri Taboh — Roti & Kue,1,Oven Gas,Rekayasa,"Ukuran 90 x 55 x 70 cm
+Bahan Stainles
+Pengapian Normal
+Terdapat 2 Pipa Gas Atas Dan Bawah
+2 dek & 2 rak
+2 Pintu Dinding Oven Sudah Dilapisi Peredam Panas
+Dilengkapi termometer",TKDN,Barang Jadi,Gas (LPG),Ya,Tidak,23,Unit,1,1. Oven Gas (Rekayasa) [23 Unit]
+aceh_singkil__bakeri_taboh__m_02,aceh_singkil__bakeri_taboh,Aceh,Aceh Singkil,KUB Bakeri Taboh — Roti & Kue,2,Mixer Adonan Roti,Fomac,"Daya listrik : 450 Watt
+Voltase 220 V
+Frekuensi : 50/60 Hz
+Volume 10 Liter
+Kapasitas Maks.Tepung 1,75 Kg
+(Adonan Padat 2,5 Kg)**
+Kecepatan Putaran : 110 / 178 / 390 rpm",Impor,Barang Jadi,Listrik,Ya,Tidak,23,Unit,1,2. Mixer Adonan Roti (Fomac) [23 Unit]
+aceh_singkil__bakeri_taboh__m_03,aceh_singkil__bakeri_taboh,Aceh,Aceh Singkil,KUB Bakeri Taboh — Roti & Kue,3,Timbangan Digital,Joil,"Sumber daya: 2 × baterai AAA (tidak termasuk)
+Akurasi: hingga 0,1 gram
+Kapasitas maksimal: 3000 gram
+Termasuk wadah plastik bening
+Fitur mati otomatis jika tidak digunakan
+Fungsi Tare untuk mengatur ulang ke nol (bisa digunakan dengan semua jenis wadah)
+Satuan ukur: g, oz, ct, dwt, ozt, gn",Impor,Barang Jadi,Listrik (Baterai),Tidak,Tidak,23,Unit,1,3. Timbangan Digital (Joil) [23 Unit]
+aceh_singkil__budidaya_madu_trigona__m_01,aceh_singkil__budidaya_madu_trigona,Aceh,Aceh Singkil,KUB Budidaya Madu Trigona — Olahan Madu,1,Alat Sedot Madu,Rekayasa,"1 Unit Pompa Vakum Hisap Elektrik
+1 Unit Botol Penampung Kapasitas 2 Liter beserta Tutup Operasional
+1 Set Penjepit Sakelar Konektor Baterai / Aki
+2 Unit Selang Fleksibel (Masing-masing Panjang 1 Meter)",PDN,TTG,Listrik (Accu),Tidak,Ya,16,Unit,1,1. Alat Sedot Madu (Rekayasa) [16 Unit]
+aceh_singkil__budidaya_madu_trigona__m_02,aceh_singkil__budidaya_madu_trigona,Aceh,Aceh Singkil,KUB Budidaya Madu Trigona — Olahan Madu,2,Sarang Lebah,Rekayasa,"Terbuat dari papan kayu ukuran minimal 30 cm x 25 cm x 9 cm, penutup kotak terbuat dari papan kayu dan dilapisi karet plastic, kayu log berdiamiter min 20 cm dan tinggi 50 - 70 cm, plastik penutup kotak dari bahan mika.",PDN,TTG,Listrik,Tidak,Ya,64,Unit,1,2. Sarang Lebah (Rekayasa) [64 Unit]
+aceh_singkil__budidaya_madu_trigona__m_03,aceh_singkil__budidaya_madu_trigona,Aceh,Aceh Singkil,KUB Budidaya Madu Trigona — Olahan Madu,3,Baju Pelindung Anti Lebah,Endlessafe,"Bahan: Katun alami, dan dilengkapi dengan syal dan tudung kepala yang mudah dilepas
+Pelindung Wajah: Jaring (veil) menyatu dengan penutup kepala
+Penutup: Resleting tersembunyi, karet elastis pada pinggang dan pergelangan kaki
+Desain Unisex (pria dan wanita bisa memakai)
+Pakaian mudah dibawa dan tahan gigitan, menjaga pakaian dalam Anda tetap bersih",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,16,Unit,1,3. Baju Pelindung Anti Lebah (Endlessafe) [16 Unit]
+aceh_singkil__taylor_mende__m_01,aceh_singkil__taylor_mende,Aceh,Aceh Singkil,KUB Taylor Mende — Konveksi/Jahit Pakaian,1,Mesin Jahit,Juki,"Menggunakan Meja & Kaki Mesin Jahit
+Jarum 1, menjahit lurus
+Kecepatan mesin dapat diatur
+Kecepatan 4500 S.P.M.
+Ketebalan bahan max 10 mm
+Jarak / panjang jahitan hingga 5.0 mm
+Pengangkat sepatu max 7.0 mm (tangan) - 13.0 mm (lutut)
+Kelengkapan produk:
+- 1 unit mesin
+- 1 unit dinamo industri 250 watt / dinamo Servo
+- 1unit meja mesin jahit Grade A
+- 1unit kaki Mesin jahit industri (Kuliatas impor model T/I)
+- 1set tool kit (Tiang Benang, Oli, Spool, Jarum, Obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,30,Set,1,1. Mesin Jahit (Juki) [30 Set]
+aceh_singkil__taylor_mende__m_02,aceh_singkil__taylor_mende,Aceh,Aceh Singkil,KUB Taylor Mende — Konveksi/Jahit Pakaian,2,Mesin Obras Benang 3,Singer,"Dapat dirubah menjadi jahitan tepi (neci)
+kecepatan : 2000 s.p.m
+1 Mesin Obras 3 Benang
+1x In-Built Dinamo 150 Watt
+Tool Kit Obras (Tiang Benang, Pinset, Jarum)
+Tool Kit Dinamo (Tali Dinamo, Baut Dinamo)
+Kedudukan dinamo",Impor,Barang Jadi,Listrik,Tidak,Ya,30,Set,1,2. Mesin Obras Benang 3 (Singer) [30 Set]
+aceh_singkil__taylor_mende__m_03,aceh_singkil__taylor_mende,Aceh,Aceh Singkil,KUB Taylor Mende — Konveksi/Jahit Pakaian,3,Setrika Listrik,Philips,"Daya : 350 watt
+Lapisan Keramik Anti Lengket
+Stainless Steel
+Panjang kabel : 1,7 Meter
+Terdapat Indikator dan Pengatur Suhu",TKDN,Barang Jadi,Listrik,Tidak,Tidak,30,Unit,1,3. Setrika Listrik (Philips) [30 Unit]
+aceh_singkil__jajanan_pangan__m_01,aceh_singkil__jajanan_pangan,Aceh,Aceh Singkil,KUB Jajanan Pangan — Makanan Ringan,1,Wajan Alumunium No. 28,Generic,"Anti Karat
+Bahan Aluminium Premium
+Diameter 60 Cm",TKDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,30,Unit,1,1. Wajan Alumunium No. 28 (Generic) [30 Unit]
+aceh_singkil__jajanan_pangan__m_02,aceh_singkil__jajanan_pangan,Aceh,Aceh Singkil,KUB Jajanan Pangan — Makanan Ringan,2,Dandang,Generic,"Ukuran: 55 Inch
+Bahan Aluminium
+Warna Silver
+Bahan aluminium food grade
+Anti karat & mudah dibersihkan",TKDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,30,Unit,1,2. Dandang (Generic) [30 Unit]
+aceh_singkil__jajanan_pangan__m_03,aceh_singkil__jajanan_pangan,Aceh,Aceh Singkil,KUB Jajanan Pangan — Makanan Ringan,3,Hand Sealer Manual,Getra,"Daya : 400 W
+Material : Plastic Body
+Voltase : 220V/1P/50 Hz
+Bahan Plastik : Plastik PP dan PE Seal
+Panjang seal : 30 Cm
+Tebal 0,15 Cm",Impor,Barang Jadi,Listrik,Tidak,Tidak,30,Unit,1,3. Hand Sealer Manual (Getra) [30 Unit]
+aceh_singkil__jajanan_pangan__m_04,aceh_singkil__jajanan_pangan,Aceh,Aceh Singkil,KUB Jajanan Pangan — Makanan Ringan,4,Kompor Gas,Rinnai,"Bahan stainless steel
+Jumlah tungku : 1
+Dimensi : 62x 39x 18 cm
+Regulator gas : Low pressure
+Double Ring Burner",TKDN,Barang Jadi,Gas (LPG),Tidak,Tidak,30,Unit,1,4. Kompor Gas (Rinnai) [30 Unit]
+aceh_singkil__jajanan_pangan__m_05,aceh_singkil__jajanan_pangan,Aceh,Aceh Singkil,KUB Jajanan Pangan — Makanan Ringan,5,Selang dan Regulator,Winn Gas,"Selang 2 meter
+Klem 2 pcs
+Regulator LPG tekanan tinggi,
+Dilengkapi dengan meteran / jarum penunjuk pemakaian gas",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,30,Unit,1,5. Selang dan Regulator (Winn Gas) [30 Unit]
+kota_subulussalam__berkah_jaya_taylor__m_01,kota_subulussalam__berkah_jaya_taylor,Aceh,Kota Subulussalam,KUB Berkah Jaya Taylor — Konveksi/Jahit Pakaian,1,Mesin Jahit 1 jarum otomatis,Juki,"Menggunakan Meja & Kaki Mesin Jahit
+Jarum 1, menjahit lurus
+Kecepatan mesin dapat diatur
+Kecepatan 4500 S.P.M.
+Ketebalan bahan max 10 mm
+Jarak / panjang jahitan hingga 5.0 mm
+Pengangkat sepatu max 7.0 mm (tangan) - 13.0 mm (lutut)
+Kelengkapan produk:
+- 1 unit mesin
+- 1 unit dinamo industri 250 watt / dinamo Servo
+- 1unit meja mesin jahit Grade A
+- 1unit kaki Mesin jahit industri (Kuliatas impor model T/I)
+- 1set tool kit (Tiang Benang, Oli, Spool, Jarum, Obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,8,Set,1,1. Mesin Jahit 1 jarum otomatis (Juki) [8 Set]
+kota_subulussalam__berkah_jaya_taylor__m_02,kota_subulussalam__berkah_jaya_taylor,Aceh,Kota Subulussalam,KUB Berkah Jaya Taylor — Konveksi/Jahit Pakaian,2,Mesin Jahit 1 jarum tradisional,Butterfly,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+4. 1 unit Dinamo 120 Watt
+5. 1 set Meja Laci
+6. 1 set Kaki Genjot
+7. 1 Tool Kit Standard",Impor,Barang Jadi,Listrik,Ya,Tidak,8,Set,1,2. Mesin Jahit 1 jarum tradisional (Butterfly) [8 Set]
+kota_subulussalam__berkah_jaya_taylor__m_03,kota_subulussalam__berkah_jaya_taylor,Aceh,Kota Subulussalam,KUB Berkah Jaya Taylor — Konveksi/Jahit Pakaian,3,"Gunting Kain 10""",Butterfly,"Ukuran: 10 Inch
+Material: Stainless Steel
+Lapisan: Hitam Anti Karat",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,8,Buah,1,"3. Gunting Kain 10"" (Butterfly) [8 Buah]"
+kota_subulussalam__berkah_jaya_taylor__m_04,kota_subulussalam__berkah_jaya_taylor,Aceh,Kota Subulussalam,KUB Berkah Jaya Taylor — Konveksi/Jahit Pakaian,4,Set Penggaris Pola,Polaris,"Untuk mengukur dan membuat pola jahit
+Bahan plastik
+Kelengkapan :
+• Penggaris siku segitiga
+• Penggaris siku lengkung
+• Penggaris siku L
+• Penggaris lengkung pinggul dan lingkar rok/celana.
+• Penggaris bentuk kerung lengan/leher
+• Penggaris lurus",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,8,Set,1,4. Set Penggaris Pola (Polaris) [8 Set]
+kota_subulussalam__berkah_jaya_taylor__m_05,kota_subulussalam__berkah_jaya_taylor,Aceh,Kota Subulussalam,KUB Berkah Jaya Taylor — Konveksi/Jahit Pakaian,5,Mesin Obras Benang 3,Singer,"Spesifikasi :
+- Obras benang 3
+- Dapat dirubah menjadi jahitan tepi (neci)
+- kecepatan : 2000 s.p.m
+- 1 Mesin Obras 3 Benang
+- 1x In-Built Dinamo 150 Watt
+- Tool Kit Obras (Tiang Benang, Pinset, Jarum)
+- Tool Kit Dinamo (Tali Dinamo, Baut Dinamo)
+- kedudukan dinamo",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Ya,8,Set,1,5. Mesin Obras Benang 3 (Singer) [8 Set]
+kota_subulussalam__suka_maju_bersama__m_01,kota_subulussalam__suka_maju_bersama,Aceh,Kota Subulussalam,KUB Suka Maju Bersama — Bengkel Sepeda Motor,1,Kompresor 1/2 HP,Shark,"Daya : 1/2 HP
+Working Pressure (Bar) : 7 BAR
+Jumlah Silinder : 2
+Tipe Kompresor : Belt Driven
+Oilless : Tidak
+Posisi Tanki : Horizontal
+Air Delivery Compressor : 128 L/Min
+Vol. Tabung : 58 L
+dilengkapi dengan Mesin penggerak : 5.5 HP
+Start Mesin : Recoil
+Bahan Bakar : Bensin
+Kapasitas Tanki : 3.6 Liter
+Kelengkapan :
+1 bh inflator tekiro 3 in 1
+1 bh air duster tekiro
+1 bh selang recoil tekiro 6 meter
+1 bh cuk coupler SF20
+1 bh cuk coupler PF20",TKDN,Barang Jadi,Bensin,Ya,Tidak,7,Set,1,1. Kompresor 1/2 HP (Shark) [7 Set]
+kota_subulussalam__suka_maju_bersama__m_02,kota_subulussalam__suka_maju_bersama,Aceh,Kota Subulussalam,KUB Suka Maju Bersama — Bengkel Sepeda Motor,2,Set Kunci Bengkel 120 pcs,Tekiro,"Isi Paket:
+1/2"" DR. Socket (11 pcs) : 20 mm, 21 mm, 22 mm, 24 mm, 27 mm, 30 mm, 32 mm, 15/16"", 1-1/16"", 1-1/8"", 1-1/4""
+1/4"" DR. Socket (20 pcs) : 4 mm, 5 mm, 6 mm, 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm
+5/32"", 3/16"", 7/32"", 1/4"", 9/32"", 5/16"", 11/32"", 3/8"", 7/16"", 1/2""
+3/8"" DR. Socket (20 pcs) : 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm, 15 mm, 16 mm, 17 mm, 18 mm
+3/8"", 7/16"", 1/2"", 9/16"", 5/8"", 11/16"", 3/4"", 13/16"", 7/8""
+Combination Wrench (10 pcs) : 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm, 17 mm, 18 mm, 19 mm
+1/2"" DR. Impact Socket (4 pcs) : 17 mm, 19 mm, 21 mm, 23 mm
+1/2"" DR. Deep Wall Socket (4 pcs) : 9 mm, 10 mm, 11 mm, 12 mm
+3/8"" DR. Deep Wall Socket (4 pcs) : 13 mm, 14 mm, 15 mm, 17 mm
+3/8"" Star Socket (8 pcs) : E6, E10, E11, E12, E14, E16, E18, E20
+Universal Joint (3 pcs) : 1/4"", 3/8"", 1/2""
+3/8"" DR. Spark Plug Socket (2 pcs) : 16 mm, 21 mm
+1/2"" DR. Extension Bar (2 pcs) : 5"" (10""), 3"" (6"")
+1/4"" DR. Extension Bar (1 pcs) : 2""
+Aksesori Lainnya:
+3/8"" DR. Spinner Handle
+1/4"" DR. Hex Adaptor
+1/2"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle, panjang 10""
+1/4"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle, panjang 5.5""
+3/8"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle
+3/8"" DR. Single Head Bits Hexagon (4 pcs) : 50 mm (H4, H5, H6)
+Magnetic Bit (1 pcs)
+3/8"" DR. Single Head Bits Torque (7 pcs) : T30, T40, T45, T50, T55, T60
+3/8"" DR. Single Head Bits PZ (2 pcs) : PZ1, PZ2
+3/8"" DR. Single Head Bits Phillips (2 pcs) : PH1, PH2
+3/8"" DR. Single Head Bits Slotted (2 pcs) : SL5, SL6.5",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,7,Set,1,2. Set Kunci Bengkel 120 pcs (Tekiro) [7 Set]
+kota_subulussalam__suka_maju_bersama__m_03,kota_subulussalam__suka_maju_bersama,Aceh,Kota Subulussalam,KUB Suka Maju Bersama — Bengkel Sepeda Motor,3,Mesin Las Listrik,Lakoni,"Daya 900 watt
+Output 10-120 ampere
+Diameter Kawat Las 2.0 - 4 mm
+Ukuran Socket 25mm
+Pendingin: Kipas
+Duty Cyrcle 60% (Pada 120A) 100% (Pada 100A)",Impor,Barang Jadi,Listrik,Tidak,Tidak,7,Unit,1,3. Mesin Las Listrik (Lakoni) [7 Unit]
+kota_subulussalam__suka_maju_bersama__m_04,kota_subulussalam__suka_maju_bersama,Aceh,Kota Subulussalam,KUB Suka Maju Bersama — Bengkel Sepeda Motor,4,"Impact Wrench 1/2""",Tekiro,"Voltage : 20V
+Impact Rate : 3.300 BPM
+Max. Torque : 600 Nm
+No-load Speed : 2.300 RPM
+Size : 1/2”
+Battery Pack : 2 pcs x 4.0 Ah
+Include Mata Sock 2 Pcs = 19 mm Dan 21 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,7,Set,1,"4. Impact Wrench 1/2"" (Tekiro) [7 Set]"
+kota_subulussalam__karya_otomotif_muara_batu_batu__m_01,kota_subulussalam__karya_otomotif_muara_batu_batu,Aceh,Kota Subulussalam,KUB Karya Otomotif Muara Batu-Batu — Bengkel Sepeda Motor,1,Kompresor 1/2 HP,Shark,"Daya : 1/2 HP
+Working Pressure (Bar) : 7 BAR
+Jumlah Silinder : 2
+Tipe Kompresor : Belt Driven
+Oilless : Tidak
+Posisi Tanki : Horizontal
+Air Delivery Compressor : 128 L/Min
+Vol. Tabung : 58 L
+dilengkapi dengan Mesin penggerak : 5.5 HP
+Start Mesin : Recoil
+Bahan Bakar : Bensin
+Kapasitas Tanki : 3.6 Liter
+Kelengkapan :
+1 bh inflator tekiro 3 in 1
+1 bh air duster tekiro
+1 bh selang recoil tekiro 6 meter
+1 bh cuk coupler SF20
+1 bh cuk coupler PF20",TKDN,Barang Jadi,Bensin,Ya,Tidak,4,Set,1,1. Kompresor 1/2 HP (Shark) [4 Set]
+kota_subulussalam__karya_otomotif_muara_batu_batu__m_02,kota_subulussalam__karya_otomotif_muara_batu_batu,Aceh,Kota Subulussalam,KUB Karya Otomotif Muara Batu-Batu — Bengkel Sepeda Motor,2,Set Kunci Bengkel 120 pcs,Tekiro,"Isi Paket:
+1/2"" DR. Socket (11 pcs) : 20 mm, 21 mm, 22 mm, 24 mm, 27 mm, 30 mm, 32 mm, 15/16"", 1-1/16"", 1-1/8"", 1-1/4""
+1/4"" DR. Socket (20 pcs) : 4 mm, 5 mm, 6 mm, 7 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm
+5/32"", 3/16"", 7/32"", 1/4"", 9/32"", 5/16"", 11/32"", 3/8"", 7/16"", 1/2""
+3/8"" DR. Socket (20 pcs) : 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm, 15 mm, 16 mm, 17 mm, 18 mm
+3/8"", 7/16"", 1/2"", 9/16"", 5/8"", 11/16"", 3/4"", 13/16"", 7/8""
+Combination Wrench (10 pcs) : 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm, 17 mm, 18 mm, 19 mm
+1/2"" DR. Impact Socket (4 pcs) : 17 mm, 19 mm, 21 mm, 23 mm
+1/2"" DR. Deep Wall Socket (4 pcs) : 9 mm, 10 mm, 11 mm, 12 mm
+3/8"" DR. Deep Wall Socket (4 pcs) : 13 mm, 14 mm, 15 mm, 17 mm
+3/8"" Star Socket (8 pcs) : E6, E10, E11, E12, E14, E16, E18, E20
+Universal Joint (3 pcs) : 1/4"", 3/8"", 1/2""
+3/8"" DR. Spark Plug Socket (2 pcs) : 16 mm, 21 mm
+1/2"" DR. Extension Bar (2 pcs) : 5"" (10""), 3"" (6"")
+1/4"" DR. Extension Bar (1 pcs) : 2""
+Aksesori Lainnya:
+3/8"" DR. Spinner Handle
+1/4"" DR. Hex Adaptor
+1/2"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle, panjang 10""
+1/4"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle, panjang 5.5""
+3/8"" DR. Ratchet Handle dengan 72T Teeth Rubber Handle
+3/8"" DR. Single Head Bits Hexagon (4 pcs) : 50 mm (H4, H5, H6)
+Magnetic Bit (1 pcs)
+3/8"" DR. Single Head Bits Torque (7 pcs) : T30, T40, T45, T50, T55, T60
+3/8"" DR. Single Head Bits PZ (2 pcs) : PZ1, PZ2
+3/8"" DR. Single Head Bits Phillips (2 pcs) : PH1, PH2
+3/8"" DR. Single Head Bits Slotted (2 pcs) : SL5, SL6.5",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,4,Set,1,2. Set Kunci Bengkel 120 pcs (Tekiro) [4 Set]
+kota_subulussalam__karya_otomotif_muara_batu_batu__m_03,kota_subulussalam__karya_otomotif_muara_batu_batu,Aceh,Kota Subulussalam,KUB Karya Otomotif Muara Batu-Batu — Bengkel Sepeda Motor,3,Mesin Las Listrik,Lakoni,"Daya 900 watt
+Output 10-120 ampere
+Diameter Kawat Las 2.0 - 4 mm
+Ukuran Socket 25mm
+Pendingin: Kipas
+Duty Cyrcle 60% (Pada 120A) 100% (Pada 100A)",Impor,Barang Jadi,Listrik,Tidak,Tidak,4,Unit,1,3. Mesin Las Listrik (Lakoni) [4 Unit]
+kota_subulussalam__karya_otomotif_muara_batu_batu__m_04,kota_subulussalam__karya_otomotif_muara_batu_batu,Aceh,Kota Subulussalam,KUB Karya Otomotif Muara Batu-Batu — Bengkel Sepeda Motor,4,"Impact Wrench 1/2""",Tekiro,"Voltage : 20V
+Impact Rate : 3.300 BPM
+Max. Torque : 600 Nm
+No-load Speed : 2.300 RPM
+Size : 1/2”
+Battery Pack : 2 pcs x 4.0 Ah
+Include Mata Sock 2 Pcs = 19 mm Dan 21 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,4,Set,1,"4. Impact Wrench 1/2"" (Tekiro) [4 Set]"
+kota_subulussalam__rizky_bongki_mandiri__m_01,kota_subulussalam__rizky_bongki_mandiri,Aceh,Kota Subulussalam,KUB Rizky Bongki Mandiri — Pembuatan Kapal/Perahu,1,"Mesin Gergaji Potong 20""",Stihl,"Isi Silinder : 45.4 cc
+Panjang Bar : 20 Inch
+Kekuatan Mesin Potong Kayu : 2.3 kW
+Sistem Pengapian Mesin : Elektronik
+Kapasitas Tanki Bahan Bakar : 0.47 L
+Kapasitas Oli : 0.20 L
+Langkah Mesin : 2 Langkah
+Tipe Bahan Bakar : Bensin Campur Oli 2T
+Kelengkapan Aksesoris : 1x Bar, 1x Rantai, 1x Kunci busi, 1x Oli 100ml, 1x Buku manual",Impor,Barang Jadi,Bensin,Ya,Tidak,5,Unit,1,"1. Mesin Gergaji Potong 20"" (Stihl) [5 Unit]"
+kota_subulussalam__rizky_bongki_mandiri__m_02,kota_subulussalam__rizky_bongki_mandiri,Aceh,Kota Subulussalam,KUB Rizky Bongki Mandiri — Pembuatan Kapal/Perahu,2,"Mesin Circular Saw 7""",NRT Pro,"Daya : 800 Watt
+Ukuran : 7"" / 180 mm
+Listrik : 220 V
+Frekuensi : 50 Hz
+Kecepatan Tanpa Beban : 4500 Rpm
+Mesin Gergaji
+Panjang = 27 cm
+Lebar = 23 cm
+Tinggi = 18 cm
+Mata Potong Kayu = 180mm X 1,6mm X 20 X 24 T
+Bahan : Metal
+Dapat diputar hingga 45 derajat",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,"2. Mesin Circular Saw 7"" (NRT Pro) [5 Unit]"
+kota_subulussalam__rizky_bongki_mandiri__m_03,kota_subulussalam__rizky_bongki_mandiri,Aceh,Kota Subulussalam,KUB Rizky Bongki Mandiri — Pembuatan Kapal/Perahu,3,Mesin Ketam,Makita,"Spesifikasi Teknis:
+- Daya Listrik : 450 Watt
+- Lebar Serut : 82 mm (3-1/4"")
+- Kedalaman Serut : 2 mm (1/16"")
+- Kecepatan Tanpa Beban: 16.000 RPM
+- Carbon Brush : No. 411",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,3. Mesin Ketam (Makita) [5 Unit]
+kota_subulussalam__rizky_bongki_mandiri__m_04,kota_subulussalam__rizky_bongki_mandiri,Aceh,Kota Subulussalam,KUB Rizky Bongki Mandiri — Pembuatan Kapal/Perahu,4,Mesin Bor Tangan,Makita,"Daya listrik : 710 watt
+kapasitas mata bor beton : 16 mm
+kapasitas mata bor besi : 13 mm
+kapasitas mata bor kayu : 30 mm
+kecepatan pukulan : 0 - 48.000 Rpm
+kecepatan tanpa beban : 0 - 3.200 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,4. Mesin Bor Tangan (Makita) [5 Unit]
+aceh_selatan__giat_bersama__m_01,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,1,Mesin Bordir D Komputer Digital,Merk Janome BC 550E,"Volt : 220-240V
+Watt : 45W
+Area Bordir Maksimal : 7,9 x 14 (20x38cm)
+Font Alphabet : 6 Jenis
+Format Bordir : JEF. JEF+. JPX",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,1. Mesin Bordir D Komputer Digital (Merk Janome BC 550E) [1 Unit]
+aceh_selatan__giat_bersama__m_02,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,2,Mesin Jahit Obras,Typical Tipe GN 794,"Mesin Obras : TYPICAL GN 794
+Dinamo : Clutch Industrial 250 Watt
+Meja Mesin Jahit : Kualitas A
+Kaki Mesin Jahit : Industrial Model T
+Tool Kit : Tiang Benang, Oil, Spool, Jarum, Obeng, dll",Impor,Barang Jadi,Listrik,Ya,Ya,10,Unit,1,2. Mesin Jahit Obras (Typical Tipe GN 794) [10 Unit]
+aceh_selatan__giat_bersama__m_03,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,3,Mesin Jahit Biasa,Merk Jack,"""Mesin Jahit : JACK F6
+Akesoris Pendukung : Tiang Benang, Kawat Dinamo, dll
+Meja Jahit : Ori JACK (meja lis biru)
+Kaki : Industrial Ori JACK (kaki lis biru) """,Impor,Barang Jadi,Listrik,Ya,Ya,10,Unit,1,3. Mesin Jahit Biasa (Merk Jack) [10 Unit]
+aceh_selatan__giat_bersama__m_04,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,4,Meja Konveksi Potong Kain Model Lipat,Produksi Lokal,"Ukuran : 100 x 120 cm
+Bahan : Kayu
+Bahan Kaki : Besi",PDN,TTG,-,Tidak,Tidak,10,Unit,1,4. Meja Konveksi Potong Kain Model Lipat (Produksi Lokal) [10 Unit]
+aceh_selatan__giat_bersama__m_05,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,5,Kursi Kerja,"Merk: ergotec
+Tipe: 865 SP","Bahan : Logam, Plastik
+Sistim : Hidrolik
+Kaki : Stell
+Tinggi kursi: Dapat diatur",PDN,TTG,-,Tidak,Tidak,10,Unit,1,"5. Kursi Kerja (Merk: ergotec
+Tipe: 865 SP) [10 Unit]"
+aceh_selatan__giat_bersama__m_06,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,6,Setrika Uap,MITO IRON200 Setrika Uap dan Kering 4in1,"Daya: 850-1000 watt 220 Volt
+Panjang kabel :138 cm",PDN,Barang Jadi,Gas,Ya,Tidak,8,Unit,1,6. Setrika Uap (MITO IRON200 Setrika Uap dan Kering 4in1) [8 Unit]
+aceh_selatan__giat_bersama__m_07,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,7,Rak penyimpanan kain dan benang,Produksi Lokal,"Rak Benang
+Rak Kain : Galvan, Besi
+Uk. rak total di 5L : 60 x 40 x 180",PDN,TTG,-,Tidak,Tidak,10,Unit,1,7. Rak penyimpanan kain dan benang (Produksi Lokal) [10 Unit]
+aceh_selatan__giat_bersama__m_08,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,8,Mesin Jahit Bordir,Merk Juki LZ 271,"Dinamo : Clutch motor 250 watt
+Kaki : Besi Model T
+Meja : Putih Triplek Formika Anti Gores",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,8. Mesin Jahit Bordir (Merk Juki LZ 271) [2 Unit]
+aceh_selatan__giat_bersama__m_09,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,9,Setrika Uap Laundry,"Home Industri Perlengkapan Jahit
+Tipe : 15 Liter 1 Gosokan","- Boiler
+- Dudukan Kompor
+- Gosokan
+- Selang Meter
+- Cincin Selang
+- Regulator
+*Setiap pembelian dengan satu gosokan akan mendapat 3 pcs cincin selang +5 meter selang (berlaku kelipatan)*",PDN,TTG,Gas,Ya,Tidak,2,Unit,1,"9. Setrika Uap Laundry (Home Industri Perlengkapan Jahit
+Tipe : 15 Liter 1 Gosokan) [2 Unit]"
+aceh_selatan__giat_bersama__m_10,aceh_selatan__giat_bersama,Aceh,Aceh Selatan,KUB Giat Bersama,10,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,10. Genset (Merk Tiger TG 8800E) [1 Unit]
+aceh_selatan__maju_bersama__m_01,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,1,Mesin Jahit Bordir,Merk Juki LZ 271,"Dinamo : Clutch motor 250 watt
+Kaki : Besi Model T
+Meja : Putih Triplek Formika Anti Gores",Impor,Barang Jadi,Listrik,Ya,Ya,20,Unit,1,1. Mesin Jahit Bordir (Merk Juki LZ 271) [20 Unit]
+aceh_selatan__maju_bersama__m_02,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,2,Mesin Jahit Biasa,Merk Jack,"Mesin Jahit : JACK F6
+Akesoris Pendukung : Tiang Benang, Kawat Dinamo, dll
+Meja Jahit : Ori JACK (meja lis biru)
+Kaki : Industrial Ori JACK (kaki lis biru)",Impor,Barang Jadi,Listrik,Ya,Ya,20,Unit,1,2. Mesin Jahit Biasa (Merk Jack) [20 Unit]
+aceh_selatan__maju_bersama__m_03,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,3,Mesin Jahit Kulit,"Merek Typical
+Tipe 0303CX","Motor : 250 watt
+Jarum : DPx17 ukuran #21-25
+Kaki : Tipe T Impor
+Meja : Tebal 5 cm dari triplex",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,"3. Mesin Jahit Kulit (Merek Typical
+Tipe 0303CX) [2 Unit]"
+aceh_selatan__maju_bersama__m_04,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,4,Mesin Jahit Obras,Typical Tipe GN 794,"Mesin Obras : TYPICAL GN 794
+Dinamo : Clutch Industrial 250 Watt
+Meja Mesin Jahit : Kualitas A
+Kaki Mesin Jahit : Industrial Model T
+Tool Kit : Tiang Benang, Oil, Spool, Jarum, Obeng, dll",Impor,Barang Jadi,Listrik,Ya,Ya,15,Unit,1,4. Mesin Jahit Obras (Typical Tipe GN 794) [15 Unit]
+aceh_selatan__maju_bersama__m_05,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,5,Mesin Sersak,Merk Pegasus M600,"Papan Meja Baru.
+Dinamo : 250 Watt
+Set Kaki Mesin
+Aksesoris : tiang benang dan Gulungan Spull",Impor,Barang Jadi,Listrik,Ya,Ya,5,Unit,1,5. Mesin Sersak (Merk Pegasus M600) [5 Unit]
+aceh_selatan__maju_bersama__m_06,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,6,Mesin Jahit,Merk Typical GC 2605,"Daya Listrik : 250 Watt
+Kecepatan Maksimal : 3.500 spm
+Maksimal Ketebalan Bahan : 13 mm Sistem Pelumasan Auto",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,6. Mesin Jahit (Merk Typical GC 2605) [1 Unit]
+aceh_selatan__maju_bersama__m_07,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,7,Mesin Bordir D Komputer Digital,Merk Janome BC 550E,"Volt : 220-240V
+Watt : 45W
+Area Bordir Maksimal : 7,9 x 14 (20x38cm)
+Font Alphabet : 6 Jenis
+Format Bordir : JEF. JEF+. JPX",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,7. Mesin Bordir D Komputer Digital (Merk Janome BC 550E) [1 Unit]
+aceh_selatan__maju_bersama__m_08,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,8,Meja Konveksi Potong Kain Model Lipat,Produksi Lokal,"Ukuran : 100 x 150 cm
+Bahan : Kayu
+Bahan Kaki : Besi",PDN,TTG,-,Tidak,Tidak,1,Unit,1,8. Meja Konveksi Potong Kain Model Lipat (Produksi Lokal) [1 Unit]
+aceh_selatan__maju_bersama__m_09,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,9,Mesin Press Kulit/Seset,"Merk : Taking
+Tipe : 801","1 Unit Mesin Seset
+1 Dinamo Clutch Industrial
+1 Meja Mesin Jahit Industrial
+1 Kaki Mesin Jahit Industrial",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,"9. Mesin Press Kulit/Seset (Merk : Taking
+Tipe : 801) [1 Unit]"
+aceh_selatan__maju_bersama__m_10,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,10,Stitching Alat Jahitan,Home Industri Goods Supply,"1 x Coil Black waxed thread
+1 x wrenc
+1 x Stitcher Sewing Awl
+2 x Needles (big and small)
+3 x waxed thread(50m/55yards /roll)""",PDN,TTG,-,Tidak,Tidak,2,Unit,1,10. Stitching Alat Jahitan (Home Industri Goods Supply) [2 Unit]
+aceh_selatan__maju_bersama__m_11,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,11,Mesin Potong Bahan / Kulit,"YJ110 (pisau besar 3.5"")","- 1x Mesin Potong Octa RS 100
+- 1x Buku Panduan Cara Penggunaan
+- 1x Pisau (Cadangan)
+- 1x Asahan Pisau (Cadangan)
+- 1x Kol boster (Cadangan)
+- 1x Minyak Cadangan
+- 1x Obeng L dan obeng pembuka
+- 1x Kabel Colokan Listrik",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"11. Mesin Potong Bahan / Kulit (YJ110 (pisau besar 3.5"")) [1 Unit]"
+aceh_selatan__maju_bersama__m_12,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,12,Setrika Uap Laundry,"Home Industri Perlengkapan Jahit
+Tipe : 15 Liter 1 Gosokan","- Boiler
+- Dudukan Kompor
+- Gosokan
+- Selang Meter
+- Cincin Selang
+- Regulator
+*Setiap pembelian dengan satu gosokan akan mendapat 3 pcs cincin selang +5 meter selang (berlaku kelipatan)*",PDN,TTG,Gas,Ya,Tidak,1,Unit,1,"12. Setrika Uap Laundry (Home Industri Perlengkapan Jahit
+Tipe : 15 Liter 1 Gosokan) [1 Unit]"
+aceh_selatan__maju_bersama__m_13,aceh_selatan__maju_bersama,Aceh,Aceh Selatan,KUB Maju Bersama,13,Genset,Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,13. Genset (Tiger TG 8800E) [1 Unit]
+aceh_selatan__sawang_sepakat__m_01,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,1,Mesin Ketam Meja Serbaguna,Oscar MQ 443,"- Max Planing Width : 300mm
+- Max Planing Capacity : 3mm
+- Max Planing rabbet cutting : 10m
+- Max sawing Thickness : 85mm
+- Press Planing Thickness : 10 - 120 mm
+- Min planing thickness : 130 mm
+- Max Tenun & Drilling dia : 16 x 16 mm Diameter 13mm
+- Press planing feeding speed : 6-5m/mm
+- Motor : 2HP 220V 1 Phase",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,1. Mesin Ketam Meja Serbaguna (Oscar MQ 443) [5 Unit]
+aceh_selatan__sawang_sepakat__m_02,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,2,Mesin Ketam Kayu,Makita 1805N,"- Daya Listrik : 1.140 W
+- Kelebaran Serut : 155 mm (6-1/8"")
+- Kedalaman Serut : 2 mm (1/13"")
+- Kecepatan tanpa beban : 15.000 rpm
+- Panjang : 445 mm (17-1/2"")
+- Power Supply Cord : 5.0 m (16.4 ft)",Impor,Barang Jadi,Listrik,Tidak,Tidak,6,Unit,1,2. Mesin Ketam Kayu (Makita 1805N) [6 Unit]
+aceh_selatan__sawang_sepakat__m_03,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,3,Mesin Bor Kayu,Oscar MK 361 A,"- Maks. Lebar slot : 16 mm
+- Kecepatan spindle : 2840 r/min
+- Ukuran meja kerja : 210 x 160 mm
+- Motor : 0.55 Kw / 220 V",PDN,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,3. Mesin Bor Kayu (Oscar MK 361 A) [5 Unit]
+aceh_selatan__sawang_sepakat__m_04,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,4,Genset,Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,7,Unit,1,4. Genset (Tiger TG 8800E) [7 Unit]
+aceh_selatan__sawang_sepakat__m_05,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,5,Mesin Serut Kayu Planer,Makita M 1901B,"- Daya Listrik : 450 Watt
+- Lebar Serut : 82 mm (3-1/4"""")
+- Kedalaman Serut : 2 mm (1/16"""")
+- Kecepatan Tanpa Beban : 16.000 RPM",Impor,Barang Jadi,Listrik,Tidak,Tidak,7,Unit,1,5. Mesin Serut Kayu Planer (Makita M 1901B) [7 Unit]
+aceh_selatan__sawang_sepakat__m_06,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,6,Mesin Spindle Duduk,"Oscar WS 1-1/2""","- Motor : 3 HP
+- Table Length : 695 mm
+- Table Width : 555 mm
+- Spindle Speed : 3500 or 7000 rpm / 50 Hz
+- Spindle Diameter : 30 mm
+- Mortising Capacity Lift Distance : 90 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,"6. Mesin Spindle Duduk (Oscar WS 1-1/2"") [2 Unit]"
+aceh_selatan__sawang_sepakat__m_07,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,7,Mesin Amplas Belt Sander,Makita 9400B,"- Power : 940 w
+- Belt Size : 100x610mm
+- Belt Speed : 380m/min
+- Power Supply Cord : 2.0m(6.6ft.)",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,7. Mesin Amplas Belt Sander (Makita 9400B) [5 Unit]
+aceh_selatan__sawang_sepakat__m_08,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,8,Mesin Router,Makita M3600B,"- Daya listrik : 1.650 Watt
+- Kecepatan tanpa beban : 22.000 rpm
+- Kapasitas collet : 12 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,7,Unit,1,8. Mesin Router (Makita M3600B) [7 Unit]
+aceh_selatan__sawang_sepakat__m_09,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,9,Paket Lengkap Kompresor,Shark JVUE-5112,"""Daya Engine (HP) : 1,5 HP
+Tekanan Udara (kg/cm²) : 94 liter / menit
+Selang :2 selang
+Panjang x Lebar x Tinggi (cm) :74x32x58
+Kecepatan :1500 rpm
+Diameter Piston : 51 / 38
+Kapasitas Tabung : 30L
+Capacity of Cup (ml) : 7 bar""",PDN,Barang Jadi,Listrik,Tidak,Tidak,6,Unit,1,9. Paket Lengkap Kompresor (Shark JVUE-5112) [6 Unit]
+aceh_selatan__sawang_sepakat__m_10,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,10,Mesin Potong Kayu,Makita N5900B,"- Spesifikasi Pisau diameter : 235mm
+- Kapasitas pemotongan Max : 90 85mm - Pada 45 60mm
+- Beban kecepatan : 4.100rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,8,Unit,1,10. Mesin Potong Kayu (Makita N5900B) [8 Unit]
+aceh_selatan__sawang_sepakat__m_11,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,11,Mesin Router Otomatis,Produksi Lokal,"Working Area : 130x250 cm full triplek
+Control System : grblHAL (firmware sumber terbuka) menu berbahasa Indonesia
+Pengaman : Emergency stop, Tombol Start/Stop, sensor batas (limit), titik 0 (home)
+Software Include : Software Desain kusus CNC Router
+Y axis : Dual nema 34 gearbox
+X axis : nema 34 fearbox
+Z axis : nema 34, ball screw 16 mm
+Penggerak X dan Y : Rack and Pinion (gear rack), rel linier TRH20
+Penggerak Z : Real linear TRH20, Ball Screw 16 mm
+Spindel : 2,2 kW, berpendinginair (water coolled) termasuk pompa dan tengki
+Daya Listrik : 1 Phase 220 V, kebutuhan daya total mesin sekitar 3,5 kW
+Tinggi Benda kerja : Langkah Z 160 mm
+Kerangka : Baja hollow tebal 2,5 mm
+Meja Kerja : Rangka kisi baja dengan spoilboard MDF
+Panduan Penggunaan : Termasuk (Include)
+Perlengkapan : 1 Set Mesin, CPU, Monitor, UPS, Toolbox Collet ER20",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,11. Mesin Router Otomatis (Produksi Lokal) [1 Unit]
+aceh_selatan__sawang_sepakat__m_12,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,12,Mesin Asah Pisau Planer,Merk Wipro MF 206,"- Pisau ketam yang bisa di asah maximal sampai ukuran 650mm
+- Pisau ketam yang bisa di jepit maximal 8mm
+- Ukuran batu gerinda asah 12cm x 6cm x 3cm
+- Tenaga gerinda putaran 2850 RPM
+- Tenaga Power 560 Watt
+- Dimensi mesin :88cm x 49cm x 54cm",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,12. Mesin Asah Pisau Planer (Merk Wipro MF 206) [1 Unit]
+aceh_selatan__sawang_sepakat__m_13,aceh_selatan__sawang_sepakat,Aceh,Aceh Selatan,KUB Sawang Sepakat,13,Mesin Bor Baterai,Makita 18V DHP485FN001,"Jenis: Cordless Hammer Driver Drill
+Motor: Brushless / BL Motor
+Tegangan: 18V DC
+Chuck: Keyless Chuck
+Kapasitas chuck: 1,5–13 mm
+Jumlah kecepatan: 2-speed mechanical
+Kecepatan rendah: 0–500 rpm
+Kecepatan tinggi: 0–1.900 rpm
+Impact rate rendah: 0–7.500 bpm
+Impact rate tinggi: 0–28.500 bpm
+Torsi maksimum: 50 Nm
+Torsi pengencangan keras: 50 Nm
+Torsi pengencangan lunak: 27 Nm
+Pengaturan torsi: 21 tingkat + mode drilling
+Kapasitas bor baja: 13 mm
+Kapasitas bor kayu: 38 mm
+Kapasitas bor masonry/bata: 13 mm
+Sekrup kayu: 6 × 75 mm
+Sekrup mesin: M6
+Panjang mesin: 182 mm
+Lebar: 79 mm
+Tinggi: 255 mm dengan baterai tertentu
+Fitur lampu: Twin LED dengan pre-glow dan after-glow
+Arah putaran: Forward / Reverse
+Variable speed: Ya
+Electric brake: Ya
+Perlindungan: XPT
+Platform baterai: Makita LXT 18V",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,13. Mesin Bor Baterai (Makita 18V DHP485FN001) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_01,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,1,Mesin Press Pelepah Pinang Hidrolik,Produksi Lokal,"Sitem : System Hidrolik Elektrik 1.5 Kw
+Daya : Daya 2000 watt.tegangan 220 v.
+Penggerak : Dongkrak Hidrolik botol 10 Ton
+Suhu Cetak : Ajustable Max 250 derajat C
+Tekanan : 10 Ton
+Waktu Press : 30 - 90 Detik
+Automatic Open
+Automatic Cutting
+Food Switch Operating
+Emergency Switch
+Class 1 Electric Equipment
+Pemanas : Heater Listrik Max temperatur 250 C
+Dimensi Mesin : 1200 x 1500 x 750 mm
+Berat : 150 kg Max
+Termasuk : 1 Set Mould & Dies
+Garansi : 1 Tahun",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,1. Mesin Press Pelepah Pinang Hidrolik (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_02,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,2,Rak Jemur Pelepah pinang,Produksi Lokal,"""Bahan : Besi siku lobang
+Model : 5 Susun + Waring + roda
+Dimensi : 180 x 120 x 60 cm
+: Jarak susun 30 cm
+Rangka : Besi siku lobang 4 x 4 cm galvanis
+Alas : Waring HDPE langsung di rangka
+Sambungan : Baut + Mur MB
+Roda : 4 x Caster 3 inci (2 rem)
+Kapasitas : 100 - 125 Pelepah / 25 kg per susun""",PDN,TTG,-,Ya,Tidak,2,Unit,1,2. Rak Jemur Pelepah pinang (Produksi Lokal) [2 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_03,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,3,Paket Lengkap Kompresor,"Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)","Daya Engine (HP) : 1,5 HP
+Tekanan Udara (kg/cm²) : 94 liter / menit
+Selang :2 selang
+Panjang x Lebar x Tinggi (cm) :74x32x58
+Kecepatan :1500 rpm
+Diameter Piston : 51 / 38
+Kapasitas Tabung : 30L
+Capacity of Cup (ml) : 7 bar",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"3. Paket Lengkap Kompresor (Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)) [1 Unit]"
+aceh_selatan__bungoeng_canden_leuser__m_04,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,4,Timbangan Bahan Baku Digital,Merk Camry,"Kapasitas : 30Kg
+Dimensi Kemasan (P X l x T ) : 35 x 34 x 10,5 Cm
+Adaptor Change : Ya
+Berat (Gross) : 4 kg",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,4. Timbangan Bahan Baku Digital (Merk Camry) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_05,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,5,Meja Preparasi Bahan Baku Stainless Steel,Produksi Lokal,"Bahan : Stainless steel
+Dimensi : 100x70x85 cm
+Tipe WK-100
+Berat Produk : 24.000 gr
+Ukuran :150 x 80 x 80",PDN,TTG,-,Tidak,Tidak,1,Unit,1,5. Meja Preparasi Bahan Baku Stainless Steel (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_06,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,6,Mesin Sealer Kemasan,Merk Getra HIS 400,"Dimensi (mm) P x L x T : 530 x 85 x 85
+Panjang Penyegelan : 400 mm
+Tebal Penyegelan : 1.5 mm
+Berat : 3 kg
+Watt : 500 w
+Voltage : 220V/1P/50-Hz",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,6. Mesin Sealer Kemasan (Merk Getra HIS 400) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_07,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,7,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,7. Genset (Merk Tiger TG 8800E) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_08,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,8,Cetakan Snack,Produksi Lokal,"Bentuk : Bulat
+Ukuran : 6 inch
+Diameter : 150 mm
+Bahan : S45C HARD Chrome Food Grade
+: Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm
+Waktu Pemasangan Cetakan dimesin 15 menit",PDN,TTG,-,Tidak,Tidak,1,Unit,1,8. Cetakan Snack (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_09,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,9,Cetakan Piring Makan Utama,Produksi Lokal,"Bentuk : Bulat
+Ukuran : 7 inch
+Diameter : 180 mm
+Bahan : S45C HARD Chrome Food Grade
+Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm",PDN,TTG,-,Tidak,Tidak,1,Unit,1,9. Cetakan Piring Makan Utama (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_10,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,10,Cetakan Nasi Kotak / Catering,Produksi Lokal,"Bentuk : Kotak
+Ukuran : 6 x 6 inch
+Diameter : 150 x 150 mm
+Bahan : S45C HARD Chrome Food Grade
+Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm
+Waktu Pemasangan Cetakan dimesin 15 menit",PDN,TTG,-,Tidak,Tidak,1,Unit,1,10. Cetakan Nasi Kotak / Catering (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_11,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,11,Mesin Pond Cutting Potong Pola,Produksi Lokal,Bahan : Logam,PDN,TTG,Listrik,Tidak,Tidak,1,Unit,1,11. Mesin Pond Cutting Potong Pola (Produksi Lokal) [1 Unit]
+aceh_selatan__bungoeng_canden_leuser__m_12,aceh_selatan__bungoeng_canden_leuser,Aceh,Aceh Selatan,KUB Bungoeng Canden Leuser,12,Mesin Jahit Heavy Duty,Typical GC2605,"Jenis Mesin : - Unison Feed Cylinder Bed/Cangklong
+- dinamo 400 Watt
+- 1x Meja Mesin Jahit Triplek Grade A
+- 1x Tool Kit Standard (Tiang Benang, Oli, Spool, Jarum, Obeng, dll)",Impor,Barang Jadi,Listrik,Ya,Tidak,1,Unit,1,12. Mesin Jahit Heavy Duty (Typical GC2605) [1 Unit]
+aceh_selatan__pesona_bidari__m_01,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,1,Mesin Press Pelepah Pinang Hidrolik,Produksi Lokal,"""Sitem : System Hidrolik Elektrik 1.5 Kw
+Daya : Daya 2000 watt.tegangan 220 v.
+Penggerak : Dongkrak Hidrolik botol 10 Ton
+Suhu Cetak : Ajustable Max 250 derajat C
+Tekanan : 10 Ton
+Waktu Press : 30 - 90 Detik
+Automatic Open
+Automatic Cutting
+Food Switch Operating
+Emergency Switch
+Class 1 Electric Equipment
+Pemanas : Heater Listrik Max temperatur 250 C
+Dimensi Mesin : 1200 x 1500 x 750 mm
+Berat : 150 kg Max
+Termasuk : 1 Set Mould & Dies
+Garansi : 1 Tahun""",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,1. Mesin Press Pelepah Pinang Hidrolik (Produksi Lokal) [1 Unit]
+aceh_selatan__pesona_bidari__m_02,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,2,Cetakan Mangkok Sup / Sayur,Produksi Lokal,"Bentuk : Mangkok
+Ukuran : 300 ml
+Diameter : 120 mm , Dalam 40 mm
+Bahan : S45C HARD Chrome Food Grade
+Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm
+Waktu Pemasangan Cetakan dimesin 15 menit",PDN,TTG,-,Tidak,Tidak,1,Unit,1,2. Cetakan Mangkok Sup / Sayur (Produksi Lokal) [1 Unit]
+aceh_selatan__pesona_bidari__m_03,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,3,Cetakan Bento / Lunch Box,Produksi Lokal,"Bentuk : Bento 2 sekat
+Model : MBG
+Diameter : 180 x 130 mm
+Bahan : Besi Cor FC25 Hard Chrome Food Grade
+Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm
+Waktu Pemasangan Cetakan dimesin 15 menit",PDN,TTG,-,Tidak,Tidak,1,Unit,1,3. Cetakan Bento / Lunch Box (Produksi Lokal) [1 Unit]
+aceh_selatan__pesona_bidari__m_04,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,4,Cetakan Nampan,Produksi Lokal,"Bentuk : Persegi
+Ukuran : 20 x 15 cm (Program MBG)
+Bahan : S45C HARD Chrome Food Grade
+Hardening HRC 50 + Hard Chrome 25 + poles
+Miror, Anti karat
+Cetakan bisa dipakai dalam 1 mesin Hiydraulic Hot Press Dimensi 1200 x 1500 x 700 mm
+Waktu Pemasangan Cetakan dimesin 15 menit",PDN,TTG,-,Tidak,Tidak,1,Unit,1,4. Cetakan Nampan (Produksi Lokal) [1 Unit]
+aceh_selatan__pesona_bidari__m_05,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,5,Rak Jemur Pelepah pinang,Produksi Lokal,"Bahan : Besi siku lobang
+Model : 5 Susun + Waring + roda
+Dimensi : 180 x 120 x 60 cm
+: Jarak susun 30 cm
+Rangka : Besi siku lobang 4 x 4 cm galvanis
+Alas : Waring HDPE langsung di rangka
+Sambungan : Baut + Mur MB
+Roda : 4 x Caster 3 inci (2 rem)
+Kapasitas : 100 - 125 Pelepah / 25 kg per susun",PDN,TTG,-,Ya,Tidak,2,Unit,1,5. Rak Jemur Pelepah pinang (Produksi Lokal) [2 Unit]
+aceh_selatan__pesona_bidari__m_06,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,6,Paket Lengkap Kompresor,"Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)","Daya Engine (HP) : 1,5 HP
+Tekanan Udara (kg/cm²) : 94 liter / menit
+Selang :2 selang
+Panjang x Lebar x Tinggi (cm) :74x32x58
+Kecepatan :1500 rpm
+Diameter Piston : 51 / 38
+Kapasitas Tabung : 30L
+Capacity of Cup (ml) : 7 bar",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"6. Paket Lengkap Kompresor (Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)) [1 Unit]"
+aceh_selatan__pesona_bidari__m_07,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,7,Timbangan Bahan Baku Digital,Merk Camry,"Kapasitas : 30Kg
+Dimensi Kemasan (P X l x T ) : 35 x 34 x 10,5 Cm
+Adaptor Change : Ya
+Berat (Gross) : 4 kg",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,7. Timbangan Bahan Baku Digital (Merk Camry) [1 Unit]
+aceh_selatan__pesona_bidari__m_08,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,8,Meja Preparasi Bahan Baku Stainless Steel,Produksi Lokal,"""Bahan : Stainless steel
+Dimensi : 100x70x85 cm
+Tipe WK-100
+Berat Produk : 24.000 gr
+Ukuran :150 x 80 x 80""",PDN,TTG,-,Ya,Tidak,1,Unit,1,8. Meja Preparasi Bahan Baku Stainless Steel (Produksi Lokal) [1 Unit]
+aceh_selatan__pesona_bidari__m_09,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,9,Mesin Sealer Kemasan,Merk Getra HIS 400,"Dimensi (mm) P x L x T : 530 x 85 x 85
+Panjang Penyegelan : 400 mm
+Tebal Penyegelan : 1.5 mm
+Berat : 3 kg
+Watt : 500 w
+Voltage : 220V/1P/50-Hz",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,9. Mesin Sealer Kemasan (Merk Getra HIS 400) [1 Unit]
+aceh_selatan__pesona_bidari__m_10,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,10,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,10. Genset (Merk Tiger TG 8800E) [1 Unit]
+aceh_selatan__pesona_bidari__m_11,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,11,Mesin Jahit Heavy Duty,Typical GC2605,"Jenis Mesin : - Unison Feed Cylinder Bed/Cangklong
+- dinamo 400 Watt
+- 1x Meja Mesin Jahit Triplek Grade A
+- 1x Tool Kit Standard (Tiang Benang, Oli, Spool, Jarum, Obeng, dll)",Impor,Barang Jadi,Listrik,Ya,Tidak,1,Unit,1,11. Mesin Jahit Heavy Duty (Typical GC2605) [1 Unit]
+aceh_selatan__pesona_bidari__m_12,aceh_selatan__pesona_bidari,Aceh,Aceh Selatan,KUB Pesona Bidari,12,Mesin Pond Cutting Potong Pola,Produksi Lokal,Bahan : Logam,PDN,TTG,Listrik,Tidak,Tidak,1,Unit,1,12. Mesin Pond Cutting Potong Pola (Produksi Lokal) [1 Unit]
+aceh_selatan__seuneubok_bestari__m_01,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,1,Mesin Jahit Heavy Duty,Typical GC2605,"Jenis Mesin : - Unison Feed Cylinder Bed/Cangklong
+- dinamo 400 Watt
+- 1x Meja Mesin Jahit Triplek Grade A
+- 1x Tool Kit Standard (Tiang Benang, Oli, Spool, Jarum, Obeng, dll)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,1. Mesin Jahit Heavy Duty (Typical GC2605) [2 Unit]
+aceh_selatan__seuneubok_bestari__m_02,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,2,Mesin Jahit Walking Foot,Typical GC0303DCX,"Kelengkapan : - 1 Unit Dinamo Clutch Motor Industrial 250 Watt
+- 1 Unit Meja Mesin Jahit Kualitas Standard.
+- 1 Unit Kaki Mesin Jahit Industrial Model T
+- 1 Set Tool Kit Standard""
+Power : 220V / 550 Watt
+Jarak sepatu : 8mm",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,2. Mesin Jahit Walking Foot (Typical GC0303DCX) [2 Unit]
+aceh_selatan__seuneubok_bestari__m_03,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,3,Gergaji Ukir,Ryu RSS 125,"Daya Listrik : 120 Watt
+Voltase : 220V / 50Hz
+Kecepatan Tanpa Beban : 1.400 rpm
+Kapasitas Potong : Hingga ketebalan 50 mm
+Ukuran Mata Gergaji : 125 mm (5 inci) dengan kerapatan 15/18 TPI
+Kemiringan Meja : Dapat diatur dari 0° hingga 45° untuk pemotongan sudut
+Ukuran Meja : 405 mm",Impor,Barang Jadi,-,Tidak,Tidak,1,Unit,1,3. Gergaji Ukir (Ryu RSS 125) [1 Unit]
+aceh_selatan__seuneubok_bestari__m_04,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,4,Mesin Pond Cutting Potong Pola,Produksi Lokal,Bahan : Logam,PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,4. Mesin Pond Cutting Potong Pola (Produksi Lokal) [2 Unit]
+aceh_selatan__seuneubok_bestari__m_05,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,5,Paket Lengkap Kompresor,"Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)","Daya Engine (HP) : 1,5 HP
+Tekanan Udara (kg/cm²) : 94 liter / menit
+Selang :2 selang
+Panjang x Lebar x Tinggi (cm) :74x32x58
+Kecepatan :1500 rpm
+Diameter Piston : 51 / 38
+Kapasitas Tabung : 30L
+Capacity of Cup (ml) : 7 bar",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"5. Paket Lengkap Kompresor (Merk: Shark
+Tipe: JVUE-5112 (1/5 HP)) [1 Unit]"
+aceh_selatan__seuneubok_bestari__m_06,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,6,Pembolong Sabuk Kulit,Produksi Lokal (Era Jahit Sewing),"Bahan : besi karbon
+Ketebalan : HRC45-48
+ukuran : 60 mm
+Kegunaan : melubangi kulit, karet, karet dll",PDN,TTG,-,Tidak,Tidak,2,Unit,1,6. Pembolong Sabuk Kulit (Produksi Lokal (Era Jahit Sewing)) [2 Unit]
+aceh_selatan__seuneubok_bestari__m_07,aceh_selatan__seuneubok_bestari,Aceh,Aceh Selatan,KUB Seuneubok Bestari,7,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,7. Genset (Merk Tiger TG 8800E) [1 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_01,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,1,Mixer (planetary),Produksi Lokal,"Kapasitas : 15L
+Daya : 850 watt",PDN,TTG,Listrik,Tidak,Tidak,4,Unit,1,1. Mixer (planetary) (Produksi Lokal) [4 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_02,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,2,Oven Gas 2 Susun,Produksi Lokal,Ukuran : 60 X 55 X 70 CM,PDN,TTG,Gas,Tidak,Tidak,2,Unit,1,2. Oven Gas 2 Susun (Produksi Lokal) [2 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_03,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,3,Timbangan Digital,CAS PRC-15kg,"Capacity: 15 kg
+Type : Counting scale PR-C",Impor,Barang Jadi,Listrik,Tidak,Tidak,4,Unit,1,3. Timbangan Digital (CAS PRC-15kg) [4 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_04,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,4,Oven Gas Kecil,Produksi Lokal,"Ukuran : 60x40x45
+Kelengkapan : Termometer, Regulator, Selang",PDN,TTG,Gas,Tidak,Tidak,5,Unit,1,4. Oven Gas Kecil (Produksi Lokal) [5 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_05,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,5,Lemari Pendingin,"Merk: Polytron
+Tipe: PRA 18 CDX","Kapasitas : 180L
+Daya : 70 watt
+Tipe Produk : 1 pintu",PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,"5. Lemari Pendingin (Merk: Polytron
+Tipe: PRA 18 CDX) [2 Unit]"
+aceh_selatan__tangga_seribu_berkarya__m_06,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,6,Meja Preparasi Bahan Baku Stainless Steel,Produksi Lokal,Dimensi : 150x80x80,PDN,TTG,-,Ya,Tidak,4,Unit,1,6. Meja Preparasi Bahan Baku Stainless Steel (Produksi Lokal) [4 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_07,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,7,Rak Loyang/Bakery,Produksi Lokal,-,PDN,TTG,-,Tidak,Tidak,2,Unit,1,7. Rak Loyang/Bakery (Produksi Lokal) [2 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_08,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,8,Sealer,Uniwell Vacuum,"""Seal : 30cm
+Digunakan untuk : Basah dan Kering
+Tegangan : 220 Volt""",PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,8. Sealer (Uniwell Vacuum) [2 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_09,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,9,Rak Penyimpanan Perkakas,Produksi Lokal,"Bahan : Stainless Steel
+Model : Rak Terbuka, 4 susun 150 x 50 x 150
+Finishing : Polishing",PDN,TTG,-,Ya,Tidak,1,Unit,1,9. Rak Penyimpanan Perkakas (Produksi Lokal) [1 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_10,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,10,Timbangan Kue,ACAS WH-B30,"Kapasitas : 10Kg
+Tipe : Layar LCD dengan lampu latar
+Satuan Berat : g/gn/oz/ozt/dwt/ct/lb/tl/ml",Impor,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,10. Timbangan Kue (ACAS WH-B30) [5 Unit]
+aceh_selatan__tangga_seribu_berkarya__m_11,aceh_selatan__tangga_seribu_berkarya,Aceh,Aceh Selatan,KUB Tangga Seribu Berkarya,11,Genset,Tiger TG SS00E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,11. Genset (Tiger TG SS00E) [1 Unit]
+aceh_selatan__bungong_pusaka__m_01,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,1,Mesin Sedot Madu,Produksi Lokal,"Kapasitas : 15L
+Material : Stainless Steel",PDN,TTG,Listrik,Tidak,Tidak,4,Unit,1,1. Mesin Sedot Madu (Produksi Lokal) [4 Unit]
+aceh_selatan__bungong_pusaka__m_02,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,2,Mesin Evaporator Vacuum,Produksi Lokal,"Kapasitas : 25 Iter / Proses
+Dimensi Tabung Dalam : 35 Cm x Tinggi : 40 Cm
+Dimensi Tabung Luar : 41 cm x Tinggi : 40 Cm
+Model Tabung : Double Jaket
+Material Kontrak Produk : Stainless Steel 304
+Material Doble Jaket : Stainless Steel 201
+Material Triple Jaket : Plat HL Stainless
+Material Kondensor : Stainless Steel 201
+Material Bak Air : Plat HL Stainless
+Dimensi Bak air : P.60 x L.50 x T.60 Cm
+Sistem Pervakuman : Water Jet Pum
+Pompa :750 Watt / 1 Phase
+Mixer : 1/2HP / 375 Watt / 1 Phase
+Pemanas : Heater 1000 Watt / 1 Phase / 220V
+Model Pengaduk: Scrapper Teflon Verikal Horizontal
+Kecepatan Pengaduk : 30 Rpm
+Suhu Kerja : Suhu Kerja dibawah 60 Derajat C
+Input PLN : 220V / 1 Phase
+Output : Ballvalve 1 Inchi
+Box Panel : Tombol Power, Thermokontrol Digital, Power Thermokontrol, Power Pompa, Power Mixer, Lampu
+Kelengkapan : Kondensor, Bar air, Water Jet, Vacuum Meter, Box Panel, Roda, Kaca Pantau",PDN,TTG,Listrik,Tidak,Tidak,2,Unit,1,2. Mesin Evaporator Vacuum (Produksi Lokal) [2 Unit]
+aceh_selatan__bungong_pusaka__m_03,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,3,Alat Steril Botol,Fortune ZTP7SE,"Daya : 550 watt
+Kapasitas : 78 meter
+Bahan:Stainless Steel",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,3. Alat Steril Botol (Fortune ZTP7SE) [2 Unit]
+aceh_selatan__bungong_pusaka__m_04,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,4,Mesin Sealer Botol,DCGY-F200,"Voltase : 240 V / 50 Hz
+Daya : 600 watt
+Diameter tutup botol: 6-13 Cm",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,4. Mesin Sealer Botol (DCGY-F200) [2 Unit]
+aceh_selatan__bungong_pusaka__m_05,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,5,Timbangan Digital,CAS PRC-15kg,"Capacity: 15 kg
+Type : Counting scale PR-C",PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,5. Timbangan Digital (CAS PRC-15kg) [2 Unit]
+aceh_selatan__bungong_pusaka__m_06,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,6,Meja Preparasi Bahan Baku Stainless Steel,Produksi Lokal,Dimensi : 150x80x80,PDN,TTG,-,Ya,Tidak,2,Unit,1,6. Meja Preparasi Bahan Baku Stainless Steel (Produksi Lokal) [2 Unit]
+aceh_selatan__bungong_pusaka__m_07,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,7,Rak Penyimpanan Perkakas,Produksi Lokal,"Bahan : Stainless Steel
+Model : Rak Terbuka, 4 susun 150 x 50 x 150
+Finishing : Polishing",PDN,TTG,-,Ya,Tidak,1,Unit,1,7. Rak Penyimpanan Perkakas (Produksi Lokal) [1 Unit]
+aceh_selatan__bungong_pusaka__m_08,aceh_selatan__bungong_pusaka,Aceh,Aceh Selatan,KUB Bungong Pusaka,8,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,8. Genset (Merk Tiger TG 8800E) [1 Unit]
+aceh_selatan__jasa_kawan__m_01,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,1,Kompor Gas Low Pressure,Rinnai TL 289 RI,"Pengapian : Piezo Ignition (tanpa korek)
+Selang : Selang Karet Ꝋ 9.5
+Dimensi : 617x344x145 mm
+Konsumsi Gas /Jam : 9.8 kW
+Tekanan Gas Max : 330 mmH2O",PDN,Barang Jadi,Gas,Tidak,Tidak,16,Unit,1,1. Kompor Gas Low Pressure (Rinnai TL 289 RI) [16 Unit]
+aceh_selatan__jasa_kawan__m_02,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,2,Kompor Gas High Pressure,Fomac STO-GCL16,"Tekanan Gas : 2800 Pa
+Bahan Bakar : Gas LPJ",Impor,Barang Jadi,Gas,Tidak,Tidak,1,Unit,1,2. Kompor Gas High Pressure (Fomac STO-GCL16) [1 Unit]
+aceh_selatan__jasa_kawan__m_03,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,3,Mixer,Ecohome ESM 999 1100W,"Input Voltage : 400 Watt
+kapasitas : 6,5 Liter
+speed : 6x speed",PDN,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,3. Mixer (Ecohome ESM 999 1100W) [5 Unit]
+aceh_selatan__jasa_kawan__m_04,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,4,Hand Mixer,Philips HR1552,"Daya : 170 Watt
+Setelan kecepatan : 5 tingkat
+Panjang kabel : 1,2 Meter",PDN,Barang Jadi,Listrik,Tidak,Tidak,11,Unit,1,4. Hand Mixer (Philips HR1552) [11 Unit]
+aceh_selatan__jasa_kawan__m_05,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,5,Ampia,Oxone OX-355 AT,"Diameter : 14cm ; Tinggi : 20cm
+Bahan : Stainless steel
+Berat : 3 Kg",PDN,Barang Jadi,Listrik,Tidak,Tidak,16,Unit,1,5. Ampia (Oxone OX-355 AT) [16 Unit]
+aceh_selatan__jasa_kawan__m_06,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,6,Mesin Spinner Peniris Minyak,Produksi Lokal,"Ukuran : 18L
+Bahan: Stainless
+Dimensi (PxLxT) : 60x50x75
+Penggerak dinamo : 1/2 Hp
+Kapasitas : 15-40 Kg/Jam",PDN,TTG,Listrik,Tidak,Tidak,5,Unit,1,6. Mesin Spinner Peniris Minyak (Produksi Lokal) [5 Unit]
+aceh_selatan__jasa_kawan__m_07,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,7,Mesin Pengiris Keripik Pisang/Singkong Elektrik,Produksi Lokal,"""Dimensi persegi : 15,5 x 7 cm x 10 cm
+Dimensi corong Diameter : 7,5 x 9 cm
+Diameter dudukan pisau : 31cm
+Ukuran Mata Pisau : 12,5 x 5 cm
+tebal pisau : 1mm
+Kapasitas : -+30kg/jam""",PDN,TTG,Listrik,Tidak,Tidak,4,Unit,1,7. Mesin Pengiris Keripik Pisang/Singkong Elektrik (Produksi Lokal) [4 Unit]
+aceh_selatan__jasa_kawan__m_08,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,8,Oven Gas Api Atas Bawah,Produksi Lokal,Ukuran : 75 X 55 X 70 CM,PDN,TTG,Gas,Tidak,Tidak,6,Unit,1,8. Oven Gas Api Atas Bawah (Produksi Lokal) [6 Unit]
+aceh_selatan__jasa_kawan__m_09,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,9,Freezer Box,Polytron PCV11S-3,"Kapasitas (L) : 100 Liter
+Suhu : -24 C
+Daya (W) : 80 Watt
+Tegangan : 220V / 1P
+Kapasitas Bek : 8Kg/24 jam",PDN,Barang Jadi,Listrik,Tidak,Tidak,6,Unit,1,9. Freezer Box (Polytron PCV11S-3) [6 Unit]
+aceh_selatan__jasa_kawan__m_10,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,10,Pendingin Showcase,RSA Topaz 600IC,"Suhu : +4 °C sampai +10 °C
+Dimensi unit PxLxT (cm) : 160 x 61 x 197,3
+Kapasitas : 1065L
+Daya listrik : 555 watt
+Tegangan : 220V",PDN,Barang Jadi,Listrik,Tidak,Tidak,3,Unit,1,10. Pendingin Showcase (RSA Topaz 600IC) [3 Unit]
+aceh_selatan__jasa_kawan__m_11,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,11,Cupsealer,Getra SC-A90,"Listrik : 315 Watt
+Dimensi : 205x265x460mm
+Kapasitas Produksi : 100 - 250 cup/jam
+Berat : 14 Kg",PDN,Barang Jadi,Listrik,Tidak,Tidak,5,Unit,1,11. Cupsealer (Getra SC-A90) [5 Unit]
+aceh_selatan__jasa_kawan__m_12,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,12,Sealer,Uniwell vacuum,"Seal : 30cm
+Digunakan untuk : Basah dan Kering
+Tegangan : 220 Volt",Impor,Barang Jadi,Listrik,Tidak,Tidak,4,Unit,1,12. Sealer (Uniwell vacuum) [4 Unit]
+aceh_selatan__jasa_kawan__m_13,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,13,Dandang Bulat Tingkat Dimsum,Produksi Lokal,"Bahan : Stainless steel
+Diameter : 40 cm
+Fitur : terdiri dari 2 susun",PDN,TTG,-,Tidak,Tidak,10,Unit,1,13. Dandang Bulat Tingkat Dimsum (Produksi Lokal) [10 Unit]
+aceh_selatan__jasa_kawan__m_14,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,14,Dandang Siomay,Produksi Lokal,"Bahan : Stainless steel
+Ukuran : 45 x 45 cm",PDN,TTG,-,Tidak,Tidak,6,Unit,1,14. Dandang Siomay (Produksi Lokal) [6 Unit]
+aceh_selatan__jasa_kawan__m_15,aceh_selatan__jasa_kawan,Aceh,Aceh Selatan,KUB Jasa Kawan,15,Genset,Merk Tiger TG 8800E,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,2,Unit,1,15. Genset (Merk Tiger TG 8800E) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_01,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,1,Mesin Cetak Bakso,Produksi Lokal,"Body : stainless
+Kapasitas corong : 8kg
+Tinggi : 120cm
+Lebar : 37cm
+Panjang : 90cm
+Chasing : 05mm
+Dinamo : 0,5hp
+Daya listrik : 370 Watt
+Ukuran pentol : 2-4cm",PDN,TTG,Listrik,Tidak,Ya,1,Unit,1,1. Mesin Cetak Bakso (Produksi Lokal) [1 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_02,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,2,Mesin Adonan Bakso,Produksi Lokal,"Kapasitas : 2-4 Kg
+Daya : 1500 Watt",PDN,TTG,Listrik,Tidak,Ya,1,Unit,1,2. Mesin Adonan Bakso (Produksi Lokal) [1 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_03,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,3,Kompor Gas High Pressure,Fomac STO-GCL16,"Tekanan Gas : 2800 Pa
+Bahan Bakar : Gas LPJ",Impor,Barang Jadi,Gas,Tidak,Tidak,3,Unit,1,3. Kompor Gas High Pressure (Fomac STO-GCL16) [3 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_04,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,4,Chopper,BOLDe,"Daya : 350 Watt
+Kapasitas : 2 Lt
+Terdiri dari 4 Mata pisau",PDN,Barang Jadi,Listrik,Tidak,Tidak,3,Unit,1,4. Chopper (BOLDe) [3 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_05,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,5,Mesin Pembuat Mie,Ossel DZM - 180,"Daya : 260 Watt
+Ukuran Mie : 2 dan 6 mm
+Tebal Adonan : 0.5 - 3.5 mm",Impor,Barang Jadi,Listrik,Tidak,Ya,2,Unit,1,5. Mesin Pembuat Mie (Ossel DZM - 180) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_06,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,6,Freezer Box,Polytron PCV 118-3,"""Kapasitas (L) : 100 Liter
+Suhu : -24 C
+Daya (W) : 80 Watt
+Tegangan : 220V / 1P
+Kapasitas Bek : 8Kg/24 jam""",PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,6. Freezer Box (Polytron PCV 118-3) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_07,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,7,Meja Preparasi Bahan Baku Stainless Steel,Produksi Lokal,Dimensi : 150x80x80,Impor,TTG,-,Ya,Ya,2,Unit,1,7. Meja Preparasi Bahan Baku Stainless Steel (Produksi Lokal) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_08,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,8,Blender,Philips HR 2115,"Kapasitas tabung : 2L
+Kapasitas tabung efektif : 1.5 L
+Daya : 350 W
+Voltase : 220-240",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,8. Blender (Philips HR 2115) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_09,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,9,Timbangan Digital,CAS PRC-15kg,"Capacity: 15 kg
+Type : Counting scale PR-C",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,9. Timbangan Digital (CAS PRC-15kg) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_10,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,10,Dandang Bakso Komplit,Produksi Lokal,"Kapasitas : 8 Kg
+Ukuran : 35 x 41 cm",PDN,TTG,-,Tidak,Tidak,2,Unit,1,10. Dandang Bakso Komplit (Produksi Lokal) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_11,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,11,Mesin Pedal Foot Sealer,Ossel OS-PDS-400,"Listrik : 1200 watt
+Panjang Seal: 350 mm
+Lebar Seal : 5 mm",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,11. Mesin Pedal Foot Sealer (Ossel OS-PDS-400) [2 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_12,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,12,Rak Penyimpanan Peralatan,Produksi Lokal,"Bahan : Stainless Steel
+Model : Rak Terbuka, 4 susun 150 x 50 x 150
+Finishing : Polishing",PDN,TTG,-,Ya,Tidak,1,Unit,1,12. Rak Penyimpanan Peralatan (Produksi Lokal) [1 Unit]
+aceh_selatan__bayu_srikandi_kreatif__m_13,aceh_selatan__bayu_srikandi_kreatif,Aceh,Aceh Selatan,KUB Bayu Srikandi Kreatif,13,Genset,Tiger TG 8800S,"Engine : 389 CC
+Frequency : 50 Hz
+Phase : Single
+Power Factor : 1.0
+AC VOLTS : 220V
+Rated Power : 5kw
+Max Power : 5.5 kw",PDN,Barang Jadi,Bensin,Tidak,Tidak,1,Unit,1,13. Genset (Tiger TG 8800S) [1 Unit]
+nagan_raya__kub_bangkit_bersama__m_01,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,1,Mesin Pengupas Kulit Gabah,Yanmar HW 60AN,"Length [mm] : 1380
+Width [mm] : 840
+Height [mm] : 1580
+Weigth (w/o engine) [kg] : 155
+shaft rotation speed : 1.100 rpm
+Rice milling capacity [kg/jam] : 1.000 - 1.200
+Berat Kosong : 155 kg (tanpa mesin penggerak)
+Keterangan : Tanpa Mesin Penggerak",TKDN,Barang Jadi,Diesel,Ya,-,-,-,1,1. Mesin Pengupas Kulit Gabah (Yanmar HW 60AN) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_02,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,2,Mesin Rice Polisher / Penyosoh Beras,Yanmar YCP220,"Kapasitas : 600-900 kg/jam
+Putaran : 750-850 rpm
+Berat : 146kg (tanpa mesin penggerak)
+Dimensi : 1400x620x1320mm
+Keterangan : Tanpa Mesin Penggerak",TKDN,Barang Jadi,Diesel,-,-,-,-,1,2. Mesin Rice Polisher / Penyosoh Beras (Yanmar YCP220) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_03,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,3,Set Mesin Penggerak Diesel,Yanmar TF 300 H-di,"Power : 30 PK
+Jumlah Silinder : 1
+Putaran : 2400 rpm
+Kapasitas Silinder : 1.472 cc
+Sistem Pendingin : Pendingin tangki / Hopper
+Kapasitas Tangki Bahan Bakar : 29,5 Liter
+Cara Menghidupkan : Manual
+Dimensi 954,5 x 486,5 x 795,5 mm
+Berat kosong mesin diesel : 278,5 kg
+Kelengkapan : Pulley 20 inch 1 pcs, Pulley 16 inch 1 pcs, Pulley 12 inch 2 pcs, Pulley 5 inch 1 pcs, Besi As diameter 2 inch panjang 4 meter 1 pcs",TKDN,Barang Jadi,Diesel,-,-,-,-,1,3. Set Mesin Penggerak Diesel (Yanmar TF 300 H-di) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_04,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,4,Alat Perkakas/Kunci Set/Tool Box Set,Tekiro ST-TB1651,"Jumlah Set Kunci : 66 pcs
+Dimensi Box : 3 Susun
+Material Box : Metal
+Isi Box : 3 pcs Tpr Go-Thru Screwdriver (-), 2 pcs Tpr Go-Thru Screwdriver (+), 14 pcs combination wrench, 1 set punch & chisel set 7 pcs, 18 pcs socket 1/2"" DR 6 PT, 1 pcs ratchet handle kuning hijau 1/2"", 2 pcs extention bar 5"", 10"", 1 pcs universal joint 1/2"", 1 pcs flexible handle 1/2""x15"", 1 pcs ball pein hammer 8 oz, 1 pcs double plastic hammer 35 mm, 1 set kunci L set 9 pcs, 1 pcs waterpump pliers 10"", 1 pcs linesman pliers 7"". 1 pcs long nose pliers 6"", 1 pcs diagonal pliers 6"", 1 pcs tool box 3 susun, 1 pcs eva tool box set
+Berat : 16,9 kg
+Dimensi : 550 x 200 x 290 mm",Impor,Barang Jadi,-,-,-,-,-,1,4. Alat Perkakas/Kunci Set/Tool Box Set (Tekiro ST-TB1651) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_05,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,5,Mesin Jahit Tutup Karung,New Long NP8A,"Double Thread Chain Stitch
+Jarum 1, Benang 2
+High Speed Bag Closer
+Jahitan Panjang (Mm) 8.5 (3 Per Inch)
+Putaran : 10.500 R.p.m @50Hz - 11.500 R.p.m @60Hz
+Drive Motor : 65W 50/60 Hz, 1PH 220Volt",Impor,Barang Jadi,Listrik,-,-,-,-,1,5. Mesin Jahit Tutup Karung (New Long NP8A) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_06,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,6,Pillow Block Bearing/Bearing Duduk,Bebas model UCP 211 - 32,"Tipe : Pillow Block
+Diameter As : 2 inch (50,8 mm)
+Bearing No. : UCP 211-32",Impor,Barang Jadi,-,-,-,-,-,1,6. Pillow Block Bearing/Bearing Duduk (Bebas model UCP 211 - 32) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_07,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,7,Pompa Air Sirkulasi,Bebas model PC40,"Max Capacity : 40 l / menit
+Max Head : 45 M
+Max Suction : 8 M
+Bahan : Besi Cor
+Ukuran Selang : 1 inci",Impor,Barang Jadi,Diesel,-,-,-,-,1,7. Pompa Air Sirkulasi (Bebas model PC40) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_08,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,8,Mesin Amplas Kayu,Makita M9203B,"Continuous Rating Input : 190 W
+Abrasive Paper Size : 93x228 mm
+Orbit Diameter : 2.0 mm
+Orbits Per Minute (OPM) : 12000
+Stroke Per Minute (SPM) : 24000
+Berat Bersih : 1.4 kg",Impor,Barang Jadi,Listrik,-,-,-,-,1,8. Mesin Amplas Kayu (Makita M9203B) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_09,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,9,Mesin Bor Duduk,Westco MK361A,"Motor : 220 V
+Power : 550W
+No Load Speed : 2840 rpm
+Capacity : 16 mm
+Overall dimension : 450 x 340 x 770 mm
+Berat : 53kg
+Working Table size : 210x160mm",Impor,Barang Jadi,Listrik,-,-,-,-,1,9. Mesin Bor Duduk (Westco MK361A) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_10,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,10,Gerinda Potong Duduk Siku (Cut Off Saw),Wipro WP356,"No Load Speed (rpm) : 0-3800
+Blade Diameter (mm) : 355
+Power/Voltage (W/V) : 2000/220
+Berat mesin : 18,2 kg
+Dimensi : 410x300x400mm",Impor,Barang Jadi,Listrik,-,-,-,-,1,10. Gerinda Potong Duduk Siku (Cut Off Saw) (Wipro WP356) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_11,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,11,Mesin Ketam,WIPRO EMQ-443,"Thicnessing width : 300 mm
+Thicnessing depth : 3 mm
+Press Planning Thickness : 125 mm
+Min Press Planning Thickness : 130 mm
+Max Sawing Thickness : 80 mm
+Spindle speed : 3500 r/min
+Berat : 200 kg
+Moto Power : 3 HP",Impor,Barang Jadi,Listrik,-,-,-,-,1,11. Mesin Ketam (WIPRO EMQ-443) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_12,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,12,Mesin Router,Makita M3600B,"Daya Listrik : 1.650 Watt
+Kapasitas Collet : 12 mm
+Kedalaman : 0-60 mm
+Diameter Alas : 160x148 mm
+Kecepatan Tanpa Beban : 22.000 RPM
+Berat : 5,5 kg",Impor,Barang Jadi,Listrik,-,-,-,-,1,12. Mesin Router (Makita M3600B) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_13,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,13,Gergaji Kayu/Jig Saw,Makita M4301B,"Bevel Capacity : 45° left - 45° right
+Capacity - Planing width : 450W
+Length of Stroke : 18mm
+Max. cutting capacities in aluminium at 90° : 12mm
+Max. cutting capacities in steel at 90° : 6mm
+Max. cutting capacities in wood at 90° : 65mm
+Berat 1,9 kg
+Dimensi 214 x 75 x 202 mm",Impor,Barang Jadi,Listrik,-,-,-,-,1,13. Gergaji Kayu/Jig Saw (Makita M4301B) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_14,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,14,Mesin Gergaji Sirkular Tangan Elektrik,Makita 5800NB,"Daya Listrik : 900 W
+Ukuran Pisau : 185 mm 7 -1/8
+Kecepatan tanpa beban : 4500 rpm
+Panjang : 332mm
+Berat : 3 kg",Impor,Barang Jadi,Listrik,-,-,-,-,1,14. Mesin Gergaji Sirkular Tangan Elektrik (Makita 5800NB) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_15,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,15,Mesin Serut Ketam/Mesin Planner tipe Heavy Duty,Makita 1805N/Fujiyama PL9805,"Daya Listrik/ Continuous Rating Input : 1.140 W
+Kelebaran Serut/ Planing width : 155 mm (6-1/8"")
+Kedalaman Serut/ Planing depth : 3 mm
+Kecepatan tanpa beban/ No Load Speed : 15.000 rpm
+Berat : ± 8,2 kg",Impor,Barang Jadi,Listrik,-,-,-,-,1,15. Mesin Serut Ketam/Mesin Planner tipe Heavy Duty (Makita 1805N/Fujiyama PL9805) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_16,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,16,Mesin Las Portable,Lakoni Falcon 120E,"Voltage (V) : 220
+Current Output (A) : 120
+Welding Wire Diameter (mm) : 2-4
+Power (W) : 900
+Duty Cycle : 60% (pada 120A), 100% (pada 100A)
+Dimensi : 270 x 200 x 110 mm",Impor,Barang Jadi,Listrik,-,-,-,-,1,16. Mesin Las Portable (Lakoni Falcon 120E) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_17,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,17,Gerinda Tangan,Makita GA4030,"Daya : 720 W
+Speed : 11.000 rpm
+spindle : M10 x 15
+Diameter : 100 mm (4 inci)
+Panjang kabel : 2,5m
+Berat : 1.7kg
+Dimensi : 266 × 117 × 95 mm
+Lubang diameter : 16mm
+Ukuran Sikat Mangkok Maksimal : 75 mm",Impor,Barang Jadi,Listrik,-,-,-,-,1,17. Gerinda Tangan (Makita GA4030) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_18,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,18,Helm Las,GOSAVE RATCHET KD00-KPHT,"Ukuran Filter : 110 x 90 x 8.5mm
+Tampilan Area Aktif : 93 x 43
+Suhu Operasi : -10 hingga 55 ° C
+Status Bayangan Cahaya : 4
+Status Bayangan Gelap : 9/13",Impor,Barang Jadi,-,-,-,-,-,1,18. Helm Las (GOSAVE RATCHET KD00-KPHT) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_19,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,19,Mesin Bor Tangan Beton / Impact,BOSCH GSB 185-LI,"Kapasitas baterai : 2 Ah
+Tegangan Baterai : 18V
+Laju benturan maks. : 27.000 bpm
+Soft Torque : 21 Nm
+Hard Torque : 50 Nm
+Pengaturan torsi : 20+2
+No-load Speed Gear 1 : hingga 500 rpm
+No-load Speed Gear 2 : hingga 1.900 rpm
+Kapasitas gagang : 1.5–13 mm
+Berat tanpa baterai : 0,99 kg
+Battery Type : Lithium-Ion",Impor,Barang Jadi,Listrik,-,-,-,-,1,19. Mesin Bor Tangan Beton / Impact (BOSCH GSB 185-LI) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_20,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,20,Set Tabung Las Karbit,"Bebas dengan kelengkapan Tabung Las Karbit, Torch, Clamp, Selang","Kapasitas 3kg : 3 Kg
+Tekanan : Tekanan Tinggi
+Kelengkapan : Torch/Blander 1 pcs
+Clamp Catok C 8 inch 1 pcs
+Selang Las 20 m 1 pcs",Impor,Barang Jadi,-,-,-,-,-,1,"20. Set Tabung Las Karbit (Bebas dengan kelengkapan Tabung Las Karbit, Torch, Clamp, Selang) [Cek fisik]"
+nagan_raya__kub_bangkit_bersama__m_21,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,21,Cutting Torch,Yamato Tipe Medium (M-Type) / Double Duty Torch,"Type : M
+Mata Potong : No. 1, No. 2, No.3
+Model : Putar",Impor,Barang Jadi,-,-,-,-,-,1,21. Cutting Torch (Yamato Tipe Medium (M-Type) / Double Duty Torch) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_22,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,22,Set Dinamo/Alternator Las,Set Dinamo/Alternator Las D310 & DH ZS1115,"Tipe Rotating : Brush type
+Reted current : DC300 A
+Reted volt : 30 V
+Duty Cycle : 0,6
+Curent range : 50 A 300 A
+Reted rotation speed : 3000 rpm
+Max output AC : 2kw
+Reted Output : 1.5kw
+Voltage : 220/380 V
+Power factor : 0.8
+Speed rpm : 1500
+Current amper : 15.2
+Mesin diesel :
+Tipe mesin : 4 langkah
+Jumlah silinder : 1 silinder
+Tenaga maximum : 24hp
+Tenaga rata2 : 22hp
+Volume silinder : 1007 CC
+Torsi maxium : 7.48 /1600
+Speed rpm : 2200 rpm
+Sistem pendingin : Air dan hoper
+Kapasitas tangki air radiator : 24 liter
+Kapasitas tangki solar : 18 liter
+Kapasitas oli : 4 liter
+Sistem penyalaan : Engkol
+Rangka genset : Rangka sasis roda
+Dimensi rangka : 200x81x110 CM
+Berat kotor : 450 kg",Impor,Barang Jadi,Listrik,-,-,-,-,1,22. Set Dinamo/Alternator Las (Set Dinamo/Alternator Las D310 & DH ZS1115) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_23,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,23,Set Tabung Las Oksigen,Bebas,"Tabung Oksigen dan Isinya
+Tabung Acytylane dan Isinya
+Blander/Torch
+Selang
+Regulator",Impor,Barang Jadi,-,-,-,-,-,1,23. Set Tabung Las Oksigen (Bebas) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_24,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,24,Bais Ragum Catok Paron/Ragum Duduk,"Bukaan 6 - 7"" bebas","Model : Duduk
+Opening : 6 - 7 inch
+Bahan : Besi Cor",PDN,Barang Jadi,-,Tidak,-,-,-,1,"24. Bais Ragum Catok Paron/Ragum Duduk (Bukaan 6 - 7"" bebas) [Cek fisik]"
+nagan_raya__kub_bangkit_bersama__m_25,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,25,Mesin Sangrai Kopi,Cahaya Agro,"Kapasitas : 5 kg/proses
+Power : 400 W
+Transmisi : Gear Box WPA
+Bahan Silinder Sangrai : Stainless Steel
+Sumber Panas : Kompor LPG
+Dilengkapi alat pendingin dan pembersih, Siklun & Blower Pembuang Gas Asap, Termokontrol
+Dimensi : 120x50x135cm",PDN,TTG,Listrik,Ya,-,-,-,1,25. Mesin Sangrai Kopi (Cahaya Agro) [Cek fisik]
+nagan_raya__kub_bangkit_bersama__m_26,nagan_raya__kub_bangkit_bersama,Aceh,Nagan Raya,KUB Bangkit Bersama,26,Mesin Penggiling Biji Kopi,Cahaya Agro,"Diesel Power : 7.5 hp
+Kapasitas : 25 kg/jam
+Material food contact : stainless steel
+Dimensi : 75x45x100 cm",PDN,TTG,Diesel,Ya,-,-,-,1,26. Mesin Penggiling Biji Kopi (Cahaya Agro) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_01,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,1,Mesin Las Inverter,RHINO Mesin Las DC 250A,"Tipe : DC 250 A
+Frekuensi : 50/60 Hz
+Kapasitas (KVA) : 12
+No. Load Voltage (V) : 65
+Output Current Range (A) : 20-250
+Berat : 6 kg
+Dimensi : 35 x 21 x 28 cm",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,1. Mesin Las Inverter (RHINO Mesin Las DC 250A) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_02,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,2,Mesin Las Tig/Mig,Daiden MIGI 130,"Tegangan Tanpa Beban : 25 V
+Tegangan Masukan : 220 V/50Hz
+Power : 1300-2200 W
+Arus Keluar : 30-130 A
+Diameter Kawat Las : 0.8-0.9 mm
+Kapasitas Kawat MiG : 1 kg
+Tipe Torch : MB 15 Built In",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,2. Mesin Las Tig/Mig (Daiden MIGI 130) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_03,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,3,Bor Tangan Listrik,Bosch GSB600,"Daya listrik 600 W
+Kecepatan pukulan tanpa beban 0 - 48.000 bpm
+Kapasitas gagang 1,5 - 13 mm
+Diameter pengeboran pada beton 13 mm
+Diameter pengeboran pada kayu 25 mm
+Diameter pengeboran pada besi 10 mm
+Diameter pengeboran pada tembok 13 mm
+Berat 1,7 kg
+Tool Dimensions (mm) : 67x290x201",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,3. Bor Tangan Listrik (Bosch GSB600) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_04,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,4,Impact Wrench,APR 84 Promax,"Torsi : 1000 Nm
+Ukuran Drive : 1/2 inch
+Speed : 0 - 2500 rpm
+Motor Type : Brushless Racing",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,4. Impact Wrench (APR 84 Promax) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_05,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,5,Tabung Argon,Bebas kapasitas 6m3,"Kapasitas Tabung : 6 m3
+Bahan material : besi/ baja seamless
+Dengan isinya",Impor,Barang Jadi,-,Tidak,-,-,-,1,5. Tabung Argon (Bebas kapasitas 6m3) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_06,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,6,Kompresor,Shark JWUE 6502,"Daya Motor : 2 HP
+Power : 6.5 HP
+Diameter Piston / Langkah Piston : 65 / 51mm
+Tekanan Udara : 8 kg/cm²
+Displacement : 385 I/min
+Berat : 89 kg
+Dimensi (P x L x T) : 1120 X 480 X 900mm
+Dilengkapi dengan selang kompressor 12 m",TKDN,Barang Jadi,Bensin,Tidak,-,-,-,1,6. Kompresor (Shark JWUE 6502) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_07,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,7,Mesin Paku Tembak (Pistol Paku Baja),Tokio Ramset Gun T200,"Kelengkapan : mesin ramset
+sarung tangan
+kacamata safety
+aksesoris mesin ramset
+paku beton ramset washer 7.3mm
+Tekanan kerja : 8 MPA
+Panjang paku : 25 mm
+Berat : 0,5 kg",Impor,Barang Jadi,-,Tidak,-,-,-,1,7. Mesin Paku Tembak (Pistol Paku Baja) (Tokio Ramset Gun T200) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_08,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,8,Mesin Paku Tembak Angin,NRT-PRO F30+422J/Sejenisnya,"Kapasitas : F30 100 nail, 422J 100 nails
+Nail Size : 1.05 x 1.25 mm & 1.2 x0.6mm
+Nail Length : 10 - 30 mm, 10-22mm
+Operating Pressure : 4-7 bar
+Max Pressure : 8.3 bar
+Jenis Paku : T (F30) dan U (422J)",Impor,Barang Jadi,-,Tidak,-,-,-,1,8. Mesin Paku Tembak Angin (NRT-PRO F30+422J/Sejenisnya) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_09,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,9,Mesin Paku Tembak Angin (Tipe Stapler),DCA A03-1022J/Sejenisnya,"Working Pressure : 4-7 bar
+Inner Dia of Air Pipe : 5mm
+Capacity of magazine : 100 pcs
+Nail Type : Staple
+Nail Size : 0.6x10x22mm
+Berat : 1,11kg",Impor,Barang Jadi,-,Tidak,-,-,-,1,9. Mesin Paku Tembak Angin (Tipe Stapler) (DCA A03-1022J/Sejenisnya) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_10,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,10,Mesin Gergaji Potong Meja,Dewalt DWE7470,"Electrical Power (W) : 1800
+No Load Speed (rpm) : 5000
+Blade Size (mm) : 254
+Max Cut at 90 Degree (mm) : 76.2
+Max Cut at 45 Degree (mm) : 63.5
+Max Cut Width using Dado Blade (mm) : 12.7
+Berat : +- 21 kg",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,10. Mesin Gergaji Potong Meja (Dewalt DWE7470) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_11,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,11,Mesin Serut Ketam/ Planer Medium Duty,DongCheng DMB04-82/Makita,"Max Planning width : 82 mm
+Max Planning depth : 1 mm
+Power Input : 500 W
+Rotational Speed : 16000 rpm",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,11. Mesin Serut Ketam/ Planer Medium Duty (DongCheng DMB04-82/Makita) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_12,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,12,Mesin Es Kristal / Ice Cube Maker,Tomori AC 700,"Storage : 250 Kgs
+Capacity in 24 hours : 224 - 320Kgs
+Capacity Per hours : 9 - 13Kgs
+Body : Stainless Steel SUS304
+Power : 1650 Watt
+Voltage : 220V/1 Phase/50Hz
+Ice Size : 23x23x23MM
+Dim Mesin : 760x860x800MM
+Evaporator Mold Quantity : 15x20 Pcs",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,12. Mesin Es Kristal / Ice Cube Maker (Tomori AC 700) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_13,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,13,Mesin Air RO,Bebas kapasitas 2000gpd,"Tipe : Mesin RO 2000 gpd
+Kapasitas Output : 2000 gpd/400 galon per hari
+Daya : 1,5 HP/220 V",PDN,Barang Jadi,Listrik,Tidak,-,-,-,1,13. Mesin Air RO (Bebas kapasitas 2000gpd) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_14,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,14,Chest Freezer 300 L,Polytron PCF 318,"dimensi produk : 114,4 x 60,5 x 94,5 cm
+konsumsi daya : 130 watt
+kapasitas : 300 liter
+dimensi kemasan : 121,5 x 63,5 x 98 cm
+dimensi produk : 114,4 x 60,5 x 94,5 cm",TKDN,Barang Jadi,Listrik,Tidak,-,-,-,1,14. Chest Freezer 300 L (Polytron PCF 318) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_15,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,15,Chest Freezer 200 L,Polytron PCF 218,"dimensi produk : 86.4 x 58 x 89.5 cm
+konsumsi daya : 110 watt
+kapasitas : 200 liter
+dimensi kemasan : 93.5 x 61 x 93 cm",TKDN,Barang Jadi,Listrik,Tidak,-,-,-,1,15. Chest Freezer 200 L (Polytron PCF 218) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_16,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,16,Oven Listrik,Cahaya Agro,"Kapasitas : 120 L
+Daya : 1200 W
+Tegangan : 220V",PDN,TTG,Listrik,Tidak,-,-,-,1,16. Oven Listrik (Cahaya Agro) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_17,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,17,Showcase Pendingin Kue,GEA RTW-100L,"Tegangan listrik : 220V/1P/50Hz
+Daya : 195 Watt
+Jumlah rak : 2 Pcs
+Temperatur : 2 - 12°C
+Volume : 100 L",Impor,Barang Jadi,Listrik,Tidak,-,-,-,1,17. Showcase Pendingin Kue (GEA RTW-100L) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_18,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,18,Meja Kerja Stainless Steel,Bebas 3 tingkat,"Dimensi : 150x50x95cm
+tebal layer : 4 cm
+tinggi antar layer : 25cm
+bahan : stainless steel
+jumlah tingkat : 3 tingkat",PDN,TTG,-,Tidak,-,-,-,1,18. Meja Kerja Stainless Steel (Bebas 3 tingkat) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_19,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,19,Stand Mixer,Miyako SM-625,"Daya Listrik : 190 W
+Tegangan : 220 V/50 Hz
+Kapasitas Mangkuk : 3,5 liter
+Kecepatan : 5 tingkat
+Bahan material pokok : Plastik",TKDN,Barang Jadi,Listrik,Tidak,-,-,-,1,19. Stand Mixer (Miyako SM-625) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_20,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,20,Mesin Pengaduk Dodol,Cahaya Agro,"Dimensi : 75x75x160cm
+Kapasitas : 10 kg/proses
+Tegangan : AC 220V, 1Phase
+Bahan : Stainless Steel Anti Karat
+Pembakaran: : Kompor Gas LPG",PDN,TTG,Listrik,Ya,-,-,-,1,20. Mesin Pengaduk Dodol (Cahaya Agro) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_21,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,21,Mesin Mixer Besar Industri,Cahaya Agro,"Kapasitas : 15-20 L
+Pengaduk : 2 pengaduk
+Kecepatan : 1.400 Rpm
+Daya : 375 W
+Dimensi : 55x38x70cm",PDN,TTG,Listrik,Ya,-,-,-,1,21. Mesin Mixer Besar Industri (Cahaya Agro) [Cek fisik]
+nagan_raya__kub_jaya_makmur__m_22,nagan_raya__kub_jaya_makmur,Aceh,Nagan Raya,KUB Jaya Makmur,22,Oven Gas Besar,Cahaya Agro,"Kapasitas : 2 Susun
+Pengapian : Api Atas Bawah
+Material kontak bahan : Stainless Steel
+Dilengkapi Grasbul/Glasswool Peredam Panas",PDN,TTG,Gas,Tidak,-,-,-,1,22. Oven Gas Besar (Cahaya Agro) [Cek fisik]
+aceh_barat__kub_teuku_umar_furnitur__m_01,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,1,Mesin Ketam Multifungsi,Oscar,"Daya Maksimal: 2,2 kW
+Max. Planning Width: 300 mm
+Range of Thickness: 6 - 120 mm
+Feeding Speed: 6,5
+Rotation Speed of Arbor: 3.500 rpm
+Max. Drilling Diameter: 13 mm",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,1. Mesin Ketam Multifungsi (Oscar) [2 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_02,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,2,"Mesin Ketam Duduk 12""",Makita,"Ukuran : 12""/304 mm
+Daya listrik : 1.650 Watt
+Kecepatan tanpa beban : 8.500 RPM
+Noise : 83dB",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,"2. Mesin Ketam Duduk 12"" (Makita) [2 Unit]"
+aceh_barat__kub_teuku_umar_furnitur__m_03,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,3,"Mesin Ketam Duduk 16""",Oscar,"Min Planning Width : 400mm
+Min Planing Depth : 4mm
+Motor Power : 3 HP (2200 Watt)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,"3. Mesin Ketam Duduk 16"" (Oscar) [2 Unit]"
+aceh_barat__kub_teuku_umar_furnitur__m_04,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,4,Mesin Router 930 W,Makita,"Continuous Rating Input : 930 W
+Collet Capacity : 12 mm (1/2"")
+Base Diameter : 160 mm (6-1/4"")
+No Load Speed : 23.000 rpm
+Overall Height : 190 mm (7-1/2"")
+Net Weight : 3,6 kg
+Power Supply Cord : 5.0 m (16.4 ft)",Impor,Barang Jadi,Listrik,Tidak,Ya,3,Unit,1,4. Mesin Router 930 W (Makita) [3 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_05,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,5,Mesin Router 1650 W,Makita,"Continuous Rating Input : 1.650 W
+Collet Capacity : 12 mm (1/2"")
+Plunge Capacity : 0 – 60 mm (0 – 2-3/8″)
+No Load Speed : 22.000 rpm
+Vibration Level : Cutting Grooves in MDF: 2.5 m/s²
+Net Weight : 5,5 kg (12,2 lbs.)
+Power Supply Cord : 2.0 m",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,5. Mesin Router 1650 W (Makita) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_06,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,6,Bor Duduk Kayu,Wipro,"Daya : 750 Watt
+Chisel Capacity : 6 – 16 mm
+Drill Chuck Capacity : 1,5 – 13 mm (16 mm)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,6. Bor Duduk Kayu (Wipro) [2 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_07,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,7,Mesin Potong/Circular Saw,Makita,"Daya : 1.050 Watt
+Kapasitas Potongan 0° : 66 mm (2-5/8"")
+Kapasitas Potongan 45° : 44 mm (1-3/4"")
+Diameter Mata Potong : 185 mm (7-1/4"")
+Kecepatan Tanpa Beban : 4.900 rpm",Impor,Barang Jadi,Listrik,Tidak,Ya,2,Unit,1,7. Mesin Potong/Circular Saw (Makita) [2 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_08,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,8,Mesin Potong Besi/Cut Off,Ryu,"Daya Maksimal: 900 Watt
+Diameter Pisau: 7""
+Kecepatan Tanpa Beban: 5.000 - 5.500 rpm",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,8. Mesin Potong Besi/Cut Off (Ryu) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_09,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,9,Mesin Ketam Tangan 450 Watt,Makita,"Daya: 450 Watt
+Lebar Serut Maks: 82 mm
+Kecepatan Tanpa Beban: 16.000 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,9. Mesin Ketam Tangan 450 Watt (Makita) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_10,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,10,Mesin Ketam Tangan 1.140 W,Makita,"Daya : 1.140 Watt
+Lebar Serut : 155 mm (6-1/8"")
+Kecepatan tanpa beban : 15.000 rpm
+Fitur : Dust collecting, wooden carrying case",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,10. Mesin Ketam Tangan 1.140 W (Makita) [2 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_11,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,11,Kompressor Udara Motor Listrik 2HP,Shark,"Daya Motor (HP): 2
+Tekanan Udara (kg/cm²): 8
+Displacement (I/min): 298
+RPM: 625
+Diameter Piston / Langkah Piston (mm): 65 / 51
+Kapasitas Tangki (I): 100",PDN,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,11. Kompressor Udara Motor Listrik 2HP (Shark) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_12,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,12,Kompressor Udara Motor Bensin 2HP,Shark,"Daya Engine (HP): 6.5
+Daya Motor (HP): 2
+Tekanan Udara (kg/cm²): 8
+Displacement (I/min): 385
+RPM: 806
+Diameter Piston / Langkah Piston (mm): 65 / 51
+Kapasitas Tangki (I): 100",PDN,Barang Jadi,Bensin,Ya,Ya,1,Unit,1,12. Kompressor Udara Motor Bensin 2HP (Shark) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_13,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,13,Mesin Wood Crusher,Rekayasa,"Penggerak: Diesel (Maks 8 HP)
+Kapasitas: 100 - 150 Kg/jam
+Material Pisau: Baja",PDN,TTG,Diesel,Ya,Ya,1,Unit,1,13. Mesin Wood Crusher (Rekayasa) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_14,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,14,Mesin Gergaji Belah (Duo Groove Cutter),Makita,"Continuous rating Input 1.160 Watt
+""Max. cutter blade
+size (Diameter x Lebar)"" 120 x 36 mm (4-3/4 x 1-3/8)
+Max. cutting depth (Cutter/ Saw) 30 mm (1-1/8) / 65 mm (2-1/2)
+Kecepatan tanpa beban : 6.500 rpm
+Panjang/ Overall Length : 365 mm (14-3/8)
+Power Supply Cord : 5.0 m (16.4 ft)",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,14. Mesin Gergaji Belah (Duo Groove Cutter) (Makita) [1 Unit]
+aceh_barat__kub_teuku_umar_furnitur__m_15,aceh_barat__kub_teuku_umar_furnitur,Aceh,Aceh Barat,KUB Teuku Umar Furnitur — Furnitur Kayu,15,"Mesin Gerinda Tangan 4""",Makita/Bosch,"Daya: 600 - 900 Watt
+Diameter Batu Gerinda: 4"" (100 mm)
+Kecepatan Tanpa Beban: 11.000 - 12.000 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"15. Mesin Gerinda Tangan 4"" (Makita/Bosch) [1 Unit]"
+aceh_barat__kub_pangan_mandiri__m_01,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,1,Mesin Diesel Penggerak 23 HP,Yanmar,"Daya minimal: 23 PK (23 HP)
+Tipe Mesin: Motor Diesel 4 Langkah
+Kecepatan Maks.: 2.200 rpm",PDN,Barang Jadi,Diesel,Ya,Ya,4,Unit,1,1. Mesin Diesel Penggerak 23 HP (Yanmar) [4 Unit]
+aceh_barat__kub_pangan_mandiri__m_02,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,2,Mesin Diesel Penggerak 19 HP,Yanmar,"Daya minimal: 19 PK (19 HP)
+Tipe Mesin: Motor Diesel 4 Langkah
+Kecepatan Maks.: 2.200 rpm",PDN,Barang Jadi,Diesel,Ya,Ya,1,Unit,1,2. Mesin Diesel Penggerak 19 HP (Yanmar) [1 Unit]
+aceh_barat__kub_pangan_mandiri__m_03,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,3,Timbangan Manual,Crown,Kapasitas: 150 Kg,Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,4,Buah,1,3. Timbangan Manual (Crown) [4 Buah]
+aceh_barat__kub_pangan_mandiri__m_04,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,4,Mesin Jahit Karung Beras,Newlong,"Tipe: Single Thread Chain Stitch
+Kecepatan: 9.000 - 10.500 rpm
+Bentuk: Handheld",Impor,Barang Jadi,Listrik,Tidak,Ya,4,Unit,1,4. Mesin Jahit Karung Beras (Newlong) [4 Unit]
+aceh_barat__kub_pangan_mandiri__m_05,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,5,Mesin Pengupas Kulit Gabah,Yanmar,"Kebutuhan Tenaga Penggerak: 7 - 8,5 HP
+Kapasitas: 1.000 - 1.200 Kg/jam
+Putaran Poros Utama: 1.100 - 1.200 rpm",PDN,TTG,Tanpa Bahan Bakar,Ya,Ya,4,Unit,1,5. Mesin Pengupas Kulit Gabah (Yanmar) [4 Unit]
+aceh_barat__kub_pangan_mandiri__m_06,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,6,Mesin Penyosoh Beras,Rekayasa,"Kebutuhan Tenaga Penggerak: Maksimum 23 HP (Diesel)
+Kapasitas Pengumpan: 650 - 1.000 Kg/Jam",PDN,TTG,Tanpa Bahan Bakar,Ya,Ya,1,Set,1,6. Mesin Penyosoh Beras (Rekayasa) [1 Set]
+aceh_barat__kub_pangan_mandiri__m_07,aceh_barat__kub_pangan_mandiri,Aceh,Aceh Barat,KUB Pangan Mandiri — Penggilingan Padi,7,Mesin Sortasi Beras,Rekayasa,"Daya maksimal : 1 HP
+Kapasitas: maksimal 500 Kg/jam
+Jumlah Screen/ Ayakan: maks. 3",PDN,TTG,Listrik,Ya,Ya,1,Set,1,7. Mesin Sortasi Beras (Rekayasa) [1 Set]
+aceh_barat__kub_kue_tradisi_seuramoe__m_01,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,1,Oven Gas Stainless Steel,Rekayasa,"Kapasitas: 2 susun/ 4 Loyang Kue
+Pengapian: Atas dan Bawah
+Bahan Bakar Pemanas: Gas",PDN,TTG,Gas,Ya,Ya,3,Buah,1,1. Oven Gas Stainless Steel (Rekayasa) [3 Buah]
+aceh_barat__kub_kue_tradisi_seuramoe__m_02,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,2,Mesin Pengaduk Adonan Kue 450 Watt,Getra,"Daya: Maksimal 450 Watt
+Kapasitas Mangkok Minimal: 10 L",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,2. Mesin Pengaduk Adonan Kue 450 Watt (Getra) [1 Unit]
+aceh_barat__kub_kue_tradisi_seuramoe__m_03,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,3,Mesin Pengaduk Adonan Kue,Sinmag,"Daya: Maksimal 900 Watt
+Kapasitas Mangkok Minimal: 20 L",Impor,Barang Jadi,Listrik,Tidak,Ya,4,Unit,1,3. Mesin Pengaduk Adonan Kue (Sinmag) [4 Unit]
+aceh_barat__kub_kue_tradisi_seuramoe__m_04,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,4,Mesin Pengaduk Dodol,Rekayasa,"Penggerak: Maksimal 750 Watt
+Diameter Wajan: 80 cm
+Bahan Material Kontak Produk: Stainless Steel",PDN,TTG,Listrik,Ya,Ya,2,Unit,1,4. Mesin Pengaduk Dodol (Rekayasa) [2 Unit]
+aceh_barat__kub_kue_tradisi_seuramoe__m_05,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,5,Kompor Gas 1 Tungku,Rinnai,"Jumlah Tungku: 1
+Regulator Gas: Low Pressure - Double Ring Burner
+Jenis Pengapian: Piezo Ignition",PDN,Barang Jadi,Gas,Tidak,Tidak,2,Buah,1,5. Kompor Gas 1 Tungku (Rinnai) [2 Buah]
+aceh_barat__kub_kue_tradisi_seuramoe__m_06,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,6,Mesin Continuous Sealer,Wirapax,"Daya maksimal: 700 watt
+Temperatur: 0 - 300 Celcius
+Lebar Seal: 10 mm
+Kecepatan: min. 0-12 m/min",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,6. Mesin Continuous Sealer (Wirapax) [1 Unit]
+aceh_barat__kub_kue_tradisi_seuramoe__m_07,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,7,Freezer box,Polytron,"Daya: 130 Watt
+Kapasitas: 300 L",PDN,Barang Jadi,Listrik,Tidak,Tidak,2,Buah,1,7. Freezer box (Polytron) [2 Buah]
+aceh_barat__kub_kue_tradisi_seuramoe__m_08,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,8,Mesin Pemeras Santan,Rekayasa,"Penggerak: Minimal 5,5 HP (Motor Bensin)
+Kapasitas: 50 - 70 butir/jam
+Bahan: Stainless Steel",PDN,TTG,Bensin,Ya,Ya,2,Set,1,8. Mesin Pemeras Santan (Rekayasa) [2 Set]
+aceh_barat__kub_kue_tradisi_seuramoe__m_09,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,9,Mesin Penggilingan Mie,Willman,"Daya: 370 Watt
+Kapasitas: 15 - 20 Kg/jam
+Lebar Roller : 16 cm",Impor,Barang Jadi,Listrik,Tidak,Ya,2,Buah,1,9. Mesin Penggilingan Mie (Willman) [2 Buah]
+aceh_barat__kub_kue_tradisi_seuramoe__m_10,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,10,Oven Gas Alumunium,Hock,"Kapasitas: 22 L
+Jumlah Loyang: 2 Buah
+Material: Aluminium",PDN,Barang Jadi,Gas,Tidak,Tidak,2,Buah,1,10. Oven Gas Alumunium (Hock) [2 Buah]
+aceh_barat__kub_kue_tradisi_seuramoe__m_11,aceh_barat__kub_kue_tradisi_seuramoe,Aceh,Aceh Barat,KUB Kue Tradisi Seuramoe — Roti dan Kue,11,Wajan Alumunium,Rekayasa,"Diameter: 80 cm
+Bahan: Alumunium",PDN,Barang Jadi,Gas,Tidak,Tidak,1,Buah,1,11. Wajan Alumunium (Rekayasa) [1 Buah]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_01,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,1,Toren Air,Penguin,"Kapasitas: 1.000 L
+Bahan: Plastik HDPE/ MDPE",PDN,Barang Jadi,Tanpa Bahan Bakar,Ya,Tidak,2,Buah,1,1. Toren Air (Penguin) [2 Buah]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_02,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,2,Mesin Pengupas Kulit Kacang Kedelai Otomatis Motor Bensin,Rekayasa,"Bahan: Stainless steel
+Penggerak: Motor Bensin 5.5 - 6.5 HP
+Kapasitas: 100 - 200 kg /jam",PDN,TTG,Bensin,Ya,Ya,3,Set,1,2. Mesin Pengupas Kulit Kacang Kedelai Otomatis Motor Bensin (Rekayasa) [3 Set]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_03,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,3,Mesin Pengemas Tempe,Rekayasa,"Daya maksimal: 900 Watt
+Kapasitas: 10 - 15 pcs /jam
+Tipe Seal: Central Seal
+Tipe Pengemasan: Sistem Volumetrik",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,3. Mesin Pengemas Tempe (Rekayasa) [1 Unit]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_04,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,4,Mesin Pencuci Kedelai Tempe Motor Bensin,Rekayasa,"Penggerak: Motor Bensin (minimal 9 HP)
+Kapasitas minimal: 200 Kg
+Bahan: Stainless Steel",PDN,TTG,Bensin,Ya,Ya,2,Set,1,4. Mesin Pencuci Kedelai Tempe Motor Bensin (Rekayasa) [2 Set]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_05,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,5,Wadah Perebus Kedelai Tempe,-,"Bahan: Stainless Steel
+Bentuk: Bak/Kotak
+Dimensi: 200 x 110 x 95 cm
+Tebal Plat minimal: 4 mm
+Lebar Tepi (lidah): 10 cm",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,2,Buah,1,5. Wadah Perebus Kedelai Tempe [2 Buah]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_06,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,6,Drum Plastik,-,"Kapasitas minimal: 200 Liter
+Dimensi: 58 x 58 x 100 cm
+Bahan: Plastik HDPE",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,5,Buah,1,6. Drum Plastik [5 Buah]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_07,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,7,Kipas Angin Dinding,Sekai,"Tegangan : 220V~ / 50 Hz
+Ukuran : 26” / 65 cm
+Daya : 230 Watt
+Hembusan Udara : 1150 CFM 1953 CMH
+Kecepatan Kipas : 1350 RPM",PDN,Barang Jadi,Listrik,Ya,Tidak,4,Buah,1,7. Kipas Angin Dinding (Sekai) [4 Buah]
+aceh_barat__kub_sentra_tahu_tempe_aceh_barat__m_08,aceh_barat__kub_sentra_tahu_tempe_aceh_barat,Aceh,Aceh Barat,KUB Sentra Tahu Tempe Aceh Barat — Tahu dan Tempe,8,Mesin Pemasak Tahu (Boiler),Rekayasa,"Kapasitas: 700 Kg
+Daya Motor Blower Hisap: 750 Watt
+Daya Motor Blower Dorong: 375 Watt
+Daya Pompa Air: 450 Watt
+Kelengkapan: Panel Otomatis, Pressure gauge, pressure switch, thermometer skala 200 derajat Celsius",PDN,TTG,Listrik,Ya,Ya,1,Set,1,8. Mesin Pemasak Tahu (Boiler) (Rekayasa) [1 Set]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_01,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,1,Mesin Penggiling Kopi 25 Kg/jam,Rekayasa,"Penggerak: Motor Bensin (Minimal 5,5 HP)
+Kapasitas 20 - 30 Kg/jam",PDN,TTG,Bensin,Ya,Ya,2,Set,1,1. Mesin Penggiling Kopi 25 Kg/jam (Rekayasa) [2 Set]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_02,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,2,Mesin Penggiling Kopi 50 Kg/jam,Rekayasa,"Penggerak: Motor Bensin (Minimal 9 HP)
+Kapasitas Minimal 50 Kg/jam",PDN,TTG,Bensin,Ya,Ya,1,Set,1,2. Mesin Penggiling Kopi 50 Kg/jam (Rekayasa) [1 Set]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_03,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,3,Mesin Roasting Kopi,Rekayasa,"Bahan : Plat Stainless
+Bahan Bakar : Gas LPG
+Penggerak : Motor Listrik 400 Watt
+Kapasitas : 3 kg/jam",PDN,TTG,Listrik & LPG,Ya,Ya,1,Unit,1,3. Mesin Roasting Kopi (Rekayasa) [1 Unit]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_04,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,4,Mesin Pengemas Bubuk Kopi,Rekayasa,"Daya maksimal: 900 Watt
+Kapasitas: 800 - 1.200 pcs/jam
+Tipe Seal: Central Seal
+Tipe Pengemasan: Sistem Volumetrik",PDN,TTG,Listrik,Ya,Ya,1,Unit,1,4. Mesin Pengemas Bubuk Kopi (Rekayasa) [1 Unit]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_05,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,5,Wajan Besi,-,"Diameter: 70 cm
+Bahan: Besi Baja",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,1,Buah,1,5. Wajan Besi [1 Buah]
+aceh_barat__kub_seuramoe_kopi_aceh_barat__m_06,aceh_barat__kub_seuramoe_kopi_aceh_barat,Aceh,Aceh Barat,KUB Seuramoe Kopi Aceh Barat — Pengolahan Kopi,6,Mesin Continuous Sealer,Wirapax,"Daya maksimal: 700 watt
+Temperatur: 0 - 300 Celcius
+Lebar Seal: 10 mm
+Kecepatan: min. 0-12 m/min",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,6. Mesin Continuous Sealer (Wirapax) [1 Unit]
+aceh_barat__kub_meulaboh_bata_jaya__m_01,aceh_barat__kub_meulaboh_bata_jaya,Aceh,Aceh Barat,KUB Meulaboh Bata Jaya — Batu Bata,1,Gerobak Sorong,Artco,"Diameter Ban: 33 cm
+Ukuran Bak: 82 x 62 x 50 cm
+Panjang Gagang: 60 cm
+Material: Hardened Iron Steel",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,6,Buah,1,1. Gerobak Sorong (Artco) [6 Buah]
+aceh_barat__kub_meulaboh_bata_jaya__m_02,aceh_barat__kub_meulaboh_bata_jaya,Aceh,Aceh Barat,KUB Meulaboh Bata Jaya — Batu Bata,2,Mesin Bajak Tanah,Quick,"Penggerak: Max. 8,5 HP (Diesel)
+Kecepatan Putaran: 2.200 rpm
+Sistem Pendingin: Radiator
+Kapasitas Oli: 2,5 L",PDN,Barang Jadi,Diesel,Tidak,Ya,4,Unit,1,2. Mesin Bajak Tanah (Quick) [4 Unit]
+aceh_barat__kub_meulaboh_bata_jaya__m_03,aceh_barat__kub_meulaboh_bata_jaya,Aceh,Aceh Barat,KUB Meulaboh Bata Jaya — Batu Bata,3,Mesin Press/Cetak Batu Bata Merah,Rekayasa,"Kapasitas : 5000-10000 biji/hari
+Penggerak : Mesin Diesel (Minimal 24 HP)",PDN,TTG,Diesel,Ya,Ya,3,Unit,1,3. Mesin Press/Cetak Batu Bata Merah (Rekayasa) [3 Unit]
+aceh_barat__kub_meulaboh_bata_jaya__m_04,aceh_barat__kub_meulaboh_bata_jaya,Aceh,Aceh Barat,KUB Meulaboh Bata Jaya — Batu Bata,4,Cangkul,-,"Material Cangkul: Baja
+Material Gagang: Kayu
+Panjang Gagang: 70 cm",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,8,Buah,1,4. Cangkul [8 Buah]
+aceh_barat__kub_meulaboh_bata_jaya__m_05,aceh_barat__kub_meulaboh_bata_jaya,Aceh,Aceh Barat,KUB Meulaboh Bata Jaya — Batu Bata,5,Sekop,-,"Panjang: 100 cm
+Material Sekop: Baja
+Lebar: 24 cm",PDN,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,8,Buah,1,5. Sekop [8 Buah]
+aceh_barat__kub_rencong_logam_aceh_barat__m_01,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,1,"Mesin Gerinda Tangan 4"" 450 Watt",Tahita,"Wheel Size : 4"" (100 mm)
+Power Consumption : 450 Watt
+No-Load Speed : 11.000 - 12.000 RPM
+Voltage : 220V / 50Hz
+Cable Length : Standard ~1 meter",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,"1. Mesin Gerinda Tangan 4"" 450 Watt (Tahita) [2 Unit]"
+aceh_barat__kub_rencong_logam_aceh_barat__m_02,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,2,"Mesin Gerinda Tangan 4""",Makita/Bosch,"Daya: 600 - 900 Watt
+Diameter Batu Gerinda: 4"" (100 mm)
+Kecepatan Tanpa Beban: 11.000 - 12.000 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,3,Unit,1,"2. Mesin Gerinda Tangan 4"" (Makita/Bosch) [3 Unit]"
+aceh_barat__kub_rencong_logam_aceh_barat__m_03,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,3,"Mesin Gerinda Tangan 7""",Maktec,"Daya: 2.000 - 2.200 Watt
+Diameter Batu Gerinda: 7"" (180 mm)
+Kecepatan Tanpa Beban Minimal: 8.500 rpm",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,"3. Mesin Gerinda Tangan 7"" (Maktec) [1 Unit]"
+aceh_barat__kub_rencong_logam_aceh_barat__m_04,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,4,Mesin Bor Tangan 400 W,Bosch,"Power : 400 W
+No-Load Speed : 0 - 2,800 rpm
+Chuck Capacity : 1 mm - 10 mm
+Max Drilling Diameter : 20 mm (wood), 13 (aluminium), 10 mm (steel)",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,4. Mesin Bor Tangan 400 W (Bosch) [2 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_05,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,5,Mesin Bor Tangan,Makita,"Daya : 710 Watt
+Kapasitas : ""Bor Beton - 16mm
+Bor Besi - 13mm""
+Kecepatan tanpa beban : 3.200 rpm
+Fitur : Reversible, Variable speed",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,5. Mesin Bor Tangan (Makita) [1 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_06,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,6,Mesin Bor Tangan Baterai 18 V,Bosch,"Baterai Drill Cordless: 18V
+Torsi (Lunak/keras/maks): 28/50/50 Nmc
+Kecepatan tanpa beban (gigi 1/gigi 2): 460/1.800 rpm",Impor,Barang Jadi,Baterai,Tidak,Tidak,1,Unit,1,6. Mesin Bor Tangan Baterai 18 V (Bosch) [1 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_07,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,7,Kikir Besi,-,"1 Set: 5 Pcs
+Ukuran: 8""
+Material: Baja",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,3,Set,1,7. Kikir Besi [3 Set]
+aceh_barat__kub_rencong_logam_aceh_barat__m_08,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,8,Mesin Potong Besi/Cut Off,Ryu,"Daya Maksimal: 900 Watt
+Diameter Pisau: 7""
+Kecepatan Tanpa Beban: 5.000 - 5.500 rpm",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,8. Mesin Potong Besi/Cut Off (Ryu) [1 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_09,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,9,Las Karbit,-,"Kelengkapan:
+Tabung Oksigen
+Tabung Acetylene
+Selang Las Double Minimal 5 meter
+Regulator Las Oksigen
+Regulator Las Acetylene
+Set Stang Blender",Impor,Barang Jadi,Gas,Ya,Ya,1,Set,1,9. Las Karbit [1 Set]
+aceh_barat__kub_rencong_logam_aceh_barat__m_10,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,10,Mesin Gerinda Duduk,Makita,"Daya: 250 - 450 Watt
+Diameter Batu Gerinda: 150 mm",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,10. Mesin Gerinda Duduk (Makita) [1 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_11,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,11,Mesin Air Hammer 25 Kg,-,"Falling Weight : 25 Kg
+Blow Energy : 270 J
+Number of Blows : 250 min - 1
+Height of Working Area : 240 mm
+Power Match : 2200 Watt
+Square Steel : Hingga ukuran 40 x 40 mm
+Sistem Pengoperasian : Pneumatik mandiri (self-contained pneumatic) dengan kontrol pedal kaki (foot rest lever)",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,11. Mesin Air Hammer 25 Kg [1 Unit]
+aceh_barat__kub_rencong_logam_aceh_barat__m_12,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,12,"Blower Keong 3""",Wipro/Nankai/NRT,"Daya Maksimal: 450 Watt
+Ukuran Output: 3 inch
+Kecepatan Putaran: 2.800 / 3.600 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"12. Blower Keong 3"" (Wipro/Nankai/NRT) [1 Unit]"
+aceh_barat__kub_rencong_logam_aceh_barat__m_13,aceh_barat__kub_rencong_logam_aceh_barat,Aceh,Aceh Barat,KUB Rencong Logam Aceh Barat — Pandai Besi,13,"Blower Keong 4""",Wipro/Nankai/NRT,"Daya: 450 - 900 Watt
+Ukuran Output: 4 inch
+Kecepatan Putaran: 3.000 / 3.600 rpm",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,"13. Blower Keong 4"" (Wipro/Nankai/NRT) [1 Unit]"
+aceh_barat__kub_usaha_bengkel_bersama__m_01,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,1,Kompressor Udara Motor Bensin 2HP,Shark,"Daya Engine (HP): 6.5
+Daya Motor (HP): 2
+Tekanan Udara (kg/cm²): 8
+Displacement (I/min): 385
+RPM: 806
+Diameter Piston / Langkah Piston (mm): 65 / 51
+Kapasitas Tangki (I): 100",PDN,Barang Jadi,Bensin,Ya,Ya,5,Unit,1,1. Kompressor Udara Motor Bensin 2HP (Shark) [5 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_02,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,2,Mesin Las TIG 450 Watt,Lakoni,"Tegangan Input 220 Volt AC
+Phase 1 Phase
+Frekuensi 50/60 Hz
+Arus Output 10–160 Ampere
+Duty Cycle 160A (Non Stop)
+Konsumsi Daya ±450 Watt+
+Diameter Elektroda MMA 1,6 – 4,0 mm",Impor,Barang Jadi,Listrik,Tidak,Ya,2,Unit,1,2. Mesin Las TIG 450 Watt (Lakoni) [2 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_03,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,3,Toolbox Set,Tekiro,"Isi 66 Pcs
+Container Type Metal Case
+Material Chrome Vanadium (Cr-V)",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Tidak,1,Set,1,3. Toolbox Set (Tekiro) [1 Set]
+aceh_barat__kub_usaha_bengkel_bersama__m_04,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,4,Mesin Bor Duduk Milling Mini,Ryu,"Daya Maksimmal: 450 Watt
+Kapasitas Bor Besi: 1,5 - 13 mm
+Kecepatan Tanpa Beban: 740 - 3.140 rpm
+Meja Milling bisa digeser:
+- Sumbu X 190mm
+- Sumbu Y 67mm",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,4. Mesin Bor Duduk Milling Mini (Ryu) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_05,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,5,Mesin Amplas,Bosch,"Voltase Baterai 18 Volt
+Kecepatan Tanpa Beban 6,000 – 10,000 rpm
+Diameter Mata Amplas 125 mm
+Diameter Orbit 2.5 mm
+Jenis Lembaran Amplas Velcro",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,5. Mesin Amplas (Bosch) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_06,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,6,Mesin Bor Impact Driver Cordless 18 V,Bosch,"Tegangan 18V
+Torsi maksimum 215 Nm
+Kecepatan tanpa beban 0 – 3.600 rpm
+Frekuensi impact 0 – 4.000 bpm
+Chuck 1/4” Hex",Impor,Barang Jadi,Baterai,Tidak,Tidak,1,Unit,1,6. Mesin Bor Impact Driver Cordless 18 V (Bosch) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_07,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,7,Las Karbit,-,"Kelengkapan:
+Tabung Oksigen
+Tabung Acetylene
+Selang Las Double Minimal 5 meter
+Regulator Las Oksigen
+Regulator Las Acetylene
+Set Stang Blender",Impor,Barang Jadi,Gas,Ya,Ya,2,Set,1,7. Las Karbit [2 Set]
+aceh_barat__kub_usaha_bengkel_bersama__m_08,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,8,Mesin Poles,Bosch,"Daya Listrik 1250Watt
+Dia. Piringan Wol 180mm
+Kec. Tanpa Beban 750 - 3000 rpm
+Spindle M14 ( + adapter M16 )",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,8. Mesin Poles (Bosch) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_09,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,9,Vacuum Pump AC,Value,"Kapasitas 2.0 CFM / 57 L/min (50Hz)
+Tegangan 230V / 50-60Hz
+Tekanan Utama 2 Pa / 150 Micron",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,9. Vacuum Pump AC (Value) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_10,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,10,Jet Cleaner AC,Kyodo,"Daya Listrik (Power Input): 200 Watt
+Tekanan Kerja Maksimal (Max. Working Pressure): 35 Kg/cm² (sekitar 35 bar)
+Kapasitas Air (Max. Capacity / Water Flow): 2.3 L/min hingga 3.5 L/min (tergantung spesifikasi distributor)
+Tipe Pompa (Water Feed System): Self Priming (bisa sedot air dari ember/wadah sendiri)",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Set,1,10. Jet Cleaner AC (Kyodo) [1 Set]
+aceh_barat__kub_usaha_bengkel_bersama__m_11,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,11,"Mesin Gerinda Tangan 4"" 450 Watt",Tahita,"Wheel Size : 4"" (100 mm)
+Power Consumption : 450 Watt
+No-Load Speed : 11.000 - 12.000 RPM
+Voltage : 220V / 50Hz
+Cable Length : Standard ~1 meter",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,"11. Mesin Gerinda Tangan 4"" 450 Watt (Tahita) [2 Unit]"
+aceh_barat__kub_usaha_bengkel_bersama__m_12,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,12,Air Impact Wrench,Tekiro,"Bolt Cap 45 mm
+Working Torque 952 – 3,270 Nm
+Free Speed 3,52 RPM
+Length 570 mm
+Weight 11.90 kg
+Air Inlet 1/2″ PT",Impor,Barang Jadi,Tanpa Bahan Bakar,Tidak,Ya,2,Unit,1,12. Air Impact Wrench (Tekiro) [2 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_13,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,13,Alat Pembuka Ban Motor dan Mobil,A.H.S,"Motor power 375 watt
+Max Wheel Diameter 10-20 in
+Penggerak Motor 1/2 HP",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,13. Alat Pembuka Ban Motor dan Mobil (A.H.S) [2 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_14,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,14,Impact Wrench Cordless 18 V,Krisbow,"Drive 1/2""""
+Torsi 100-400 NM
+Kecepatan 2200 RPM
+Impact 3300 RPM
+Kapasitas M8-M16",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,14. Impact Wrench Cordless 18 V (Krisbow) [1 Unit]
+aceh_barat__kub_usaha_bengkel_bersama__m_15,aceh_barat__kub_usaha_bengkel_bersama,Aceh,Aceh Barat,KUB Usaha Bengkel Bersama — Reparasi Mobil/Motor/Alat RT,15,Genset,Bison,"Engine Displacement: (cc) 420, 420 cc
+Engine Type 4-stroke
+Rated Frequency 50 hz
+Rated Voltage 220 V
+Rated Power 5 kw
+Max. Power 5,5 kw
+Fuel Tank 25 L
+Continuous Running Time 9 h",PDN,Barang Jadi,Diesel,Tidak,Ya,1,Unit,1,15. Genset (Bison) [1 Unit]
+batu_bara__kub_gula_merah_rayhan__m_01,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,1,Mesin kristalisator gula semut,-,"- Kapasitas sekitar 25 kg per batch atau setara.
+- Pengaduk bermotor dengan pengaturan kecepatan atau sistem pengadukan yang sesuai proses.
+- Pemanas untuk proses pemekatan dan pembentukan kristal.
+- Bagian kontak produk menggunakan stainless steel yang sesuai untuk pangan.",-,-,-,-,-,1,Unit,1,1. Mesin kristalisator gula semut [1 Unit]
+batu_bara__kub_gula_merah_rayhan__m_02,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,2,"Mesin pengering gula semut, kabinet 20 tray",-,"- Tipe kabinet dengan rak bertingkat.
+- Pengatur suhu otomatis dan sirkulasi udara panas merata.
+- Baki mudah dibersihkan dan sesuai untuk pangan.
+- Suhu pengeringan dapat disesuaikan dengan karakteristik gula semut.",-,-,-,-,-,1,Unit,1,"2. Mesin pengering gula semut, kabinet 20 tray [1 Unit]"
+batu_bara__kub_gula_merah_rayhan__m_03,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,3,"Mesin pengayak gula semut, bahan stainless steel",-,"- Tipe kabinet dengan rak bertingkat.
+- Pengatur suhu otomatis dan sirkulasi udara panas merata.
+- Baki mudah dibersihkan dan sesuai untuk pangan.
+- Suhu pengeringan dapat disesuaikan dengan karakteristik gula semut.",-,-,-,-,-,1,Unit,1,"3. Mesin pengayak gula semut, bahan stainless steel [1 Unit]"
+batu_bara__kub_gula_merah_rayhan__m_04,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,4,"Mesin pengayak gula semut, bahan stainless steel",-,"- Motor listrik dengan sistem getar.
+- Minimal dua tingkat ayakan.
+- Ukuran mesh dapat disesuaikan dengan standar produk.
+- Bagian kontak produk dari stainless steel",-,-,-,-,-,1,Unit,1,"4. Mesin pengayak gula semut, bahan stainless steel [1 Unit]"
+batu_bara__kub_gula_merah_rayhan__m_05,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,5,Mesin penepung/penggiling gula semut,-,"- Mesin disk mill atau penggiling khusus gula.
+- Kapasitas disesuaikan dengan volume hasil pengayakan.
+- Bagian kontak produk menggunakan bahan yang sesuai untuk pangan.
+- Mudah dibongkar untuk pembersihan dan perawatan",-,-,-,-,-,1,Unit,1,5. Mesin penepung/penggiling gula semut [1 Unit]
+batu_bara__kub_gula_merah_rayhan__m_06,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,6,Mesin continuous band sealer,-,"- Pengaturan suhu penyegelan.
+- Kecepatan konveyor dapat diatur.
+- Cocok untuk jenis plastik kemasan
+- Tersedia komponen pemanas dan pengatur suhu pengganti.",-,-,-,-,-,1,Unit,1,6. Mesin continuous band sealer [1 Unit]
+batu_bara__kub_gula_merah_rayhan__m_07,batu_bara__kub_gula_merah_rayhan,Sumatera Utara,Batu Bara,KUB Gula Merah Rayhan,7,Timbangan digital untuk bahan dan produk,-,"kapasitas sekitar 30 kg/unit, mudah dibaca",-,-,-,-,-,1,Unit,1,7. Timbangan digital untuk bahan dan produk [1 Unit]
+batu_bara__kub_tenun_padang_genting__m_01,batu_bara__kub_tenun_padang_genting,Sumatera Utara,Batu Bara,KUB Tenun Padang Genting,1,Alat Tenun (OKIK),-,Customized pengrajin lokal,Lokal PDN,-,-,-,-,3,Unit,3,1. Alat Tenun (OKIK) [3 Unit]
+batu_bara__kub_tenun_padang_genting__m_02,batu_bara__kub_tenun_padang_genting,Sumatera Utara,Batu Bara,KUB Tenun Padang Genting,2,Alat Hani (OKIK),-,Customized pengrajin lokal,Lokal PDN,-,-,-,-,3,Unit,3,2. Alat Hani (OKIK) [3 Unit]
+batu_bara__kub_tenun_padang_genting__m_03,batu_bara__kub_tenun_padang_genting,Sumatera Utara,Batu Bara,KUB Tenun Padang Genting,3,Mesin Jahit,"Merk : JUKI Original (JAPAN)
+Tipe : DDL-8100E","Specifications :
+- Berfungsi menjahit lurus dengan jarum 1
+- Kecepatan mesin dapat diatur
+- Kecepatan 4500 S.P.M.
+- Maksimal ketebalan Bahan 10 mm
+- Jarak jahitan dapat diatur hingga 5.0 mm
+- Pengangkat sepatu dapat diangkat hingga 7.0 mm (tangan) - 13.0 mm (lutut)",Lokal (Impor),-,-,-,-,3,Unit,3,"3. Mesin Jahit (Merk : JUKI Original (JAPAN)
+Tipe : DDL-8100E) [3 Unit]"
+batu_bara__kub_tenun_padang_genting__m_04,batu_bara__kub_tenun_padang_genting,Sumatera Utara,Batu Bara,KUB Tenun Padang Genting,4,Mesin Obras Typical,"Merk : TYPICAL (Original)
+Tipe : GN 795","Spesifikasi:
+* Menjahit obras benang 5 yang umumnya dipakai industri kemeja & jas.
+* Panjang jahitan dapat diatur 0.5-3.8mm.
+* Lebar Jahitan 7mm (benang 5)
+* Lebar Jahitan 4mm (benang 3)
+* Lebar Feed ratio dapat diatur dari 0.7 - 2.0
+* Maksimal ketebalan bahan 5.5mm.
+* Kecepatan jahitan maksimal 5500 spm.
+* Menggunakan pelumasan dengan sistem pompa minyak otomatis.",Lokal (Impor),-,-,-,-,3,Unit,3,"4. Mesin Obras Typical (Merk : TYPICAL (Original)
+Tipe : GN 795) [3 Unit]"
+batu_bara__kub_maguro_budidaya_perikanan__m_01,batu_bara__kub_maguro_budidaya_perikanan,Sumatera Utara,Batu Bara,KUB Maguro (Budidaya Perikanan),1,Mesin ekstruder pelet apung,AGR-LPA50,"- Tipe: AGR-LPA50
+- Kapasitas: 50-60 kg/jam
+- Motor Utama: 5.5 kW, 380V
+- Motor Pemotong: 400 watt, 220V
+- Motor Mixer: 400 watt, 220V
+- Pemanas: 800 watt, 220V
+- Tipe Extruder: Single Screw
+- Dimensi: 142 x 113 x 110 cm
+- Cetakan: 10 unit
+- Jenis Cetakan: Pelet ikan 4 pcs (1 mm, 2 mm, 4 mm dan 6 mm),",-,-,-,-,-,1,Unit,1,1. Mesin ekstruder pelet apung (AGR-LPA50) [1 Unit]
+batu_bara__kub_maguro_budidaya_perikanan__m_02,batu_bara__kub_maguro_budidaya_perikanan,Sumatera Utara,Batu Bara,KUB Maguro (Budidaya Perikanan),2,Mesin penepung bahan baku (hammer mill),MHM-200,"- Model & Tipe: MHM-200
+- Merek: Andaro
+- Bahan Bakar: Solar
+- Penggerak: Engine Diesel 20 Hp
+- Kapasitas Produksi: 200Kg / Jam",-,-,-,-,-,1,Unit,1,2. Mesin penepung bahan baku (hammer mill) (MHM-200) [1 Unit]
+batu_bara__kub_maguro_budidaya_perikanan__m_03,batu_bara__kub_maguro_budidaya_perikanan,Sumatera Utara,Batu Bara,KUB Maguro (Budidaya Perikanan),3,Mesin pencampur bahan pakan (mixer),-,"- Kapasitas: 100 kg / jam
+- Power: Diesel 10 Hp
+- Dimensi: 95x85x125 cm
+- Bahan: Mild Steel",-,-,-,-,-,1,Unit,1,3. Mesin pencampur bahan pakan (mixer) [1 Unit]
+batu_bara__kub_maguro_budidaya_perikanan__m_04,batu_bara__kub_maguro_budidaya_perikanan,Sumatera Utara,Batu Bara,KUB Maguro (Budidaya Perikanan),4,Mesin pengering pelet,-,"- Kapasitas: 20 rak / loyang, setara 150 kg
+- Dimensi: 100x80x205 cm
+- Bahan: plat
+- Listrik blower : 200-300 watt , 220 V
+- Sumber panas : LPG",-,-,-,-,-,1,Unit,1,4. Mesin pengering pelet [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_01,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,1,Freezer,-,Chest Freezer GEA AB 318R,-,-,-,-,-,1,Unit,1,1. Freezer [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_02,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,2,Rice Cooker,-,"Midea Digital Rice Cooker
+MBFS5020W",-,-,-,-,-,1,Unit,1,2. Rice Cooker [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_03,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,3,Mini Showcase,-,"Mini Showcase 1 Pintu GEA 92
+Liter Display Cooler EXPO-90FD",-,-,-,-,-,1,Unit,1,3. Mini Showcase [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_04,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,4,Oven Gas,-,Mekar Kapasitas 3 Loyang,-,-,-,-,-,1,Unit,1,4. Oven Gas [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_05,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,5,Kompor 2 Tungku,-,"Rinnai RI-522C bahan ceflon
+dengan 2 sumbu",-,-,-,-,-,2,Unit,2,5. Kompor 2 Tungku [2 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_06,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,6,Timbangan Digital,-,"Monna bakeware, spesifikasi LED
+Display",-,-,-,-,-,2,Unit,2,6. Timbangan Digital [2 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_07,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,7,Mixer,-,"Oxone Standing kapasitas 700
+s/d 1 kg tepung",-,-,-,-,-,1,Unit,1,7. Mixer [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_08,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,8,Kulkas 2 pintu,-,SAMSUNG RT20FARWDSA/SE,-,-,-,-,-,1,Unit,1,8. Kulkas 2 pintu [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_09,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,9,Kompor 2 tungku,-,Rinnai RI-302S,-,-,-,-,-,1,Unit,1,9. Kompor 2 tungku [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_10,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,10,Copper,-,Mitociba CH 200,-,-,-,-,-,1,Unit,1,10. Copper [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_11,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,11,Deep Fryer,-,"Getra Gas Deep Fryer Low
+Pressure GF-71",-,-,-,-,-,1,Unit,1,11. Deep Fryer [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_12,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,12,Mesin Grinder,-,Getra Spice Herb tipe IC-04A,-,-,-,-,-,1,Unit,1,12. Mesin Grinder [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_13,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,13,Blender,-,PHILIPS 5000 series HR2223/30,-,-,-,-,-,1,Unit,1,13. Blender [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_14,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,14,Mesin Penggorengan,-,Getra GF-102G (Double Tank),-,-,-,-,-,1,Unit,1,14. Mesin Penggorengan [1 Unit]
+deli_serdang__kub_paya_geli_berkah_mandiri__m_15,deli_serdang__kub_paya_geli_berkah_mandiri,Sumatera Utara,Deli Serdang,KUB Paya Geli Berkah Mandiri,15,Winn Gas,-,"W-900M Double Lock dengan
+Paket Selang Cabang 2",-,-,-,-,-,1,Unit,1,15. Winn Gas [1 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_01,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,1,Mixer,-,Joil Stand Mixer 5.5L,-,-,-,-,-,3,Unit,3,1. Mixer [3 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_02,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,2,Mesin Sealer,-,"Continuous Band Sealer Plastik
+Horizontal FR-900",-,-,-,-,-,1,Unit,1,2. Mesin Sealer [1 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_03,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,3,Mesin Spinner,-,Kapasitas 5 Kg,-,-,-,-,-,1,Unit,1,3. Mesin Spinner [1 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_04,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,4,Kompor 1 Tungku,-,Rinnai TL-289 RI,-,-,-,-,-,3,Unit,3,4. Kompor 1 Tungku [3 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_05,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,5,Oven,-,"Oven HOCK No. 2 Kapasitas 3
+Loyang",-,-,-,-,-,3,Unit,2,5. Oven [3 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_06,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,6,Blender,-,Blender Philip HR2221/00,-,-,-,-,-,3,Unit,3,6. Blender [3 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_07,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,7,Mesin Sealer,-,"Continuous Band Sealer Plastik
+Horizontal",-,-,-,-,-,1,Unit,1,7. Mesin Sealer [1 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_08,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,8,Kompor 1 Tungku,-,Kompor 2 tungku,-,-,-,-,-,1,Unit,1,8. Kompor 1 Tungku [1 Unit]
+deli_serdang__kub_tanjung_morawa_a__m_09,deli_serdang__kub_tanjung_morawa_a,Sumatera Utara,Deli Serdang,KUB Tanjung Morawa A,9,Mixer,-,Chopper,-,-,-,-,-,1,Unit,1,9. Mixer [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_01,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,1,Oven SHM,-,Oven Deck 1 Tray 3 loyang,-,-,-,-,-,1,Unit,1,1. Oven SHM [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_02,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,2,Chest Freezer,-,Polytron 200 Liter PCF-218,-,-,-,-,-,1,Unit,1,2. Chest Freezer [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_03,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,3,Stand Mixer,-,Sama atau yang lebih rendah wattnya,-,-,-,-,-,1,Unit,1,3. Stand Mixer [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_04,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,4,Oven Deck,-,"Oven deck 2 tray + kaki Merk
+Nichiyama",-,-,-,-,-,2,Unit,2,4. Oven Deck [2 Unit]
+deli_serdang__kub_srikandi_mandiri__m_05,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,5,Mixer Baker Friends,-,Baker's Friend Planetary Mixer - All purpose mixer omega 15 Liter,-,-,-,-,-,1,Unit,1,5. Mixer Baker Friends [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_06,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,6,Rack trolley bakery stainless steel,-,Rak Tingkat 15 susun,-,-,-,-,-,1,Unit,1,6. Rack trolley bakery stainless steel [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_07,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,7,Stand Mixer,-,Ecohome ESM999HD 10 L,-,-,-,-,-,1,Unit,1,7. Stand Mixer [1 Unit]
+deli_serdang__kub_srikandi_mandiri__m_08,deli_serdang__kub_srikandi_mandiri,Sumatera Utara,Deli Serdang,KUB Srikandi Mandiri,8,Timbangan Digital,-,"Ecohome timbangan digital
+EKS1003",-,-,-,-,-,2,Unit,1,8. Timbangan Digital [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_01,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,1,Kompresor Pompa Angin,-,"NLG OL 10-24 Oil-Less
+Compressor",-,-,-,-,-,2,Unit,2,1. Kompresor Pompa Angin [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_02,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,2,Mesin Gilingan dan Penggerak,-,"Mesin Gilingan Tahu / Tempe 12""
+Inch + Penggerak Honda GX200",-,-,-,-,-,2,Unit,2,2. Mesin Gilingan dan Penggerak [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_03,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,3,Genset,-,"Genset Bensin / Gasoline
+Generator Set 7500 Watt PG 9800 E POWERZONE",-,-,-,-,-,2,Unit,2,3. Genset [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_04,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,4,Meja Peragian,-,"Meja Peragian/ Pengeringan
+Tempe Stainless Steel SS 304",-,-,-,-,-,2,Unit,2,4. Meja Peragian [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_05,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,5,Dandang,-,"Dandang Perendaman/
+Perebusan Kedelai Stainless Steel",-,-,-,-,-,4,Unit,2,5. Dandang [4 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_06,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,6,Tahang Stainless steel,-,"Tahang Stainless / Bak
+Perendaman Tahu",-,-,-,-,-,4,Unit,2,6. Tahang Stainless steel [4 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_07,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,7,Mesin Gilingan dan Penggerak,-,"Mesin Gilingan Tahu / Tempe 12""
+Inch + Penggerak Yanmar TF 155 RE 16 PK",-,-,-,-,-,1,Unit,1,7. Mesin Gilingan dan Penggerak [1 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_08,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,8,Meja,-,Meja 2 Tingkat Panjang 3m,-,-,-,-,-,1,Unit,1,8. Meja [1 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_09,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,9,Rak Penyimpanan,-,Rak Besi 5 Tingkat Panjang 6m,-,-,-,-,-,1,Unit,1,9. Rak Penyimpanan [1 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_10,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,10,Kipas Angin,-,"Krisbow 24 Inch Kipas Angin
+Drum Industrial",-,-,-,-,-,2,Unit,1,10. Kipas Angin [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_11,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,11,Mesin Dongfeng 16PK,-,Mesin Diesel Dongfeng S1100 Dompeng 16PK,-,-,-,-,-,1,Unit,1,11. Mesin Dongfeng 16PK [1 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_12,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,12,Kuali,-,Kuali Ukuran 40 cm,-,-,-,-,-,2,Unit,1,12. Kuali [2 Unit]
+deli_serdang__kub_dalu_sepuluh_b_maju_berkah__m_13,deli_serdang__kub_dalu_sepuluh_b_maju_berkah,Sumatera Utara,Deli Serdang,KUB Dalu Sepuluh B Maju Berkah,13,Meja,-,Meja Cetak Tahu Stainless Steel,-,-,-,-,-,1,Unit,1,13. Meja [1 Unit]
+deli_serdang__kub_kriya_deli__m_01,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,1,Mesin jahit,-,"Mesin Jahit Jack A4C Komplit Set
+High Speed",-,-,-,-,-,3,Unit,1,1. Mesin jahit [3 Unit]
+deli_serdang__kub_kriya_deli__m_02,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,2,Mesin Obras,-,"Mesin Jahit TYPICAL GC6-28-1
+Full Set",-,-,-,-,-,1,Unit,1,2. Mesin Obras [1 Unit]
+deli_serdang__kub_kriya_deli__m_03,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,3,Mesin Neci,-,Yamata FY 737A Benang 3 Roll,-,-,-,-,-,1,Unit,1,3. Mesin Neci [1 Unit]
+deli_serdang__kub_kriya_deli__m_04,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,4,Mesin Jahit,-,Jack F6 Direct Drive/ Servo,-,-,-,-,-,1,Unit,1,4. Mesin Jahit [1 Unit]
+deli_serdang__kub_kriya_deli__m_05,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,5,Mesin jahit high speed,-,"Mesin Jahit TYPICAL GC6-28-1
+Full Set",-,-,-,-,-,1,Unit,1,5. Mesin jahit high speed [1 Unit]
+deli_serdang__kub_kriya_deli__m_06,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,6,Mesin Jahit Semi Portable,-,SINGER Flatbed 984 Full Set,-,-,-,-,-,1,Unit,1,6. Mesin Jahit Semi Portable [1 Unit]
+deli_serdang__kub_kriya_deli__m_07,deli_serdang__kub_kriya_deli,Sumatera Utara,Deli Serdang,KUB Kriya Deli,7,Setrika,-,PANASONIC NI-22AWT,-,-,-,-,-,1,Unit,1,7. Setrika [1 Unit]
+deli_serdang__kub_maju_bersama__m_01,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,1,Blower Pembakaran,-,Blower pembakaran Merek UTTU,-,-,-,-,-,1,Unit,1,1. Blower Pembakaran [1 Unit]
+deli_serdang__kub_maju_bersama__m_02,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,2,Sealer,-,"Sealer plastik Merek Arashi
+ARS201",-,-,-,-,-,1,Unit,1,2. Sealer [1 Unit]
+deli_serdang__kub_maju_bersama__m_03,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,3,Kompor 2 Tungku,-,Rinnai RI-522C bahan ceflon dengan 2 sumbu,-,-,-,-,-,1,Unit,1,3. Kompor 2 Tungku [1 Unit]
+deli_serdang__kub_maju_bersama__m_04,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,4,Mesin Pemotong Keripik,-,Mesin Perajang Pemotong Iris Keripik Stainless,-,-,-,-,-,1,Unit,1,4. Mesin Pemotong Keripik [1 Unit]
+deli_serdang__kub_maju_bersama__m_05,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,5,Kuali,-,Kuali Penggorengan Besi ukuran 40 cm,-,-,-,-,-,2,Unit,1,5. Kuali [2 Unit]
+deli_serdang__kub_maju_bersama__m_06,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,6,Blender,-,Blender Phillips HR2221/100,-,-,-,-,-,1,Unit,1,6. Blender [1 Unit]
+deli_serdang__kub_maju_bersama__m_07,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,7,Ampia Listrik,-,Ampia Listrik Asta Mesin Gilingan Mie,-,-,-,-,-,2,Unit,2,7. Ampia Listrik [2 Unit]
+deli_serdang__kub_maju_bersama__m_08,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,8,Timbangan Digital,-,"Monna Bakeware, spesifikasi LED Display",-,-,-,-,-,1,Unit,1,8. Timbangan Digital [1 Unit]
+deli_serdang__kub_maju_bersama__m_09,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,9,Mesin Penggilingan Kacang,-,"Mesin penggilingan kacang dinamo listrik, daya 750-1.500
+watt",-,-,-,-,-,1,Unit,1,9. Mesin Penggilingan Kacang [1 Unit]
+deli_serdang__kub_maju_bersama__m_10,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,10,Mesin iris tempe,-,"Mesin Iris Tempe Listrik 135 Watt
+OSSEL",-,-,-,-,-,1,Unit,1,10. Mesin iris tempe [1 Unit]
+deli_serdang__kub_maju_bersama__m_11,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,11,Sealer Plastik,-,"Sealer Plastik Wirapax Sealer
+FS200 C",-,-,-,-,-,2,Unit,1,11. Sealer Plastik [2 Unit]
+deli_serdang__kub_maju_bersama__m_12,deli_serdang__kub_maju_bersama,Sumatera Utara,Deli Serdang,KUB Maju Bersama,12,Oven Gas,-,"Oven Gas Jumbo Bima Mega
+8044",-,-,-,-,-,1,Unit,1,12. Oven Gas [1 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_01,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),1,Oven Gas 2 Deck 4 Tray,GETRA RFL-24SSGC.E,"Jenis : gas baking oven (deck oven), 2 deck, low pressure
+Kapasitas : 4 loyang ukuran 60 x 40 cm
+Bahan bakar : LPG, 4 burner x 3,3 kW
+Konsumsi gas : 0,64 kg/jam
+Daya listrik : 200 W, 220 V/1 phase
+Ukuran ruang dalam (P x L x T) : 86 x 67,5 x 22 cm
+Rentang suhu : 30–300 °C, pemanggang atas dan bawah
+Kontrol : panel digital, pengatur suhu analog, termometer digital, timer dengan pemutus aliran gas otomatis
+Bahan : stainless steel
+Dimensi (P x L x T) : 131 x 82,5 x 140,5 cm
+Berat : 205 kg (bersih) / 220 kg (kotor)",Impor,Barang Jadi,LPG + Listrik,Ya,Ya,2,Unit,1,1. Oven Gas 2 Deck 4 Tray (GETRA RFL-24SSGC.E) [2 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_02,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),2,Planetary Mixer,GETRA B-20HJ,"Jenis : planetary mixer, gear driven
+Kapasitas wadah : 20 L
+Kapasitas : tepung 4 kg / adonan 6 kg
+Kecepatan : 113/168/386 rpm (3 tingkat)
+Daya : 750 W
+Tegangan : 220 V/1 phase/50 Hz
+Kelengkapan : dough hook, flat beater, wire whip
+Dimensi (P x L x T) : 55 x 44 x 78 cm
+Berat : 72 kg (bersih) / 87 kg (kotor)",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,2. Planetary Mixer (GETRA B-20HJ) [2 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_03,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),3,Blender,PHILIPS HR2221,"Jenis : blender plastik dengan dry mill, ProBlend Crush Technology
+Kapasitas jar : 2 L (kapasitas efektif 1,5 L)
+Daya : 350 W
+Kecepatan : 5 tingkat + pulse, tombol pemecah es (ice crush) dan Quick Clean
+Tombol : piano button (preset dan kecepatan)
+Pisau : 4-star blade, stainless steel, dapat dilepas
+Bahan jar : plastik SAN
+Bahan badan utama : plastik
+Tutup : dapat dilepas
+Pengaman : motor overheat protection (MTP)
+Panjang kabel : 0,85 m, dengan penyimpanan kabel
+Kaki : anti-selip
+Sertifikat : SNI
+Berat : 3,3 kg",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,3. Blender (PHILIPS HR2221) [1 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_04,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),4,Chopper,MITOCHIBA CH250,"Jenis : food chopper listrik, star blade
+Kapasitas : 2 L dan 0,7 L (2 wadah)
+Daya : 300-350 W
+Tegangan : 220 V
+Kecepatan : 2 tingkat (medium/high)
+Pisau : 3 pisau, 5 set mata pisau
+Kelengkapan : pengocok telur
+Bahan : plastik
+Sertifikat SNI
+Berat : 5 kg",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,4. Chopper (MITOCHIBA CH250) [1 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_05,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),5,Mesin Proofer Roti,GETRA FJ-15C,"Jenis : proofer listrik, kabinet stainless steel 1 pintu
+Kapasitas : 15 tray (loyang aluminium)
+Daya : temperature heater 300 W, humidity heater 1.200 W
+Tegangan : 220 V/1 phase/50 Hz
+Kontrol : pengatur suhu digital, pengatur kelembapan (60–80%)
+Suhu proofing : 32–85 °C
+Kelengkapan : roda (castor wheel)
+Dimensi (P x L x T) : 52 x 72 x 190,5 cm
+Berat : 74 kg (bersih) / 78 kg (kotor)",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,5. Mesin Proofer Roti (GETRA FJ-15C) [2 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_06,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),6,Tabung Gas 12 kg,Pertamina / bright,"Tabung LPG Gas 12 kg beserta isi
+Berat : ± 15,1 kg (tabung kosong) / ± 27,1 kg (berisi)",PDN,Barang Jadi,-,Tidak,Tidak,2,Unit,1,6. Tabung Gas 12 kg (Pertamina / bright) [2 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_07,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),7,Showcase,POLYTRON SCN 288,"Jenis : regular showcase 1 pintu
+Kapasitas : 280 L
+Rak : 5 rak (dapat diatur)
+Daya : 170 W
+Sistem pendingin : no frost
+Refrigeran : R600a
+Display suhu : digital
+Pintu : tempered glass anti-fogging (anti embun)
+Lampu : LED
+Kunci : ada
+Fitur : hemat energi
+Sertifikat : SNI
+Garansi : kompresor min 10 tahun
+Dimensi (L x D x T) : 545 x 589 x 1.748 mm
+Berat : 59 kg",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,7. Showcase (POLYTRON SCN 288) [1 Unit]
+kabupaten_agam__ekvo_cake_and_bakery__m_08,kabupaten_agam__ekvo_cake_and_bakery,Sumatera Barat,Kabupaten Agam,KUB Ekvo Cake & Bakery (Evco Cake - PFBB),8,Meja Stainless,GETRA WK-150,"Jenis : meja kerja (working table) stainless steel
+Konstruksi : knock down, dengan rak bawah (board support), kokoh dan meredam suara
+Kaki : dapat diatur (adjustable feet)
+Dimensi (P x L x T) : 150 x 70 x 85–87 cm
+Berat : 31,5 kg",PDN,Barang Jadi,-,Ya,Tidak,2,Unit,1,8. Meja Stainless (GETRA WK-150) [2 Unit]
+kabupaten_agam__rh_teknik__m_01,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,1,Tabung Gas 12 kg,Pertamina / bright,"Tabung LPG Gas 12 kg beserta isi
+Berat : ± 15,1 kg (tabung kosong) / ± 27,1 kg (berisi)",PDN,Barang Jadi,-,Tidak,Tidak,1,Unit,1,1. Tabung Gas 12 kg (Pertamina / bright) [1 Unit]
+kabupaten_agam__rh_teknik__m_02,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,2,Travo Las,ESAB Rogue ES 200i PRO,"Jenis : inverter las MMA (stick) + Live/Lift TIG, kontrol digital, dengan PFC
+Input : 1 phase min 115/230 VAC ±15%, 50/60 Hz
+Arus input maks. / efektif (I1eff) : 30 A / 15 A
+Rentang arus MMA : 20–200 A
+Rentang arus TIG : 10–200 A
+Duty cycle MMA (40 °C) : 200 A/28 V @25%, 129 A/25,2 V @60%, 100 A/24 V @100%
+Diameter elektroda : s.d. 4,0 mm
+Tegangan tanpa beban (OCV) : 78 V DC (VRD < 30 V)
+Energy save mode : 50 W
+Power factor : 0,99
+Efisiensi : 82%
+Kelas proteksi : IP23S,
+Suhu operasi : -10 s.d. +40 °C
+Fitur : hot start dan arc force dapat diatur, VRD, PFC (stabil pada kabel ekstensi panjang), cocok untuk genset (rekomendasi 7 kW)
+Kelengkapan : kabel listrik 3 m + steker, tali bahu, holder elektroda, kabel massa 3 m + klem
+Dimensi (P x L x T) : 403 x 153 x 264 mm
+Berat : 8,4 kg",Impor,Barang Jadi,Listrik,Tidak,Ya,2,Unit,1,2. Travo Las (ESAB Rogue ES 200i PRO) [2 Unit]
+kabupaten_agam__rh_teknik__m_03,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,3,Gerinda Tangan,MAKITA 9553B,"Daya : 710 Watt
+Volt : 220 V
+Freq : 50 / 60Hz
+Depressed Centre Wheel : 100 mm (4"")
+Abbrasive Disc : 100 mm (4"")
+Diamond Wheel : 100 mm (4"")
+Kecepatan Tanpa Beban : 11.000 Rpm
+Ulir Spindle : M10
+Fitur : Auto cut (sikat karbon auto-stop)
+Kabel : 2,5 m
+Kelengkapan : cover pelindung, kunci, mata potong
+Garansi : resmi Makita 2 tahun
+Dimensi : 258 x 118 x 97 mm
+Berat : 1,7 kg",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,3. Gerinda Tangan (MAKITA 9553B) [2 Unit]
+kabupaten_agam__rh_teknik__m_04,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,4,Gerinda Duduk,BOSCH GBG 35-15 Professional,"Jenis : gerinda duduk (bench grinder) 2 batu
+Daya : 350 W, motor induksi bebas perawatan
+Kecepatan tanpa beban : 3.000 rpm
+Diameter batu gerinda : 150 mm
+Lebar batu gerinda : 20 mm
+Lubang batu gerinda : 20 mm
+Grit : 24 dan 60
+Fitur : sandaran benda kerja dapat diatur tanpa alat, pelindung baja, pelindung percikan api
+Tingkat tekanan suara : 70 dB(A)
+Kelengkapan : batu gerinda grit 24 dan grit 60
+Dimensi (P x L x T) : 325 x 175 x 200 mm
+Berat : 10 kg",Impor,Barang Jadi,Listrik,Ya,Tidak,1,Unit,1,4. Gerinda Duduk (BOSCH GBG 35-15 Professional) [1 Unit]
+kabupaten_agam__rh_teknik__m_05,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,5,Bor Tangan,BOSCH GSB 16 RE Professional (06012281K1),"Jenis : bor tangan impact (impact drill), heavy duty
+Daya input : 750 W
+Daya output : 456 W
+Kecepatan tanpa beban : 0–3.250 rpm
+Tingkat hentakan : 0–48.500 bpm
+Torsi : 2,1 Nm
+Kapasitas chuck : 1,5–13 mm (chuck kunci)
+Diameter bor maks. : beton/tembok 16 mm, besi 12 mm, kayu 25 mm
+Diameter leher spindle : 43 mm
+Fitur : putaran kanan/kiri (reversible), pengatur kecepatan (variable speed), housing gigi kokoh
+Tegangan : 230 V
+Kelengkapan : gagang samping, kunci chuck, pembatas kedalaman, kotak alat
+Dimensi (P x L x T) : 285 x 83 x 214 mm
+Berat : 1,8 kg",Impor,Barang Jadi,Listrik,Tidak,Tidak,2,Unit,1,5. Bor Tangan (BOSCH GSB 16 RE Professional (06012281K1)) [2 Unit]
+kabupaten_agam__rh_teknik__m_06,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,6,Toolset 130 pcs,"TEKIRO SC-MT0628 (Mechanic Tools 130 pcs, Box PVC)","Tipe: Box PVC
+Isi (130 buah):
+- 9 bh 1/4 inch Mata Sock 6PT: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10 mm
+- 8 bh 1/4 inch Mata Sock 6PT: 5/32, 3/16, 7/32, 1/4, 9/32, 5/16, 11/32, 3/8 inch
+- 7 bh 3/8 inch Mata Sock 6PT: 3/8, 7/16, 1/2, 9/16, 5/8, 11/16, 3/4 inch
+- 7 bh 3/8 inch Hand Socket 6PT: 11, 12, 13, 14, 15, 17, 19 mm
+- 3 bh Bits 1/4 inch x 25 mm Slotted (-): 3, 4, 6 mm
+- 4 bh Bits 1/4 inch x 25 mm Phillips (+): #0, #1, #2, #3
+- 5 bh Bits 1/4 inch x 25 mm Torx: T8, T10, T15, T20, T25
+- 10 bh Bits 1/4 inch x 25 mm Hex: 1.5, 2, 2.5, 3, 4, 5, 5.5, 6, 7, 8 mm
+- 8 bh Hex Key: 1.5, 2, 2.5, 3, 4, 5, 5.5, 6
+- 7 bh Kunci Pas: 6x7, 8x9, 10x11, 12x13, 14x15, 16x17, 18x19
+- 4 bh Obeng Presisi: (+)#00, (+)#0, (-)1.4, (-)1.8
+- 16 bh Kabel ties nylon
+- 2 bh Blade Fuses 20AMP mini size
+- 20 bh Terminals
+- 1 bh 3/8 inch Gagang Sock 8 inch Gagang Karet 72 teeth
+- 1 bh 3/8 inch Mata Sock Busi 21 mm
+- 1 bh 3/8 inch Sambungan Sock 3 inch
+- 1 bh Adaptor 3/8 inch F x 1/4 inch M
+- 1 bh Mata Obeng Magnet / Magnetic Bit Driver
+- 1 bh Radiator Tester
+- 1 bh Circuit Tester
+- 1 bh Alat Ukur Tekanan Angin
+- 1 bh Sikat Kawat
+- 1 bh Tang Kupas Kabel / Wire Stripper
+- 1 bh Kater / Cutter
+- 1 bh Tang Lancip 6 inch
+- 1 bh Isolasi Kabel Listrik / PVC Tape
+- 1 bh Palu Konde 8 oz
+- 1 bh Tang Slip Joint 8 inch
+- 1 bh Spark Plug Gap Gauge
+- 1 bh Thickness Gauge
+- 1 bh Blade Fuses 10AMP mini size
+- 1 bh Blade Fuses 15AMP mini size
+- 1 bh Blow Mold Case
+Berat: 5.504 g",Impor,Barang Jadi,-,Tidak,Tidak,1,Set,1,"6. Toolset 130 pcs (TEKIRO SC-MT0628 (Mechanic Tools 130 pcs, Box PVC)) [1 Set]"
+kabupaten_agam__rh_teknik__m_07,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,7,Blender Potong,KOIKE MK-100 (Cutting Torch / Strong 25),"Jenis: Gas cutting torch (tip mixing, tekanan medium)
+Gas: LPG - Oksigen dan Asetilen - Oksigen
+Kapasitas potong: maks. 100 mm
+Sudut kepala torch: 90°
+Tuas: top lever dengan pengunci
+Hose connector (nepel): Oksigen 3/8"" (RH), Gas bahan bakar 3/8"" (LH)
+Cutting tip LPG Koike 106HC dan cutting tip Asetilen Koike 102HC:
+- No. 1: tebal 10–15 mm
+- No. 2: tebal 15–30 mm
+- No. 3: tebal 30–40 mm
+Kelengkapan: 1 pcs cutting torch MK-100 + 3 pcs cutting tip 106HC (LPG) No. 1, 2, 3 + 3 pcs cutting tip 102HC (Asetilen) No. 1, 2, 3
+Panjang body: 466 mm
+Berat bersih: 900 g",Impor,Barang Jadi,Gas (Oksigen + LPG/Asetilen),Ya,Ya,2,Unit,1,7. Blender Potong (KOIKE MK-100 (Cutting Torch / Strong 25)) [2 Unit]
+kabupaten_agam__rh_teknik__m_08,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,8,Stang Blender Las Karbit,"VICTOR WH 315FC+ (0382-0093), pengganti 315FC 0382-0034","Jenis : welding handle (stang blender las) heavy duty, Plus Series generasi kedua
+Gas : oksigen dan semua gas bahan bakar standar untuk las, pemanasan, dan pemotongan, termasuk asetilen (karbit)
+Koneksi selang : 9/16""-18 (B-size), oksigen RH / gas LH
+Keselamatan : flashback arrestor dan reverse flow check valve built-in
+Material : kuningan (brass)
+Kompatibel : nozzle las seri W, nozzle pemanas MFA/MFN, cutting attachment CA 2460+
+Panjang : 228 mm (9 in)
+Berat : 0,6 kg",Impor,Barang Jadi,Gas (Oksigen + Asetilen),Ya,Ya,2,Unit,1,"8. Stang Blender Las Karbit (VICTOR WH 315FC+ (0382-0093), pengganti 315FC 0382-0034) [2 Unit]"
+kabupaten_agam__rh_teknik__m_09,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,9,Bor Duduk,RYU RBD 13 (Bench Drill 13 mm),"Daya listrik : 350 W
+Tegangan : 220 VAC, 50/60 Hz
+Arus : 1,5 A
+Kapasitas bor besi : 1,5 - 13 mm (chuck maks. 1/2"")
+Kecepatan tanpa beban : 740 - 3.140 rpm (5 tingkat kecepatan spindel)
+Ukuran meja : 160 x 160 mm, dapat dimiringkan 45° kiri/kanan
+Swing : 210 mm
+Motor : gulungan 100% tembaga
+Kelengkapan : 3 pcs handle grip, kunci L, kunci chuck
+Tinggi : 580 mm
+Berat bersih : 14,5 kg (berat kotor 21,5 kg)
+Ukuran kemasan : 46,5 x 34 x 25,3 cm",Impor,Barang Jadi,Listrik,Ya,Tidak,2,Unit,1,9. Bor Duduk (RYU RBD 13 (Bench Drill 13 mm)) [2 Unit]
+kabupaten_agam__rh_teknik__m_10,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,10,Selang Las Twin (Oksigen - Gas Bakar),"NCR Twin Welding Hose 1/4"" x 3/8""","Jenis : selang las double (twin hose) untuk oksigen dan gas bakar (asetilen/karbit dan LPG)
+Diameter dalam : min 6,3 mm + 9 mm
+Diameter luar : min 13,3 mm + 16,0 mm
+Tekanan kerja : 20 bar (300 psi)
+Tekanan pecah : 60 bar (900 psi)
+Penguat : benang filamen tekstil sintetis kekuatan tarik tinggi",Impor,Barang Jadi,-,Ya,Tidak,2,Unit,1,"10. Selang Las Twin (Oksigen - Gas Bakar) (NCR Twin Welding Hose 1/4"" x 3/8"") [2 Unit]"
+kabupaten_agam__rh_teknik__m_11,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,11,Tabung Gas Oksigen,-,"Tabung gas oksigen industri
+Kapasitas Gas : 6 m3
+Tinggi Tabung : 1.500 mm
+Warna Tabung : Putih / Biru",PDN,Barang Jadi,-,Tidak,Tidak,1,Unit,1,11. Tabung Gas Oksigen [1 Unit]
+kabupaten_agam__rh_teknik__m_12,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,12,Regulator Oksigen,HARRIS 25GX-10-O2,"Jenis : regulator tabung single-stage heavy duty
+Gas : oksigen (O2)
+Tekanan masuk maks. : 230 bar
+Tekanan kerja (outlet) : 0 - 10 bar
+Diafragma : diameter 70 mm (menstabilkan tekanan kerja)
+Body : kuningan tempa (forged brass), bonnet krom
+Kapasitas aliran : cukup untuk memotong baja hingga 400 mm
+Dilengkapi 2 manometer (tekanan tabung & tekanan kerja)
+Dimensi : 233 x 151 mm",Impor,Barang Jadi,-,Ya,Tidak,1,Unit,1,12. Regulator Oksigen (HARRIS 25GX-10-O2) [1 Unit]
+kabupaten_agam__rh_teknik__m_13,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,13,Regulator LPG,TEKIRO Heavy Duty Welding Regulator LPG (WE-RL1741),"Jenis : regulator tabung untuk las/potong, heavy duty
+Gas : LPG / propane
+Tekanan masuk maks. : 40 kgf/cm²
+Tekanan kerja : 4 kgf/cm²
+Laju aliran standar : 1,5 Nm³/jam (pada 15 kgf/cm²)
+Laju aliran maks. : 3 Nm³/jam
+Manometer tekanan tabung : 0-50 kgf/cm² (725 lb/in²)
+Manometer tekanan kerja : 0-6 kgf/cm² (87 lb/in²)
+Koneksi inlet : BSP (British Standard Pipe)
+Koneksi outlet : M16 x P1.5 (LH) + hose nipple
+Material : kuningan (brass), filter inlet sintered metal, tanpa sambungan solder
+Berat : 1,2 kg",Impor,Barang Jadi,-,Ya,Tidak,1,Unit,1,13. Regulator LPG (TEKIRO Heavy Duty Welding Regulator LPG (WE-RL1741)) [1 Unit]
+kabupaten_agam__rh_teknik__m_14,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,14,Flashback Arrestor,HARRIS 188RGB (Oksigen),"Jenis : flashback arrestor tipe regulator (dipasang di outlet regulator)
+Gas : oksigen
+Ulir : G 3/8"" RH (ISO 228) inlet & outlet
+Aliran maks. : 100.000 l/jam
+Pengaman : flame arrestor (filter sinter stainless steel) + non-return valve (FA, NV)",Impor,Barang Jadi,-,Ya,Tidak,1,Unit,1,14. Flashback Arrestor (HARRIS 188RGB (Oksigen)) [1 Unit]
+kabupaten_agam__rh_teknik__m_15,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,15,Check Valve,"VICTOR Check Valve CTO-CTF (0690-0011), sepasang oksigen & gas bakar","Jenis : check valve tipe torch (dipasang di inlet torch), 1 pasang
+Gas : oksigen (R) dan gas bahan bakar (L)
+Koneksi : 9/16""-18 RH (oksigen) dan 9/16""-18 LH (gas bakar)
+Material : kuningan, pegas katup stainless steel",Impor,Barang Jadi,-,Ya,Tidak,1,Set,1,"15. Check Valve (VICTOR Check Valve CTO-CTF (0690-0011), sepasang oksigen & gas bakar) [1 Set]"
+kabupaten_agam__rh_teknik__m_16,kabupaten_agam__rh_teknik,Sumatera Barat,Kabupaten Agam,KUB RH Teknik,16,Stabilizer AVR 1 Phase,MATSUNAGA Stavol SVC-1000N,"Jenis : stabilizer tegangan otomatis (AVR) servo motor control, 1 phase
+Kapasitas : 1.000 VA
+Input : 150 - 250 V, 50/60 Hz
+Output : 110 V / 220 V (3 colokan: 1x 110 V, 2x 220 V)
+Arus : 4,5 A
+Efisiensi : > 90%
+Fitur : soft start, circuit breaker, fuse 5 A, saklar power, voltmeter analog
+Suhu kerja : -10 s.d. 40 °C, kelembaban < 95%",PDN,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,16. Stabilizer AVR 1 Phase (MATSUNAGA Stavol SVC-1000N) [1 Unit]
+kabupaten_agam__penjahit_maju_jaya__m_01,kabupaten_agam__penjahit_maju_jaya,Sumatera Barat,Kabupaten Agam,KUB Penjahit Maju Jaya,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,4,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [4 Unit]
+kabupaten_agam__penjahit_maju_jaya__m_02,kabupaten_agam__penjahit_maju_jaya,Sumatera Barat,Kabupaten Agam,KUB Penjahit Maju Jaya,2,Mesin Obras Benang 5,Typical GN795,"Mesin obras 5 benang 2 jarum
+- Jenis jahitan : obras 3 benang & obras 5 benang
+- Lebar jahitan : 7 mm (5 benang) / 4 mm (3 benang)
+- Panjang jahitan : 0,5 – 3,8 mm
+- Rasio feed : 0,7 – 2,0 (dapat diatur)
+- Ketebalan bahan maks. : 5,5 mm
+- Kecepatan maks. : 5.500 spm
+- Sistem pelumasan : otomatis (pompa oli)
+- Kelengkapan : meja grade A, kaki industrial model T, dinamo servo, dan tool kit (tiang benang, oli, spul, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,4,Unit,1,2. Mesin Obras Benang 5 (Typical GN795) [4 Unit]
+kabupaten_agam__penjahit_maju_jaya__m_03,kabupaten_agam__penjahit_maju_jaya,Sumatera Barat,Kabupaten Agam,KUB Penjahit Maju Jaya,3,Mesin Jahit Portable,SINGER M1155,"Mesin jahit portable
+- Pola jahitan : 7 pola (14 pilihan jahitan)
+- Pelubang kancing : 4 langkah
+- Pemotong benang
+- Pemutar bobbin otomatis
+- Pengatur pola jahitan
+- Pengatur tekanan benang atas
+- Tuas jahitan mundur
+- Lampu LED
+- Daya : 50 W (low watt)
+- Dimensi (P x L x T) : ± 425 x 174 x 320 mm
+- Berat : ± 6 kg",Impor,Barang Jadi,Listrik,Tidak,Tidak,4,Unit,1,3. Mesin Jahit Portable (SINGER M1155) [4 Unit]
+kabupaten_agam__kampuang_malayu_bersatu__m_01,kabupaten_agam__kampuang_malayu_bersatu,Sumatera Barat,Kabupaten Agam,KUB Kampuang Malayu Bersatu,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,7,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [7 Unit]
+kabupaten_agam__kampuang_malayu_bersatu__m_02,kabupaten_agam__kampuang_malayu_bersatu,Sumatera Barat,Kabupaten Agam,KUB Kampuang Malayu Bersatu,2,Mesin Obras Benang 5,Typical GN795,"Mesin obras 5 benang 2 jarum
+- Jenis jahitan : obras 3 benang & obras 5 benang
+- Lebar jahitan : 7 mm (5 benang) / 4 mm (3 benang)
+- Panjang jahitan : 0,5 – 3,8 mm
+- Rasio feed : 0,7 – 2,0 (dapat diatur)
+- Ketebalan bahan maks. : 5,5 mm
+- Kecepatan maks. : 5.500 spm
+- Sistem pelumasan : otomatis (pompa oli)
+- Kelengkapan : meja grade A, kaki industrial model T, dinamo servo, dan tool kit (tiang benang, oli, spul, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,2. Mesin Obras Benang 5 (Typical GN795) [1 Unit]
+kabupaten_agam__kampuang_malayu_bersatu__m_03,kabupaten_agam__kampuang_malayu_bersatu,Sumatera Barat,Kabupaten Agam,KUB Kampuang Malayu Bersatu,3,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,7,Unit,1,3. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [7 Unit]
+kabupaten_agam__penjahit_nak_tareh__m_01,kabupaten_agam__penjahit_nak_tareh,Sumatera Barat,Kabupaten Agam,KUB Penjahit Nak Tareh,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,3,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [3 Unit]
+kabupaten_agam__penjahit_nak_tareh__m_02,kabupaten_agam__penjahit_nak_tareh,Sumatera Barat,Kabupaten Agam,KUB Penjahit Nak Tareh,2,Mesin obras kaos benang 4,Typical GN794,"Mesin Obras Industri Benang 4 (2 jarum)
+- Dinamo Servo Motor Direct Drive
+- Kecepatan maks. 5.500 spm
+- Ketebalan bahan maks. 13 mm
+- Panjang jahitan s.d. 5,0 mm
+- Angkatan sepatu 5,0 mm (tangan) / 13 mm (lutut)
+- Pelumasan otomatis
+- Dilengkapi meja, kaki meja, aksesoris standar (tiang benang, oli, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,2. Mesin obras kaos benang 4 (Typical GN794) [2 Unit]
+kabupaten_agam__penjahit_nak_tareh__m_03,kabupaten_agam__penjahit_nak_tareh,Sumatera Barat,Kabupaten Agam,KUB Penjahit Nak Tareh,3,Mesin Neci,Typical GN 793D,"Mesin jahit tepi tipis (neci) 3 benang
+- Jarum : 1 / 2
+- Kecepatan maks. : 5.500 spm
+- Ketebalan bahan maks. : 13 mm
+- Panjang jahitan : s.d. 5,0 mm
+- Pengangkat sepatu : 5,0 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,3. Mesin Neci (Typical GN 793D) [1 Unit]
+kabupaten_agam__ummi_berkarya__m_01,kabupaten_agam__ummi_berkarya,Sumatera Barat,Kabupaten Agam,KUB Ummi Berkarya,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,4,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [4 Unit]
+kabupaten_agam__ummi_berkarya__m_02,kabupaten_agam__ummi_berkarya,Sumatera Barat,Kabupaten Agam,KUB Ummi Berkarya,2,Mesin Obras Benang 5,Typical GN795,"Mesin obras 5 benang 2 jarum
+- Jenis jahitan : obras 3 benang & obras 5 benang
+- Lebar jahitan : 7 mm (5 benang) / 4 mm (3 benang)
+- Panjang jahitan : 0,5 – 3,8 mm
+- Rasio feed : 0,7 – 2,0 (dapat diatur)
+- Ketebalan bahan maks. : 5,5 mm
+- Kecepatan maks. : 5.500 spm
+- Sistem pelumasan : otomatis (pompa oli)
+- Kelengkapan : meja grade A, kaki industrial model T, dinamo servo, dan tool kit (tiang benang, oli, spul, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,2. Mesin Obras Benang 5 (Typical GN795) [1 Unit]
+kabupaten_agam__ummi_berkarya__m_03,kabupaten_agam__ummi_berkarya,Sumatera Barat,Kabupaten Agam,KUB Ummi Berkarya,3,Mesin Neci,Typical GN 793D,"Mesin jahit tepi tipis (neci) 3 benang
+- Jarum : 1 / 2
+- Kecepatan maks. : 5.500 spm
+- Ketebalan bahan maks. : 13 mm
+- Panjang jahitan : s.d. 5,0 mm
+- Pengangkat sepatu : 5,0 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,3. Mesin Neci (Typical GN 793D) [2 Unit]
+kabupaten_agam__ummi_berkarya__m_04,kabupaten_agam__ummi_berkarya,Sumatera Barat,Kabupaten Agam,KUB Ummi Berkarya,4,Mesin Bordir Komputer,CNY E960,"Mesin bordir komputer
+- Layar : layar sentuh 7 inci
+- Desain bordir bawaan : 75 desain
+- Pola jahit dan lubang kancing : 67 pola
+- Area bordir : 10 x 10 cm dan 23,5 x 10 cm
+- Format desain : DST
+- Koneksi : USB
+- Fitur : pemasuk dan pemotong benang otomatis
+- Kecepatan : 650 spm",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,4. Mesin Bordir Komputer (CNY E960) [1 Unit]
+kabupaten_agam__ummi_berkarya__m_05,kabupaten_agam__ummi_berkarya,Sumatera Barat,Kabupaten Agam,KUB Ummi Berkarya,5,Mesin Steam Press Portable,Hakatori ESP 810E - 32 inch,"Mesin steam press portable
+- Lebar papan : 32 inci (80 cm)
+- Daya : 1.600 W
+- Tegangan : 220 – 240 V
+- Suhu : 80 – 220 °C
+- Botol air : 300 ml",Impor,Barang Jadi,Listrik,Tidak,Tidak,1,Unit,1,5. Mesin Steam Press Portable (Hakatori ESP 810E - 32 inch) [1 Unit]
+kabupaten_agam__cahaya_collection__m_01,kabupaten_agam__cahaya_collection,Sumatera Barat,Kabupaten Agam,KUB Cahaya Collection,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [1 Unit]
+kabupaten_agam__cahaya_collection__m_02,kabupaten_agam__cahaya_collection,Sumatera Barat,Kabupaten Agam,KUB Cahaya Collection,2,Mesin Obras Benang 5,Typical GN795,"Mesin obras 5 benang 2 jarum
+- Jenis jahitan : obras 3 benang & obras 5 benang
+- Lebar jahitan : 7 mm (5 benang) / 4 mm (3 benang)
+- Panjang jahitan : 0,5 – 3,8 mm
+- Rasio feed : 0,7 – 2,0 (dapat diatur)
+- Ketebalan bahan maks. : 5,5 mm
+- Kecepatan maks. : 5.500 spm
+- Sistem pelumasan : otomatis (pompa oli)
+- Kelengkapan : meja grade A, kaki industrial model T, dinamo servo, dan tool kit (tiang benang, oli, spul, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,2. Mesin Obras Benang 5 (Typical GN795) [2 Unit]
+kabupaten_agam__cahaya_collection__m_03,kabupaten_agam__cahaya_collection,Sumatera Barat,Kabupaten Agam,KUB Cahaya Collection,3,Mesin obras kaos benang 4,Typical GN794,"Mesin Obras Industri Benang 4 (2 jarum)
+- Dinamo Servo Motor Direct Drive
+- Kecepatan maks. 5.500 spm
+- Ketebalan bahan maks. 13 mm
+- Panjang jahitan s.d. 5,0 mm
+- Angkatan sepatu 5,0 mm (tangan) / 13 mm (lutut)
+- Pelumasan otomatis
+- Dilengkapi meja, kaki meja, aksesoris standar (tiang benang, oli, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,1,Unit,1,3. Mesin obras kaos benang 4 (Typical GN794) [1 Unit]
+kabupaten_agam__cahaya_collection__m_04,kabupaten_agam__cahaya_collection,Sumatera Barat,Kabupaten Agam,KUB Cahaya Collection,4,Mesin Potong Kain,"KM LUMINO AUV 10""","Mesin potong kain tegak (straight knife cutting machine) kelas industri
+- Ukuran mata pisau : 10"" (25,4 cm)
+- Kapasitas potong : 25,4 cm
+- Daya : 500 W
+- Dinamo : gulungan full tembaga
+- Sistem pelumasan : otomatis
+- Pengasah pisau : otomatis
+- Saklar on/off
+- Berat : ± 10 kg",Impor,Barang Jadi,Listrik,Tidak,Ya,1,Unit,1,"4. Mesin Potong Kain (KM LUMINO AUV 10"") [1 Unit]"
+kabupaten_agam__cahaya_collection__m_05,kabupaten_agam__cahaya_collection,Sumatera Barat,Kabupaten Agam,KUB Cahaya Collection,5,Mesin Jahit Kaos / Overdeck,YAMATA FY 31016-02BB,"Mesin jahit kaos overdeck / cover stitch (kamput) industri, untuk hemming dan leher kaos
+Kecepatan maks. : 5.500 spm
+Ketebalan bahan maks. : 12 mm
+Panjang dan lebar jahitan : dapat diatur s.d. 6,4 mm
+Pengangkat sepatu : 5,0 mm (tangan) / 13 mm (lutut)
+Sistem pelumasan : otomatis
+Kelengkapan : meja, kaki industri model T, dinamo, tool kit (tiang benang, oli, spool, jarum, obeng, tiang pasang bias tape)",Impor,Barang Jadi,Listrik,Ya,Ya,3,Unit,1,5. Mesin Jahit Kaos / Overdeck (YAMATA FY 31016-02BB) [3 Unit]
+kabupaten_agam__belok_ikan_bersahaja__m_01,kabupaten_agam__belok_ikan_bersahaja,Sumatera Barat,Kabupaten Agam,KUB Belok Ikan Bersahaja,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,9,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [9 Unit]
+kabupaten_agam__belok_ikan_bersahaja__m_02,kabupaten_agam__belok_ikan_bersahaja,Sumatera Barat,Kabupaten Agam,KUB Belok Ikan Bersahaja,2,Mesin Obras Benang 5,Typical GN795,"Mesin obras 5 benang 2 jarum
+- Jenis jahitan : obras 3 benang & obras 5 benang
+- Lebar jahitan : 7 mm (5 benang) / 4 mm (3 benang)
+- Panjang jahitan : 0,5 – 3,8 mm
+- Rasio feed : 0,7 – 2,0 (dapat diatur)
+- Ketebalan bahan maks. : 5,5 mm
+- Kecepatan maks. : 5.500 spm
+- Sistem pelumasan : otomatis (pompa oli)
+- Kelengkapan : meja grade A, kaki industrial model T, dinamo servo, dan tool kit (tiang benang, oli, spul, jarum, obeng)",Impor,Barang Jadi,Listrik,Ya,Ya,2,Unit,1,2. Mesin Obras Benang 5 (Typical GN795) [2 Unit]
+kabupaten_agam__belok_ikan_bersahaja__m_03,kabupaten_agam__belok_ikan_bersahaja,Sumatera Barat,Kabupaten Agam,KUB Belok Ikan Bersahaja,3,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,7,Unit,1,3. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [7 Unit]
+kabupaten_agam__batu_asahan_sepakat__m_01,kabupaten_agam__batu_asahan_sepakat,Sumatera Barat,Kabupaten Agam,KUB Batu Asahan Sepakat,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,12,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [12 Unit]
+kabupaten_agam__batu_asahan_sepakat__m_02,kabupaten_agam__batu_asahan_sepakat,Sumatera Barat,Kabupaten Agam,KUB Batu Asahan Sepakat,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,10,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [10 Unit]
+kabupaten_agam__kampung_lalang_saiyo__m_01,kabupaten_agam__kampung_lalang_saiyo,Sumatera Barat,Kabupaten Agam,KUB Kampung Lalang Saiyo,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,11,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [11 Unit]
+kabupaten_agam__kampung_lalang_saiyo__m_02,kabupaten_agam__kampung_lalang_saiyo,Sumatera Barat,Kabupaten Agam,KUB Kampung Lalang Saiyo,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,10,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [10 Unit]
+kabupaten_agam__kampung_jampita_indah__m_01,kabupaten_agam__kampung_jampita_indah,Sumatera Barat,Kabupaten Agam,KUB Kampung Jampita Indah,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,8,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [8 Unit]
+kabupaten_agam__kampung_jampita_indah__m_02,kabupaten_agam__kampung_jampita_indah,Sumatera Barat,Kabupaten Agam,KUB Kampung Jampita Indah,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,11,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [11 Unit]
+kabupaten_agam__jembatan_subarang_saiyo__m_01,kabupaten_agam__jembatan_subarang_saiyo,Sumatera Barat,Kabupaten Agam,KUB Jembatan Subarang Saiyo,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,13,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [13 Unit]
+kabupaten_agam__jembatan_subarang_saiyo__m_02,kabupaten_agam__jembatan_subarang_saiyo,Sumatera Barat,Kabupaten Agam,KUB Jembatan Subarang Saiyo,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,14,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [14 Unit]
+kabupaten_agam__lereng_maju_bersama__m_01,kabupaten_agam__lereng_maju_bersama,Sumatera Barat,Kabupaten Agam,KUB Lereng Maju Bersama,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,8,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [8 Unit]
+kabupaten_agam__lereng_maju_bersama__m_02,kabupaten_agam__lereng_maju_bersama,Sumatera Barat,Kabupaten Agam,KUB Lereng Maju Bersama,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,10,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [10 Unit]
+kabupaten_agam__ngalau_indah_sejahtera__m_01,kabupaten_agam__ngalau_indah_sejahtera,Sumatera Barat,Kabupaten Agam,KUB Ngalau Indah Sejahtera,1,Mesin Jahit Lurus,Typical GC6281,"Mesin jahit lurus (lockstitch) high speed jarum 1
+- Dapat menjahit bahan tipis sampai tebal (kulit, jeans, kulit imitasi)
+- Kecepatan maks. : 4.500 spm
+- Ketebalan bahan maks. : 10 mm
+- Panjang jahitan : dapat diatur s.d. 5 mm
+- Pengangkat sepatu : 7 mm (tangan) / 13 mm (lutut)
+- Sistem pelumasan : otomatis
+- Dinamo : servo
+- Berat : ± 20 kg
+- Kelengkapan : meja, kaki, dan dinamo servo",Impor,Barang Jadi,Listrik,Ya,Ya,7,Unit,1,1. Mesin Jahit Lurus (Typical GC6281) [7 Unit]
+kabupaten_agam__ngalau_indah_sejahtera__m_02,kabupaten_agam__ngalau_indah_sejahtera,Sumatera Barat,Kabupaten Agam,KUB Ngalau Indah Sejahtera,2,Mesin Jahit Hitam,BUTTERFLY JA 1-1,"Spesifikasi :
+1. Mesin Jahit Jarum 1 Traditional
+2. Body dan Sparepart Full Besi
+3. Speed 1,500 s.p.m""
+Kelengkapan :
+- 1 unit Mesin Jahit
+- 1 unit Dinamo 120 Watt
+- 1 set Meja Laci
+- 1 set Kaki Genjot
+- 1 Tool Kit Standard
+Dimensi : 55 cm x 90 cm x 60 cm
+Berat : 55 Kg",Impor,Barang Jadi,Listrik,Ya,Tidak,7,Unit,1,2. Mesin Jahit Hitam (BUTTERFLY JA 1-1) [7 Unit]
+kabupaten_agam__ngalau_indah_sejahtera__m_03,kabupaten_agam__ngalau_indah_sejahtera,Sumatera Barat,Kabupaten Agam,KUB Ngalau Indah Sejahtera,3,Mesin Obras Benang 3,"SINGER 81A1 (set meja, kaki, dinamo SINGER)","body dan rangka besi
+Dapat diubah menjadi jahitan tepi (neci)
+Kecepatan : 2.000 spm
+Panjang jahitan : dapat diatur 2,5 - 3,5 mm
+Kelengkapan : papan/meja obras, kaki, toolkit
+Dinamo 150 W original satu paket dari pabrikan mesin, tool kit obras (tiang benang, pinset, jarum)",Impor,Barang Jadi,Listrik,Ya,Tidak,1,Unit,1,"3. Mesin Obras Benang 3 (SINGER 81A1 (set meja, kaki, dinamo SINGER)) [1 Unit]"
