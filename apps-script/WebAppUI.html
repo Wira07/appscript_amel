@@ -282,6 +282,36 @@
           <a id="lnkAppSheet" class="btn btn-accent" href="#" target="_blank" rel="noopener">Buka Database AppSheet</a>
         </div>
       </div>
+
+      <div id="busyNote" class="muted hidden" style="margin-top:12px;font-weight:600;color:var(--brand);"></div>
+    </div>
+
+    <div class="card">
+      <div class="badge">REKAP OTOMATIS JAWABAN GOOGLE FORM (AMAN UNTUK FORM SALINAN)</div>
+      <h2 style="margin:0 0 8px;font-size:18px;color:var(--brand-dark);">Rapikan Spreadsheet Jawaban (Horizontal → Vertikal)</h2>
+      <p class="sub" style="margin-bottom:14px;">
+        Mengubah jawaban Google Form yang melebar ke samping (<code>Form Responses 1</code>) menjadi tab vertikal yang rapi:
+        <strong>Rekap_Kunjungan</strong>, <strong>Rekap_Verifikasi_Mesin</strong>, serta <strong>8 tab terpisah per Kab/Kota</strong> (sama seperti Excel asli).
+        <strong>Tidak mengubah Google Form</strong> yang sudah diedit manual.
+      </p>
+      <div class="url-row" style="margin-bottom:12px;">
+        <input id="txtResponseSheetUrl" class="url-input" type="text" placeholder="Tempel link atau ID Google Spreadsheet Jawaban di sini...">
+      </div>
+      <div class="actions" style="margin:0;">
+        <button id="btnAktifkanRekap" class="btn-primary" onclick="runAktifkanRekap()">
+          Rekap &amp; Aktifkan Otomatis (Saat Submit)
+        </button>
+        <button id="btnRekapSekarang" class="btn-secondary" onclick="runRekapSekarang()">
+          Rekap Ulang Semua Data Sekarang
+        </button>
+      </div>
+      <div id="rekapBox" class="alert ok">
+        <strong>Rekap Vertikal Selesai &amp; Aktif!</strong>
+        <div id="rekapMeta" class="muted" style="margin-top:4px;"></div>
+        <div class="actions" style="margin-top:10px;margin-bottom:0;">
+          <a id="lnkResponseSheet" class="btn btn-accent" href="#" target="_blank" rel="noopener">Buka Spreadsheet Jawaban</a>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -289,12 +319,20 @@
     var BATCH_SIZE = 8;
     var isRunning = false;
 
-    function setBusy(busy) {
+    function setBusy(busy, message) {
       isRunning = busy;
-      ['btnStartNew', 'btnResume', 'btnCreateSheet', 'btnCreateAppSheet', 'btnStartSheet', 'btnVerify'].forEach(function (id) {
+      ['btnStartNew', 'btnResume', 'btnCreateSheet', 'btnCreateAppSheet', 'btnStartSheet', 'btnVerify', 'btnAktifkanRekap', 'btnRekapSekarang'].forEach(function (id) {
         var el = document.getElementById(id);
         if (el) el.disabled = busy;
       });
+      var note = document.getElementById('busyNote');
+      if (busy && message) {
+        note.textContent = message;
+        note.classList.remove('hidden');
+      } else {
+        note.textContent = '';
+        note.classList.add('hidden');
+      }
     }
 
     function showError(err) {
@@ -358,6 +396,10 @@
       }
       if (status.appSheetUrl) {
         showAppSheetResult(status.appSheetUrl);
+      }
+      if (status.responseSheetUrl) {
+        document.getElementById('txtResponseSheetUrl').value = status.responseSheetUrl;
+        document.getElementById('lnkResponseSheet').href = status.responseSheetUrl;
       }
       if (status.phase === 'KUBS' || status.phase === 'FINALIZE') {
         document.getElementById('btnResume').classList.remove('hidden');
@@ -443,7 +485,7 @@
     function createSheet() {
       if (isRunning) return;
       clearError();
-      setBusy(true);
+      setBusy(true, 'Sedang membuat Google Sheet Master (Master_IK_KUB & Master_Spek_Mesin)...');
       google.script.run
         .withSuccessHandler(function (res) {
           setBusy(false);
@@ -456,7 +498,7 @@
     function createAppSheetDb() {
       if (isRunning) return;
       clearError();
-      setBusy(true);
+      setBusy(true, 'Sedang membuat Database AppSheet 6 tab (15-25 detik)...');
       google.script.run
         .withSuccessHandler(function (res) {
           setBusy(false);
@@ -464,6 +506,45 @@
         })
         .withFailureHandler(showError)
         .webAppCreateAppSheetDb();
+    }
+
+    function showRekapResult(res, modeLabel) {
+      var box = document.getElementById('rekapBox');
+      box.style.display = 'block';
+      document.getElementById('lnkResponseSheet').href = res.spreadsheetUrl || '#';
+      document.getElementById('txtResponseSheetUrl').value = res.spreadsheetUrl || '';
+      document.getElementById('rekapMeta').textContent =
+        modeLabel + ' | Sumber: "' + res.sourceSheet + '" | ' +
+        res.totalKunjungan + ' baris Rekap_Kunjungan, ' + res.totalMesin + ' baris Rekap_Verifikasi_Mesin, ' +
+        (res.totalKabTabs || 8) + ' tab Kab/Kota.';
+    }
+
+    function runAktifkanRekap() {
+      if (isRunning) return;
+      clearError();
+      var urlOrId = document.getElementById('txtResponseSheetUrl').value.trim();
+      setBusy(true, 'Memasang trigger otomatis & menyusun Rekap_Kunjungan + Rekap_Verifikasi_Mesin...');
+      google.script.run
+        .withSuccessHandler(function (res) {
+          setBusy(false);
+          showRekapResult(res, 'Trigger onFormSubmit AKTIF');
+        })
+        .withFailureHandler(showError)
+        .webAppAktifkanRekap(urlOrId);
+    }
+
+    function runRekapSekarang() {
+      if (isRunning) return;
+      clearError();
+      var urlOrId = document.getElementById('txtResponseSheetUrl').value.trim();
+      setBusy(true, 'Merekap ulang semua jawaban ke tab vertikal...');
+      google.script.run
+        .withSuccessHandler(function (res) {
+          setBusy(false);
+          showRekapResult(res, 'Rekap ulang selesai');
+        })
+        .withFailureHandler(showError)
+        .webAppRekapSekarang(urlOrId);
     }
 
     function copyField(inputId) {

@@ -35,6 +35,7 @@ function webAppGetStatus() {
     props.getProperty(PRRP_CONFIG.PROP_SHEET_ID_KEY) ||
     '';
   const appSheetId = props.getProperty(PRRP_CONFIG.PROP_APPSHEET_ID_KEY) || '';
+  const responseSheetId = props.getProperty(PRRP_CONFIG.PROP_RESPONSE_SHEET_ID_KEY) || '';
 
   let formInfo = { hasActiveForm: false, formId: '', editUrl: '', publishedUrl: '', totalItems: 0, formTitle: '' };
   if (activeFormId) {
@@ -58,6 +59,7 @@ function webAppGetStatus() {
     spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/' + sheetId + '/edit';
   }
   const appSheetUrl = appSheetId ? ('https://docs.google.com/spreadsheets/d/' + appSheetId + '/edit') : '';
+  const responseSheetUrl = responseSheetId ? ('https://docs.google.com/spreadsheets/d/' + responseSheetId + '/edit') : '';
 
   const totalKubs = flattenKubs_(PRRP_MASTER_DATA).length;
   return {
@@ -75,6 +77,8 @@ function webAppGetStatus() {
     spreadsheetUrl: spreadsheetUrl,
     appSheetId: appSheetId,
     appSheetUrl: appSheetUrl,
+    responseSheetId: responseSheetId,
+    responseSheetUrl: responseSheetUrl,
     completedAt: state && state.completedAt ? state.completedAt : '',
     counts: PRRP_MASTER_DATA.metadata.counts
   };
@@ -242,6 +246,42 @@ function webAppCreateAppSheetDb() {
     ok: true,
     spreadsheetId: ssId,
     spreadsheetUrl: 'https://docs.google.com/spreadsheets/d/' + ssId + '/edit'
+  };
+}
+
+/**
+ * Mengaktifkan rekap otomatis (onFormSubmit) + rekap awal pada Spreadsheet Jawaban Google Form.
+ * @param {string=} spreadsheetUrlOrId
+ * @return {Object}
+ */
+function webAppAktifkanRekap(spreadsheetUrlOrId) {
+  const res = aktifkanRekapOtomatis(spreadsheetUrlOrId);
+  return {
+    ok: true,
+    spreadsheetId: res.spreadsheetId,
+    spreadsheetUrl: res.spreadsheetUrl,
+    sourceSheet: res.sourceSheet,
+    totalKunjungan: res.totalKunjungan,
+    totalMesin: res.totalMesin,
+    totalKabTabs: res.totalKabTabs
+  };
+}
+
+/**
+ * Menjalankan rekap ulang seluruh jawaban pada Spreadsheet Jawaban Google Form.
+ * @param {string=} spreadsheetUrlOrId
+ * @return {Object}
+ */
+function webAppRekapSekarang(spreadsheetUrlOrId) {
+  const res = rekapSemuaJawaban(spreadsheetUrlOrId);
+  return {
+    ok: true,
+    spreadsheetId: res.spreadsheetId,
+    spreadsheetUrl: res.spreadsheetUrl,
+    sourceSheet: res.sourceSheet,
+    totalKunjungan: res.totalKunjungan,
+    totalMesin: res.totalMesin,
+    totalKabTabs: res.totalKabTabs
   };
 }
 

@@ -16,6 +16,7 @@
     "DataPayload.js",
     "SheetSync.js",
     "FormBuilder.js",
+    "RekapJawaban.js",
     "WebApp.js",
     "Kode.js",
     "WebAppUI.html"

@@ -90,3 +90,31 @@ function verifyFormStructure() {
 function resetBuildState() {
   resetBuildState_();
 }
+
+/**
+ * Memasang trigger rekap otomatis pada Spreadsheet Jawaban Google Form
+ * serta langsung merekap jawaban yang sudah ada ke tab Rekap_Kunjungan & Rekap_Verifikasi_Mesin.
+ * @param {string=} optionalSpreadsheetUrlOrId Link atau ID Google Spreadsheet Jawaban.
+ * @return {Object}
+ */
+function aktifkanRekapOtomatis(optionalSpreadsheetUrlOrId) {
+  return aktifkanRekapOtomatis_(optionalSpreadsheetUrlOrId);
+}
+
+/**
+ * Membangun ulang Rekap_Kunjungan & Rekap_Verifikasi_Mesin dari tab Form Responses
+ * tanpa mengubah Google Form maupun isi tab Form Responses 1.
+ * @param {string=} optionalSpreadsheetUrlOrId Link atau ID Google Spreadsheet Jawaban.
+ * @return {Object}
+ */
+function rekapSemuaJawaban(optionalSpreadsheetUrlOrId) {
+  return rekapSemuaJawaban_(optionalSpreadsheetUrlOrId);
+}
+
+/**
+ * Menghapus trigger otomatis rekap jawaban Google Form.
+ * @return {number}
+ */
+function hapusTriggerRekap() {
+  return hapusTriggerRekap_();
+}

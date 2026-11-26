@@ -15,7 +15,7 @@ const { execFileSync } = require('child_process');
 
 const ROOT = path.resolve(__dirname, '..');
 const GAS_DIR = path.join(ROOT, 'apps-script');
-const SCRIPT_FILES = ['Config.js', 'DataPayload.js', 'SheetSync.js', 'FormBuilder.js', 'WebApp.js', 'Kode.js'];
+const SCRIPT_FILES = ['Config.js', 'DataPayload.js', 'SheetSync.js', 'FormBuilder.js', 'RekapJawaban.js', 'WebApp.js', 'Kode.js'];
 
 function checkSyntax() {
   for (const file of SCRIPT_FILES) {
@@ -216,6 +216,8 @@ function createGasMockEnv() {
       this._nr = nr;
       this._nc = nc;
     }
+    getRow() { return this._r1; }
+    getSheet() { return this._sheet; }
     setNumberFormat() { return this; }
     setFontWeight() { return this; }
     setBackground() { return this; }
@@ -231,23 +233,48 @@ function createGasMockEnv() {
       return this;
     }
     getDisplayValues() {
-      return this._sheet._data.map((row) => row.slice());
+      const out = [];
+      for (let r = 0; r < this._nr; r++) {
+        const rr = this._r1 - 1 + r;
+        const srcRow = this._sheet._data[rr] || [];
+        const rowOut = [];
+        for (let c = 0; c < this._nc; c++) {
+          const val = srcRow[this._c1 - 1 + c];
+          rowOut.push(val === undefined || val === null ? '' : String(val));
+        }
+        out.push(rowOut);
+      }
+      return out;
+    }
+    getDisplayValue() {
+      return this.getDisplayValues()[0][0];
     }
   }
 
   class MockSheet {
-    constructor(name) {
+    constructor(name, parent = null) {
       this._name = name;
+      this._parent = parent;
       this._data = [];
       this._frozenRows = 0;
     }
     getName() { return this._name; }
     setName(n) { this._name = n; return this; }
+    getParent() { return this._parent; }
     setFrozenRows(n) { this._frozenRows = n; return this; }
-    getRange(r1, c1, nr, nc) { return new MockRange(this, r1, c1, nr, nc); }
+    clearContents() { this._data = []; return this; }
+    getLastRow() { return this._data.length; }
+    getLastColumn() {
+      let maxC = 0;
+      for (const r of this._data) {
+        if (r && r.length > maxC) maxC = r.length;
+      }
+      return maxC;
+    }
+    getRange(r1, c1, nr = 1, nc = 1) { return new MockRange(this, r1, c1, nr, nc); }
     getDataRange() {
       const nr = this._data.length;
-      const nc = nr ? this._data[0].length : 0;
+      const nc = this.getLastColumn();
       return new MockRange(this, 1, 1, nr, nc);
     }
   }
@@ -256,13 +283,13 @@ function createGasMockEnv() {
     constructor(id, title) {
       this._id = id;
       this._title = title;
-      this._sheets = [new MockSheet('Sheet1')];
+      this._sheets = [new MockSheet('Sheet1', this)];
     }
     getId() { return this._id; }
     getUrl() { return `https://docs.google.com/spreadsheets/d/${this._id}/edit`; }
     getSheets() { return this._sheets.slice(); }
     insertSheet(name) {
-      const sh = new MockSheet(name);
+      const sh = new MockSheet(name, this);
       this._sheets.push(sh);
       return sh;
     }
@@ -301,6 +328,7 @@ function createGasMockEnv() {
       }
     },
     SpreadsheetApp: {
+      getActiveSpreadsheet() { return null; },
       create(title) {
         const id = 'mock_ss_' + sheetCounter++;
         const ss = new MockSpreadsheet(id, title);
@@ -338,6 +366,23 @@ function createGasMockEnv() {
                     const tr = {
                       id: 'tr_' + triggerCounter++,
                       afterMs: ms,
+                      getHandlerFunction() { return fnName; }
+                    };
+                    triggers.push(tr);
+                    return tr;
+                  }
+                };
+              }
+            };
+          },
+          forSpreadsheet(ss) {
+            return {
+              onFormSubmit() {
+                return {
+                  create() {
+                    const tr = {
+                      id: 'tr_' + triggerCounter++,
+                      spreadsheetId: ss.getId(),
                       getHandlerFunction() { return fnName; }
                     };
                     triggers.push(tr);
@@ -669,6 +714,82 @@ function runAppSheetDatabaseTest() {
   console.log('PASS [AppSheet 6-Tab DB]: Verified Master_Wilayah(8), Master_KUB(52), Master_Anggota_IK(523), Master_Mesin(418), and 2 form sheets.');
 }
 
+function runExternalResponseRecapTest() {
+  const env = createGasMockEnv();
+  const { sandbox, getConst, sheetsDb, propsStore, triggers } = env;
+  const PRRP_CONFIG = getConst('PRRP_CONFIG');
+
+  // Create mock external Response Spreadsheet mimicking Amel's Form Responses 1
+  const respSs = sandbox.SpreadsheetApp.create('Form Jawaban Amel');
+  const srcSheet = respSs.getSheets()[0];
+  srcSheet.setName('Form Responses 1');
+
+  const headers = [
+    'Timestamp',
+    'Nama Petugas',
+    'Tanggal Kunjungan / Monitoring',
+    'Pilih Provinsi',
+    'Pilih Kabupaten / Kota (Aceh)',
+    'Pilih Nama KUB — Aceh Selatan',
+    'Verifikasi Penerimaan & Kesesuaian Spesifikasi Mesin (KUB Giat Bersama) [1. Mesin Bordir — Janome (10 Unit)]',
+    'Status Instalasi & Training Operator Mesin (KUB Giat Bersama) [1. Mesin Bordir [Inst: Ya | Train: Ya]]',
+    'Nama Perwakilan KUB yang Ditemui'
+  ];
+  const row1 = [
+    '26/11/2026 9:09:58', 'wira', '26/11/2026', 'Aceh', 'Aceh Selatan',
+    'KUB Giat Bersama', 'Sesuai Spek & Volume', 'Sudah Instalasi & Training', 'Ade Sartika'
+  ];
+  srcSheet._data = [headers, row1];
+
+  const fullUrl = `https://docs.google.com/spreadsheets/d/${respSs.getId()}/edit?gid=1494609208#gid=1494609208`;
+  const actRes = sandbox.webAppAktifkanRekap(fullUrl);
+  assert.strictEqual(actRes.ok, true);
+  assert.strictEqual(actRes.spreadsheetId, respSs.getId());
+  assert.strictEqual(actRes.totalKunjungan, 1);
+  assert.strictEqual(actRes.totalMesin, 1);
+  assert.strictEqual(actRes.totalKabTabs, 8);
+  assert.strictEqual(propsStore[PRRP_CONFIG.PROP_RESPONSE_SHEET_ID_KEY], respSs.getId());
+  assert.strictEqual(triggers.length, 1);
+  assert.strictEqual(triggers[0].getHandlerFunction(), 'onFormSubmitRekap');
+  assert.strictEqual(triggers[0].spreadsheetId, respSs.getId());
+
+  // Verify all 8 Kab/Kota tabs created and Aceh Selatan has row1
+  for (const tab of ['Aceh Singkil', 'Kota Subulussalam', 'Aceh Selatan', 'Nagan Raya', 'Aceh Barat', 'Batu Bara', 'Deli Serdang', 'Kabupaten Agam']) {
+    assert(respSs.getSheetByName(tab), `Missing Kab tab: ${tab}`);
+  }
+  assert.strictEqual(respSs.getSheetByName('Aceh Selatan').getLastRow(), 2);
+  assert.strictEqual(respSs.getSheetByName('Aceh Singkil').getLastRow(), 1);
+
+  // Simulate new Form submission via onFormSubmitRekap(e) using e.range.getSheet().getParent()
+  const row2 = [
+    '26/11/2026 10:00:00', 'Amel', '26/11/2026', 'Aceh', 'Aceh Selatan',
+    'KUB Giat Bersama', 'Belum Diterima', 'Belum Instalasi', 'Ade Sartika'
+  ];
+  srcSheet._data.push(row2);
+  sandbox.onFormSubmitRekap({ range: srcSheet.getRange(3, 1, 1, headers.length) });
+
+  const shKunj = respSs.getSheetByName('Rekap_Kunjungan');
+  const shMesin = respSs.getSheetByName('Rekap_Verifikasi_Mesin');
+  const shAcehSel = respSs.getSheetByName('Aceh Selatan');
+  assert.strictEqual(shKunj.getLastRow(), 3);
+  assert.strictEqual(shMesin.getLastRow(), 3);
+  assert.strictEqual(shAcehSel.getLastRow(), 3);
+
+  // Re-trigger for row 3 must not duplicate
+  sandbox.onFormSubmitRekap({ range: srcSheet.getRange(3, 1, 1, headers.length) });
+  assert.strictEqual(shKunj.getLastRow(), 3);
+  assert.strictEqual(shMesin.getLastRow(), 3);
+  assert.strictEqual(shAcehSel.getLastRow(), 3);
+
+  // Re-run via webAppRekapSekarang without arg uses persisted ID
+  const reRun = sandbox.webAppRekapSekarang('');
+  assert.strictEqual(reRun.totalKunjungan, 2);
+  assert.strictEqual(reRun.totalMesin, 2);
+  assert.strictEqual(reRun.totalKabTabs, 8);
+  assert.strictEqual(sandbox.webAppGetStatus().responseSheetId, respSs.getId());
+  console.log('PASS [External Response Recap]: URL extraction, 8 Kab/Kota split tabs, trigger install, backfill, and onFormSubmit increment all pass.');
+}
+
 checkSyntax();
 runEmbeddedAndVerificationTests();
 runBuildNewFormTest();
@@ -676,4 +797,5 @@ runResumableBatchingTest();
 runHybridSheetSyncRoundTripTest();
 runWebAppEndToEndTest();
 runAppSheetDatabaseTest();
+runExternalResponseRecapTest();
 console.log('\nALL TESTS PASSED!');
